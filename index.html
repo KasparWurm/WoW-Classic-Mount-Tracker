@@ -1,44 +1,82 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Classic → MoP Mount Tracker</title>
-  <link rel="icon" href="public/favicon.ico">
-  <link rel="stylesheet" href="src/styles.css" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Classic → MoP Mount Tracker</title>
+    <link rel="icon" href="public/favicon.ico">
+    <link rel="stylesheet" href="src/styles.css" />
 </head>
 <body>
-  <header>
-    <h1>Classic → MoP Mount Tracker</h1>
-    <div class="controls">
-      <input id="search" type="search" placeholder="Search mounts…" />
-      <select id="filter-expansion">
+    <header>
+        <h1>Classic → MoP Mount Tracker</h1>
+        <<div class="controls">
+    <input id="search" type="search" placeholder="Search mounts…" />
+    <select id="filter-expansion">
         <option value="">All Expansions</option>
-        <option>Vanilla</option><option>TBC</option><option>WotLK</option>
-        <option>Cata</option><option>MoP</option>
-      </select>
-      <select id="filter-source">
+        <option>Vanilla</option>
+        <option>TBC</option>
+        <option>WotLK</option>
+        <option>Cata</option>
+        <option>MoP</option>
+    </select>
+    <select id="filter-source">
         <option value="">All Sources</option>
-        <option>Vendor</option><option>Drop</option><option>Quest</option>
-        <option>Achievement</option><option>Reputation</option><option>Profession</option>
-        <option>Event</option><option>Other</option>
-      </select>
-      <button id="export-btn">Export</button>
-      <label class="import">
+        <option>Vendor</option>
+        <option>Drop</option>
+        <option>Quest</option>
+        <option>Achievement</option>
+        <option>Reputation</option>
+        <option>Profession</option>
+        <option>Event</option>
+        <option>Other</option>
+    </select>
+    <select id="filter-faction">
+        <option value="">All Factions</option>
+        <option>Alliance</option>
+        <option>Horde</option>
+        <option>Neutral</option>
+    </select>
+    <select id="filter-class">
+        <option value="">All Classes</option>
+        <option>Death Knight</option>
+        <option>Druid</option>
+        <option>Hunter</option>
+        <option>Mage</option>
+        <option>Paladin</option>
+        <option>Priest</option>
+        <option>Rogue</option>
+        <option>Shaman</option>
+        <option>Warlock</option>
+        <option>Warrior</option>
+        <!-- Add more as needed -->
+    </select>
+    <select id="filter-profession">
+        <option value="">All Professions</option>
+        <option>Alchemy</option>
+        <option>Engineering</option>
+        <option>Tailoring</option>
+        <option>Jewelcrafting</option>
+        <option>Fishing</option>
+        <option>Archaeology</option>
+        <!-- Add more as needed -->
+    </select>
+    <button id="export-btn">Export</button>
+    <label class="import">
         Import <input id="import-file" type="file" accept="application/json" hidden />
-      </label>
-      <button id="reset-btn">Reset</button>
-    </div>
-    <div id="progress"></div>
-  </header>
+    </label>
+    <button id="reset-btn">Reset</button>
+</div>
+        <div id="progress"></div>
+    </header>
 
-  <main id="list"></main>
+    <main id="list"></main>
 
-  <footer>
-    <p>Data is community-maintained. This project is not affiliated with Blizzard.</p>
-  </footer>
+    <footer>
+        <p>Data is community-maintained. This project is not affiliated with Blizzard.</p>
+    </footer>
 
-  <script type="module" src="src/app.js"></script>
+    <script type="module" src="src/app.js"></script>
 </body>
 </html>
 
