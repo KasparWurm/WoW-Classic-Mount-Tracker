@@ -1,1 +1,63 @@
+[
+  {
+    "id": "swift-brown-wolf",
+    "name": "Swift Brown Wolf",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Orgrimmar - Reputation: Exalted with Orgrimmar",
+    "npcOrVendor": "Ogunaro Wolfrunner",
+    "cost": "90g (before discounts)",
+    "notes": "Classic racial mount."
+  },
+  {
+    "id": "raven-lord",
+    "name": "Reins of the Raven Lord",
+    "expansion": "TBC",
+    "sourceType": "Drop",
+    "instance": "Sethekk Halls (Heroic)",
+    "zone": "Terokkar Forest",
+    "npcOrVendor": "Anzu",
+    "dropRateNote": "Low",
+    "notes": "Dungeon farm classic."
+  },
+  {
+    "id": "ashes-of-alar",
+    "name": "Ashes of Al'ar",
+    "expansion": "TBC",
+    "sourceType": "Drop",
+    "instance": "The Eye (Tempest Keep)",
+    "npcOrVendor": "Kael'thas Sunstrider",
+    "dropRateNote": "Very low",
+    "notes": "Iconic raid mount."
+  },
+  {
+    "id": "invincible",
+    "name": "Invincible's Reins",
+    "expansion": "WotLK",
+    "sourceType": "Drop",
+    "instance": "Icecrown Citadel",
+    "difficulty": "25H",
+    "npcOrVendor": "The Lich King",
+    "dropRateNote": "Very low",
+    "notes": "Lich King mythic-esque farm."
+  },
+  {
+    "id": "flametalon-of-alysrazor",
+    "name": "Flametalon of Alysrazor",
+    "expansion": "Cata",
+    "sourceType": "Drop",
+    "instance": "Firelands",
+    "npcOrVendor": "Alysrazor",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "heavenly-golden-cloud-serpent",
+    "name": "Heavenly Golden Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Achievement",
+    "sourceDetail": "Guild Glory of the Pandaria Raider",
+    "notes": "Account-wide once earned."
+  }
+]
 
