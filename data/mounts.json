@@ -1,2918 +1,3136 @@
 [
-    {
-        "id": "brown-wolf",
-        "name": "Brown Wolf",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Orgrimmar - Honored+",
-        "npcOrVendor": "Ogunaro Wolfrunner",
-        "cost": "10-90g"
-    },
-    {
-        "id": "timber-wolf",
-        "name": "Timber Wolf",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Orgrimmar - Honored+",
-        "npcOrVendor": "Ogunaro Wolfrunner",
-        "cost": "10-90g"
-    },
-    {
-        "id": "gray-wolf",
-        "name": "Gray Wolf",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Orgrimmar - Honored+",
-        "npcOrVendor": "Ogunaro Wolfrunner",
-        "cost": "10-90g"
-    },
-    {
-        "id": "swift-brown-wolf",
-        "name": "Swift Brown Wolf",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Orgrimmar - Exalted",
-        "npcOrVendor": "Ogunaro Wolfrunner",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-timber-wolf",
-        "name": "Swift Timber Wolf",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Orgrimmar - Exalted",
-        "npcOrVendor": "Ogunaro Wolfrunner",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-gray-wolf",
-        "name": "Swift Gray Wolf",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Orgrimmar - Exalted",
-        "npcOrVendor": "Ogunaro Wolfrunner",
-        "cost": "90g"
-    },
-    {
-        "id": "brown-kodo",
-        "name": "Brown Kodo",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Thunder Bluff - Honored+",
-        "npcOrVendor": "Harb Clawhoof",
-        "cost": "10-90g"
-    },
-    {
-        "id": "gray-kodo",
-        "name": "Gray Kodo",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Thunder Bluff - Honored+",
-        "npcOrVendor": "Harb Clawhoof",
-        "cost": "10-90g"
-    },
-    {
-        "id": "white-kodo",
-        "name": "White Kodo",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Thunder Bluff - Honored+",
-        "npcOrVendor": "Harb Clawhoof",
-        "cost": "10-90g"
-    },
-    {
-        "id": "swift-brown-kodo",
-        "name": "Swift Brown Kodo",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Thunder Bluff - Exalted",
-        "npcOrVendor": "Harb Clawhoof",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-blue-kodo",
-        "name": "Swift Blue Kodo",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Thunder Bluff - Exalted",
-        "npcOrVendor": "Harb Clawhoof",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-white-kodo",
-        "name": "Swift White Kodo",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Thunder Bluff - Exalted",
-        "npcOrVendor": "Harb Clawhoof",
-        "cost": "90g"
-    },
-    {
-        "id": "emerald-raptor",
-        "name": "Emerald Raptor",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Darkspear Trolls - Honored+",
-        "npcOrVendor": "Zjolnir",
-        "cost": "10-90g"
-    },
-    {
-        "id": "turquoise-raptor",
-        "name": "Turquoise Raptor",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Darkspear Trolls - Honored+",
-        "npcOrVendor": "Zjolnir",
-        "cost": "10-90g"
-    },
-    {
-        "id": "violet-raptor",
-        "name": "Violet Raptor",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Darkspear Trolls - Honored+",
-        "npcOrVendor": "Zjolnir",
-        "cost": "10-90g"
-    },
-    {
-        "id": "swift-blue-raptor",
-        "name": "Swift Blue Raptor",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Darkspear Trolls - Exalted",
-        "npcOrVendor": "Zjolnir",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-olive-raptor",
-        "name": "Swift Olive Raptor",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Darkspear Trolls - Exalted",
-        "npcOrVendor": "Zjolnir",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-orange-raptor",
-        "name": "Swift Orange Raptor",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Darkspear Trolls - Exalted",
-        "npcOrVendor": "Zjolnir",
-        "cost": "90g"
-    },
-    {
-        "id": "blue-skeletal-horse",
-        "name": "Blue Skeletal Horse",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Undercity - Honored+",
-        "npcOrVendor": "Zachariah Post",
-        "cost": "10-90g"
-    },
-    {
-        "id": "brown-skeletal-horse",
-        "name": "Brown Skeletal Horse",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Undercity - Honored+",
-        "npcOrVendor": "Zachariah Post",
-        "cost": "10-90g"
-    },
-    {
-        "id": "red-skeletal-horse",
-        "name": "Red Skeletal Horse",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Undercity - Honored+",
-        "npcOrVendor": "Zachariah Post",
-        "cost": "10-90g"
-    },
-    {
-        "id": "green-skeletal-warhorse",
-        "name": "Green Skeletal Warhorse",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Undercity - Exalted",
-        "npcOrVendor": "Zachariah Post",
-        "cost": "90g"
-    },
-    {
-        "id": "ochre-skeletal-warhorse",
-        "name": "Ochre Skeletal Warhorse",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Undercity - Exalted",
-        "npcOrVendor": "Zachariah Post",
-        "cost": "90g"
-    },
-    {
-        "id": "purple-skeletal-warhorse",
-        "name": "Purple Skeletal Warhorse",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Undercity - Exalted",
-        "npcOrVendor": "Zachariah Post",
-        "cost": "90g"
-    },
-    {
-        "id": "brown-horse",
-        "name": "Brown Horse",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Stormwind - Honored+",
-        "npcOrVendor": "Gregor MacVince",
-        "cost": "10-90g"
-    },
-    {
-        "id": "chestnut-mare",
-        "name": "Chestnut Mare",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Stormwind - Honored+",
-        "npcOrVendor": "Gregor MacVince",
-        "cost": "10-90g"
-    },
-    {
-        "id": "pinto",
-        "name": "Pinto",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Stormwind - Honored+",
-        "npcOrVendor": "Gregor MacVince",
-        "cost": "10-90g"
-    },
-    {
-        "id": "swift-brown-steed",
-        "name": "Swift Brown Steed",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Stormwind - Exalted",
-        "npcOrVendor": "Gregor MacVince",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-palomino",
-        "name": "Swift Palomino",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Stormwind - Exalted",
-        "npcOrVendor": "Gregor MacVince",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-white-steed",
-        "name": "Swift White Steed",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Stormwind - Exalted",
-        "npcOrVendor": "Gregor MacVince",
-        "cost": "90g"
-    },
-    {
-        "id": "brown-ram",
-        "name": "Brown Ram",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Ironforge - Honored+",
-        "npcOrVendor": "Veron Amberstill",
-        "cost": "10-90g"
-    },
-    {
-        "id": "gray-ram",
-        "name": "Gray Ram",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Ironforge - Honored+",
-        "npcOrVendor": "Veron Amberstill",
-        "cost": "10-90g"
-    },
-    {
-        "id": "white-ram",
-        "name": "White Ram",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Ironforge - Honored+",
-        "npcOrVendor": "Veron Amberstill",
-        "cost": "10-90g"
-    },
-    {
-        "id": "swift-brown-ram",
-        "name": "Swift Brown Ram",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Ironforge - Exalted",
-        "npcOrVendor": "Veron Amberstill",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-gray-ram",
-        "name": "Swift Gray Ram",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Ironforge - Exalted",
-        "npcOrVendor": "Veron Amberstill",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-white-ram",
-        "name": "Swift White Ram",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Ironforge - Exalted",
-        "npcOrVendor": "Veron Amberstill",
-        "cost": "90g"
-    },
-    {
-        "id": "blue-mechanostrider",
-        "name": "Blue Mechanostrider",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Gnomeregan Exiles - Honored+",
-        "npcOrVendor": "Milli Featherwhistle",
-        "cost": "10-90g"
-    },
-    {
-        "id": "green-mechanostrider",
-        "name": "Green Mechanostrider",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Gnomeregan Exiles - Honored+",
-        "npcOrVendor": "Milli Featherwhistle",
-        "cost": "10-90g"
-    },
-    {
-        "id": "red-mechanostrider",
-        "name": "Red Mechanostrider",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Gnomeregan Exiles - Honored+",
-        "npcOrVendor": "Milli Featherwhistle",
-        "cost": "10-90g"
-    },
-    {
-        "id": "unpainted-mechanostrider",
-        "name": "Unpainted Mechanostrider",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Gnomeregan Exiles - Honored+",
-        "npcOrVendor": "Milli Featherwhistle",
-        "cost": "10-90g"
-    },
-    {
-        "id": "swift-green-mechanostrider",
-        "name": "Swift Green Mechanostrider",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Gnomeregan Exiles - Exalted",
-        "npcOrVendor": "Milli Featherwhistle",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-white-mechanostrider",
-        "name": "Swift White Mechanostrider",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Gnomeregan Exiles - Exalted",
-        "npcOrVendor": "Milli Featherwhistle",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-yellow-mechanostrider",
-        "name": "Swift Yellow Mechanostrider",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Gnomeregan Exiles - Exalted",
-        "npcOrVendor": "Milli Featherwhistle",
-        "cost": "90g"
-    },
-    {
-        "id": "striped-frostsaber",
-        "name": "Striped Frostsaber",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Darnassus - Honored+",
-        "npcOrVendor": "Lelanai",
-        "cost": "10-90g"
-    },
-    {
-        "id": "spotted-frostsaber",
-        "name": "Spotted Frostsaber",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Darnassus - Honored+",
-        "npcOrVendor": "Lelanai",
-        "cost": "10-90g"
-    },
-    {
-        "id": "striped-nightsaber",
-        "name": "Striped Nightsaber",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Darnassus - Honored+",
-        "npcOrVendor": "Lelanai",
-        "cost": "10-90g"
-    },
-    {
-        "id": "swift-frostsaber",
-        "name": "Swift Frostsaber",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Darnassus - Exalted",
-        "npcOrVendor": "Lelanai",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-mistsaber",
-        "name": "Swift Mistsaber",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Darnassus - Exalted",
-        "npcOrVendor": "Lelanai",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-stormsaber",
-        "name": "Swift Stormsaber",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Darnassus - Exalted",
-        "npcOrVendor": "Lelanai",
-        "cost": "90g"
-    },
-    {
-        "id": "warlock-felsteed",
-        "name": "Felsteed",
-        "expansion": "Vanilla",
-        "sourceType": "Quest",
-        "sourceDetail": "Warlock class quest (level 40)",
-        "notes": "Class mount"
-    },
-    {
-        "id": "warlock-dreadsteed",
-        "name": "Dreadsteed",
-        "expansion": "Vanilla",
-        "sourceType": "Quest",
-        "sourceDetail": "Warlock class quest (level 60)",
-        "notes": "Class mount"
-    },
-    {
-        "id": "paladin-warhorse",
-        "name": "Warhorse",
-        "expansion": "Vanilla",
-        "sourceType": "Quest",
-        "sourceDetail": "Paladin class quest (level 40)",
-        "notes": "Class mount"
-    },
-    {
-        "id": "paladin-charger",
-        "name": "Charger",
-        "expansion": "Vanilla",
-        "sourceType": "Quest",
-        "sourceDetail": "Paladin class quest (level 60)",
-        "notes": "Class mount"
-    },
-    {
-        "id": "frostwolf-howler",
-        "name": "Frostwolf Howler",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Alterac Valley - Exalted with Frostwolf Clan"
-    },
-    {
-        "id": "stormpike-battle-charger",
-        "name": "Stormpike Battle Charger",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Alterac Valley - Exalted with Stormpike Guard"
-    },
-    {
-        "id": "black-war-kodo",
-        "name": "Black War Kodo",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "PvP vendor - battleground marks"
-    },
-    {
-        "id": "black-war-raptor",
-        "name": "Black War Raptor",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "PvP vendor - battleground marks"
-    },
-    {
-        "id": "black-war-wolf",
-        "name": "Black War Wolf",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "PvP vendor - battleground marks"
-    },
-    {
-        "id": "black-war-ram",
-        "name": "Black War Ram",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "PvP vendor - battleground marks"
-    },
-    {
-        "id": "black-war-steed",
-        "name": "Black War Steed",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "PvP vendor - battleground marks"
-    },
-    {
-        "id": "black-battlestrider",
-        "name": "Black Battlestrider",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "PvP vendor - battleground marks"
-    },
-    {
-        "id": "black-war-tiger",
-        "name": "Black War Tiger",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "PvP vendor - battleground marks"
-    },
-    {
-        "id": "winterspring-frostsaber",
-        "name": "Winterspring Frostsaber",
-        "expansion": "Vanilla",
-        "faction": "Alliance",
-        "sourceType": "Reputation",
-        "sourceDetail": "Wintersaber Trainers - Exalted",
-        "npcOrVendor": "Rivern Frostwind"
-    },
-    {
-        "id": "venomhide-raptor",
-        "name": "Venomhide Raptor",
-        "expansion": "Vanilla",
-        "faction": "Horde",
-        "sourceType": "Quest",
-        "sourceDetail": "Un'Goro - Venomhide Hatchling daily chain",
-        "npcOrVendor": "Mor'vek"
-    },
-    {
-        "id": "deathchargers-reins",
-        "name": "Deathcharger's Reins",
-        "expansion": "Vanilla",
-        "sourceType": "Drop",
-        "instance": "Stratholme",
-        "npcOrVendor": "Baron Rivendare",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "swift-zulian-tiger",
-        "name": "Swift Zulian Tiger",
-        "expansion": "Vanilla",
-        "sourceType": "Drop",
-        "instance": "Zul'Gurub",
-        "npcOrVendor": "High Priest Thekal",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "swift-razzashi-raptor",
-        "name": "Swift Razzashi Raptor",
-        "expansion": "Vanilla",
-        "sourceType": "Drop",
-        "instance": "Zul'Gurub",
-        "npcOrVendor": "Bloodlord Mandokir",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "blue-qiraji-battle-tank",
-        "name": "Blue Qiraji Battle Tank",
-        "expansion": "Vanilla",
-        "sourceType": "Drop",
-        "instance": "Ruins/Temple of Ahn'Qiraj",
-        "notes": "Usable only inside AQ"
-    },
-    {
-        "id": "green-qiraji-battle-tank",
-        "name": "Green Qiraji Battle Tank",
-        "expansion": "Vanilla",
-        "sourceType": "Drop",
-        "instance": "Ruins/Temple of Ahn'Qiraj",
-        "notes": "Usable only inside AQ"
-    },
-    {
-        "id": "yellow-qiraji-battle-tank",
-        "name": "Yellow Qiraji Battle Tank",
-        "expansion": "Vanilla",
-        "sourceType": "Drop",
-        "instance": "Ruins/Temple of Ahn'Qiraj",
-        "notes": "Usable only inside AQ"
-    },
-    {
-        "id": "red-qiraji-battle-tank",
-        "name": "Red Qiraji Battle Tank",
-        "expansion": "Vanilla",
-        "sourceType": "Drop",
-        "instance": "Ruins/Temple of Ahn'Qiraj",
-        "notes": "Usable only inside AQ"
-    },
-    {
-        "id": "black-qiraji-battle-tank",
-        "name": "Black Qiraji Battle Tank",
-        "expansion": "Vanilla",
-        "sourceType": "Quest",
-        "sourceDetail": "Opening of the Gates of Ahn'Qiraj - Scepter of the Shifting Sands",
-        "notes": "Event quest mount"
-    },
-    {
-        "id": "swift-blue-windrider",
-        "name": "Swift Blue Wind Rider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "100g",
-        "notes": "Epic flying (Horde)"
-    },
-    {
-        "id": "swift-red-windrider",
-        "name": "Swift Red Wind Rider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "100g",
-        "notes": "Epic flying (Horde)"
-    },
-    {
-        "id": "swift-green-windrider",
-        "name": "Swift Green Wind Rider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "100g",
-        "notes": "Epic flying (Horde)"
-    },
-    {
-        "id": "swift-yellow-windrider",
-        "name": "Swift Yellow Wind Rider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "100g",
-        "notes": "Epic flying (Horde)"
-    },
-    {
-        "id": "swift-blue-gryphon",
-        "name": "Swift Blue Gryphon",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "100g",
-        "notes": "Epic flying (Alliance)"
-    },
-    {
-        "id": "swift-green-gryphon",
-        "name": "Swift Green Gryphon",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "100g",
-        "notes": "Epic flying (Alliance)"
-    },
-    {
-        "id": "swift-purple-gryphon",
-        "name": "Swift Purple Gryphon",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "100g",
-        "notes": "Epic flying (Alliance)"
-    },
-    {
-        "id": "swift-red-gryphon",
-        "name": "Swift Red Gryphon",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "100g",
-        "notes": "Epic flying (Alliance)"
-    },
-    {
-        "id": "cenarion-war-hippogryph",
-        "name": "Cenarion War Hippogryph",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Cenarion Expedition - Exalted",
-        "npcOrVendor": "Fedryen Swiftspear",
-        "zone": "Zangarmarsh",
-        "notes": "First hippogryph mount"
-    },
-    {
-        "id": "onyx-netherwing-drake",
-        "name": "Onyx Netherwing Drake",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Netherwing - Exalted (daily quest chain)",
-        "npcOrVendor": "Drake Dealer Hurlunk",
-        "zone": "Shadowmoon Valley",
-        "notes": "One of six Netherwing colors"
-    },
-    {
-        "id": "blue-windrider",
-        "name": "Blue Wind Rider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "50g",
-        "notes": "Normal flying (Horde)"
-    },
-    {
-        "id": "green-windrider",
-        "name": "Green Wind Rider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "50g",
-        "notes": "Normal flying (Horde)"
-    },
-    {
-        "id": "red-windrider",
-        "name": "Red Wind Rider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "50g",
-        "notes": "Normal flying (Horde)"
-    },
-    {
-        "id": "yellow-windrider",
-        "name": "Yellow Wind Rider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "50g",
-        "notes": "Normal flying (Horde)"
-    },
-    {
-        "id": "blue-gryphon",
-        "name": "Blue Gryphon",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "50g",
-        "notes": "Normal flying (Alliance)"
-    },
-    {
-        "id": "green-gryphon",
-        "name": "Green Gryphon",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "50g",
-        "notes": "Normal flying (Alliance)"
-    },
-    {
-        "id": "purple-gryphon",
-        "name": "Purple Gryphon",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "50g",
-        "notes": "Normal flying (Alliance)"
-    },
-    {
-        "id": "red-gryphon",
-        "name": "Red Gryphon",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Flight mount vendor",
-        "zone": "Shadowmoon Valley",
-        "cost": "50g",
-        "notes": "Normal flying (Alliance)"
-    },
-    {
-        "id": "azure-netherwing-drake",
-        "name": "Azure Netherwing Drake",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Netherwing - Exalted (daily quest chain)",
-        "npcOrVendor": "Drake Dealer Hurlunk",
-        "zone": "Shadowmoon Valley",
-        "notes": "One of six Netherwing colors"
-    },
-    {
-        "id": "cobalt-netherwing-drake",
-        "name": "Cobalt Netherwing Drake",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Netherwing - Exalted (daily quest chain)",
-        "npcOrVendor": "Drake Dealer Hurlunk",
-        "zone": "Shadowmoon Valley",
-        "notes": "One of six Netherwing colors"
-    },
-    {
-        "id": "purple-netherwing-drake",
-        "name": "Purple Netherwing Drake",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Netherwing - Exalted",
-        "npcOrVendor": "Drake Dealer Hurlunk",
-        "zone": "Shadowmoon Valley"
-    },
-    {
-        "id": "veridian-netherwing-drake",
-        "name": "Veridian Netherwing Drake",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Netherwing - Exalted",
-        "npcOrVendor": "Drake Dealer Hurlunk",
-        "zone": "Shadowmoon Valley"
-    },
-    {
-        "id": "violet-netherwing-drake",
-        "name": "Violet Netherwing Drake",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Netherwing - Exalted",
-        "npcOrVendor": "Drake Dealer Hurlunk",
-        "zone": "Shadowmoon Valley"
-    },
-    {
-        "id": "blue-riding-nether-ray",
-        "name": "Blue Riding Nether Ray",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Sha'tari Skyguard - Exalted",
-        "npcOrVendor": "Grella",
-        "zone": "Terokkar Forest"
-    },
-    {
-        "id": "green-riding-nether-ray",
-        "name": "Green Riding Nether Ray",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Sha'tari Skyguard - Exalted",
-        "npcOrVendor": "Grella",
-        "zone": "Terokkar Forest"
-    },
-    {
-        "id": "purple-riding-nether-ray",
-        "name": "Purple Riding Nether Ray",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Sha'tari Skyguard - Exalted",
-        "npcOrVendor": "Grella",
-        "zone": "Terokkar Forest"
-    },
-    {
-        "id": "red-riding-nether-ray",
-        "name": "Red Riding Nether Ray",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Sha'tari Skyguard - Exalted",
-        "npcOrVendor": "Grella",
-        "zone": "Terokkar Forest"
-    },
-    {
-        "id": "silver-riding-nether-ray",
-        "name": "Silver Riding Nether Ray",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Sha'tari Skyguard - Exalted",
-        "npcOrVendor": "Grella",
-        "zone": "Terokkar Forest"
-    },
-    {
-        "id": "cobalt-riding-talbuk",
-        "name": "Cobalt Riding Talbuk",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
-        "npcOrVendor": "Trader Narasu / Provisioner Nasela",
-        "zone": "Nagrand"
-    },
-    {
-        "id": "white-riding-talbuk",
-        "name": "White Riding Talbuk",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
-        "npcOrVendor": "Trader Narasu / Provisioner Nasela",
-        "zone": "Nagrand"
-    },
-    {
-        "id": "silver-riding-talbuk",
-        "name": "Silver Riding Talbuk",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
-        "npcOrVendor": "Trader Narasu / Provisioner Nasela",
-        "zone": "Nagrand",
-        "notes": "Riding Talbuk"
-    },
-    {
-        "id": "tan-riding-talbuk",
-        "name": "Tan Riding Talbuk",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
-        "npcOrVendor": "Trader Narasu / Provisioner Nasela",
-        "zone": "Nagrand",
-        "notes": "Riding Talbuk"
-    },
-    {
-        "id": "dark-riding-talbuk",
-        "name": "Dark Riding Talbuk",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
-        "npcOrVendor": "Trader Narasu / Provisioner Nasela",
-        "zone": "Nagrand",
-        "notes": "Riding Talbuk"
-    },
-    {
-        "id": "cobalt-war-talbuk",
-        "name": "Cobalt War Talbuk",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
-        "npcOrVendor": "Trader Narasu / Provisioner Nasela",
-        "zone": "Nagrand",
-        "notes": "War Talbuk"
-    },
-    {
-        "id": "white-war-talbuk",
-        "name": "White War Talbuk",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
-        "npcOrVendor": "Trader Narasu / Provisioner Nasela",
-        "zone": "Nagrand",
-        "notes": "War Talbuk"
-    },
-    {
-        "id": "silver-war-talbuk",
-        "name": "Silver War Talbuk",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
-        "npcOrVendor": "Trader Narasu / Provisioner Nasela",
-        "zone": "Nagrand",
-        "notes": "War Talbuk"
-    },
-    {
-        "id": "tan-war-talbuk",
-        "name": "Tan War Talbuk",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
-        "npcOrVendor": "Trader Narasu / Provisioner Nasela",
-        "zone": "Nagrand",
-        "notes": "War Talbuk"
-    },
-    {
-        "id": "dark-war-talbuk",
-        "name": "Dark War Talbuk",
-        "expansion": "TBC",
-        "sourceType": "Reputation",
-        "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
-        "npcOrVendor": "Trader Narasu / Provisioner Nasela",
-        "zone": "Nagrand",
-        "notes": "War Talbuk"
-    },
-    {
-        "id": "fiery-warhorses-reins",
-        "name": "Fiery Warhorse's Reins",
-        "expansion": "TBC",
-        "sourceType": "Drop",
-        "instance": "Karazhan",
-        "zone": "Deadwind Pass",
-        "npcOrVendor": "Attumen the Huntsman",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "raven-lord",
-        "name": "Reins of the Raven Lord",
-        "expansion": "TBC",
-        "sourceType": "Drop",
-        "instance": "Sethekk Halls (Heroic)",
-        "zone": "Terokkar Forest",
-        "npcOrVendor": "Anzu",
-        "dropRateNote": "Low"
-    },
-    {
-        "id": "swift-white-hawkstrider",
-        "name": "Swift White Hawkstrider",
-        "expansion": "TBC",
-        "sourceType": "Drop",
-        "instance": "Magisters' Terrace (Heroic)",
-        "zone": "Isle of Quel'Danas",
-        "npcOrVendor": "Kael'thas Sunstrider",
-        "dropRateNote": "Low"
-    },
-    {
-        "id": "ashes-of-alar",
-        "name": "Ashes of Al'ar",
-        "expansion": "TBC",
-        "sourceType": "Drop",
-        "instance": "The Eye (Tempest Keep)",
-        "zone": "Netherstorm",
-        "npcOrVendor": "Kael'thas Sunstrider",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "amani-war-bear",
-        "name": "Amani War Bear",
-        "expansion": "TBC",
-        "sourceType": "Event",
-        "instance": "Zul'Aman",
-        "zone": "Ghostlands",
-        "sourceDetail": "Timed event - 4th chest",
-        "notes": "Removed after 3.0.2 (originally TBC-era reward)"
-    },
-    {
-        "id": "swift-brewfest-ram",
-        "name": "Swift Brewfest Ram",
-        "expansion": "TBC",
-        "sourceType": "Event",
-        "sourceDetail": "Brewfest - Coren Direbrew (Keg-Shaped Treasure Chest)",
-        "zone": "Blackrock Depths"
-    },
-    {
-        "id": "great-brewfest-kodo",
-        "name": "Great Brewfest Kodo",
-        "expansion": "TBC",
-        "sourceType": "Event",
-        "sourceDetail": "Brewfest - Coren Direbrew (Keg-Shaped Treasure Chest)",
-        "zone": "Blackrock Depths"
-    },
-    {
-        "id": "flying-machine",
-        "name": "Flying Machine Control",
-        "expansion": "TBC",
-        "sourceType": "Profession",
-        "sourceDetail": "Engineering 300+ (crafted)",
-        "notes": "Engineer-only flying mount"
-    },
-    {
-        "id": "turbo-charged-flying-machine",
-        "name": "Turbo-Charged Flying Machine Control",
-        "expansion": "TBC",
-        "sourceType": "Profession",
-        "sourceDetail": "Engineering 375 (crafted)",
-        "notes": "Engineer-only epic flying mount"
-    },
-    {
-        "id": "dark-riding-talbuk",
-        "name": "Dark Riding Talbuk",
-        "expansion": "TBC",
-        "sourceType": "Vendor",
-        "sourceDetail": "Halaa - faction must control; 70 Halaa Battle + 15 Halaa Research Tokens",
-        "npcOrVendor": "Coreiel (H) / Aldraan (A)",
-        "zone": "Nagrand"
-    },
-    {
-        "id": "brown-elekk",
-        "name": "Brown Elekk",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "The Exodar - Honored+",
-        "npcOrVendor": "Torallius the Pack Handler",
-        "zone": "Azuremyst Isle",
-        "cost": "10-90g"
-    },
-    {
-        "id": "gray-elekk",
-        "name": "Gray Elekk",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "The Exodar - Honored+",
-        "npcOrVendor": "Torallius the Pack Handler",
-        "zone": "Azuremyst Isle",
-        "cost": "10-90g"
-    },
-    {
-        "id": "purple-elekk",
-        "name": "Purple Elekk",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "The Exodar - Honored+",
-        "npcOrVendor": "Torallius the Pack Handler",
-        "zone": "Azuremyst Isle",
-        "cost": "10-90g"
-    },
-    {
-        "id": "great-blue-elekk",
-        "name": "Great Blue Elekk",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "The Exodar - Exalted",
-        "npcOrVendor": "Torallius the Pack Handler",
-        "zone": "Azuremyst Isle",
-        "cost": "90g"
-    },
-    {
-        "id": "great-green-elekk",
-        "name": "Great Green Elekk",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "The Exodar - Exalted",
-        "npcOrVendor": "Torallius the Pack Handler",
-        "zone": "Azuremyst Isle",
-        "cost": "90g"
-    },
-    {
-        "id": "great-purple-elekk",
-        "name": "Great Purple Elekk",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "The Exodar - Exalted",
-        "npcOrVendor": "Torallius the Pack Handler",
-        "zone": "Azuremyst Isle",
-        "cost": "90g"
-    },
-    {
-        "id": "blue-hawkstrider",
-        "name": "Blue Hawkstrider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Eversong Woods - Honored+",
-        "npcOrVendor": "Winaestra",
-        "zone": "Eversong Woods",
-        "cost": "10-90g"
-    },
-    {
-        "id": "purple-hawkstrider",
-        "name": "Purple Hawkstrider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Eversong Woods - Honored+",
-        "npcOrVendor": "Winaestra",
-        "zone": "Eversong Woods",
-        "cost": "10-90g"
-    },
-    {
-        "id": "red-hawkstrider",
-        "name": "Red Hawkstrider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Eversong Woods - Honored+",
-        "npcOrVendor": "Winaestra",
-        "zone": "Eversong Woods",
-        "cost": "10-90g"
-    },
-    {
-        "id": "black-hawkstrider",
-        "name": "Black Hawkstrider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Eversong Woods - Honored+",
-        "npcOrVendor": "Winaestra",
-        "zone": "Eversong Woods",
-        "cost": "10-90g"
-    },
-    {
-        "id": "swift-green-hawkstrider",
-        "name": "Swift Green Hawkstrider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Eversong Woods - Exalted",
-        "npcOrVendor": "Winaestra",
-        "zone": "Eversong Woods",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-pink-hawkstrider",
-        "name": "Swift Pink Hawkstrider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Eversong Woods - Exalted",
-        "npcOrVendor": "Winaestra",
-        "zone": "Eversong Woods",
-        "cost": "90g"
-    },
-    {
-        "id": "swift-purple-hawkstrider",
-        "name": "Swift Purple Hawkstrider",
-        "expansion": "TBC",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Eversong Woods - Exalted",
-        "npcOrVendor": "Winaestra",
-        "zone": "Eversong Woods",
-        "cost": "90g"
-    },
-    {
-        "id": "headless-horsemans-reins",
-        "name": "Headless Horseman's Reins",
-        "expansion": "TBC",
-        "sourceType": "Event",
-        "sourceDetail": "Hallow's End - Headless Horseman",
-        "instance": "Scarlet Monastery: Graveyard",
-        "zone": "Tirisfal Glades",
-        "dropRateNote": "Low"
-    },
-    {
-        "id": "swift-nether-drake",
-        "name": "Swift Nether Drake",
-        "expansion": "TBC",
-        "sourceType": "Event",
-        "sourceDetail": "Arena Season 1 - Gladiator reward",
-        "notes": "Awarded at season end"
-    },
-    {
-        "id": "merciless-nether-drake",
-        "name": "Merciless Nether Drake",
-        "expansion": "TBC",
-        "sourceType": "Event",
-        "sourceDetail": "Arena Season 2 - Gladiator reward",
-        "notes": "Awarded at season end"
-    },
-    {
-        "id": "vengeful-nether-drake",
-        "name": "Vengeful Nether Drake",
-        "expansion": "TBC",
-        "sourceType": "Event",
-        "sourceDetail": "Arena Season 3 - Gladiator reward",
-        "notes": "Awarded at season end"
-    },
-    {
-        "id": "brutal-nether-drake",
-        "name": "Brutal Nether Drake",
-        "expansion": "TBC",
-        "sourceType": "Event",
-        "sourceDetail": "Arena Season 4 - Gladiator reward",
-        "notes": "Awarded at season end"
-    },
-    {
-        "id": "dark-war-talbuk",
-        "name": "Dark War Talbuk",
-        "expansion": "TBC",
-        "sourceType": "Vendor",
-        "sourceDetail": "Halaa - requires control; costs Halaa tokens",
-        "npcOrVendor": "Coreiel (H) / Aldraan (A)",
-        "zone": "Nagrand"
-    },
-    {
-        "id": "black-war-elekk",
-        "name": "Black War Elekk",
-        "expansion": "TBC",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "PvP vendor - honor/marks",
-        "npcOrVendor": "Lieutenant Karter",
-        "zone": "Stormwind"
-    },
-    {
-        "id": "blue-proto-drake",
-        "name": "Blue Proto-Drake",
-        "expansion": "WotLK",
-        "sourceType": "Drop",
-        "instance": "Utgarde Pinnacle (Heroic)",
-        "zone": "Howling Fjord",
-        "npcOrVendor": "Skadi the Ruthless",
-        "dropRateNote": "Low"
-    },
-    {
-        "id": "red-proto-drake",
-        "name": "Red Proto-Drake",
-        "expansion": "WotLK",
-        "sourceType": "Achievement",
-        "sourceDetail": "Glory of the Hero"
-    },
-    {
-        "id": "rusted-proto-drake",
-        "name": "Rusted Proto-Drake",
-        "expansion": "WotLK",
-        "sourceType": "Achievement",
-        "sourceDetail": "Glory of the Ulduar Raider (10)"
-    },
-    {
-        "id": "ironbound-proto-drake",
-        "name": "Ironbound Proto-Drake",
-        "expansion": "WotLK",
-        "sourceType": "Achievement",
-        "sourceDetail": "Glory of the Ulduar Raider (25)"
-    },
-    {
-        "id": "plagued-proto-drake",
-        "name": "Plagued Proto-Drake",
-        "expansion": "WotLK",
-        "sourceType": "Achievement",
-        "sourceDetail": "Glory of the Raider (10)",
-        "notes": "Originally removed later; Classic rules may differ"
-    },
-    {
-        "id": "black-proto-drake",
-        "name": "Black Proto-Drake",
-        "expansion": "WotLK",
-        "sourceType": "Achievement",
-        "sourceDetail": "Glory of the Raider (25)",
-        "notes": "Originally removed later; Classic rules may differ"
-    },
-    {
-        "id": "bronze-drake",
-        "name": "Bronze Drake",
-        "expansion": "WotLK",
-        "sourceType": "Drop",
-        "instance": "The Culling of Stratholme (Heroic)",
-        "zone": "Caverns of Time",
-        "npcOrVendor": "Infinite Corruptor",
-        "dropRateNote": "Guaranteed on timer"
-    },
-    {
-        "id": "black-drake",
-        "name": "Black Drake",
-        "expansion": "WotLK",
-        "sourceType": "Drop",
-        "instance": "The Obsidian Sanctum",
-        "zone": "Dragonblight",
-        "npcOrVendor": "Sartharion (10) with 3 drakes",
-        "dropRateNote": "Guaranteed"
-    },
-    {
-        "id": "twilight-drake",
-        "name": "Twilight Drake",
-        "expansion": "WotLK",
-        "sourceType": "Drop",
-        "instance": "The Obsidian Sanctum",
-        "zone": "Dragonblight",
-        "npcOrVendor": "Sartharion (25) with 3 drakes",
-        "dropRateNote": "Guaranteed"
-    },
-    {
-        "id": "azure-drake",
-        "name": "Azure Drake",
-        "expansion": "WotLK",
-        "sourceType": "Drop",
-        "instance": "The Eye of Eternity",
-        "zone": "Borean Tundra",
-        "npcOrVendor": "Malygos (25)",
-        "dropRateNote": "Low"
-    },
-    {
-        "id": "blue-drake",
-        "name": "Blue Drake",
-        "expansion": "WotLK",
-        "sourceType": "Drop",
-        "instance": "The Eye of Eternity",
-        "zone": "Borean Tundra",
-        "npcOrVendor": "Malygos (10)",
-        "dropRateNote": "Low"
-    },
-    {
-        "id": "onyxian-drake",
-        "name": "Onyxian Drake",
-        "expansion": "WotLK",
-        "sourceType": "Drop",
-        "instance": "Onyxia's Lair",
-        "zone": "Dustwallow Marsh",
-        "npcOrVendor": "Onyxia",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "mimirons-head",
-        "name": "Mimiron's Head",
-        "expansion": "WotLK",
-        "sourceType": "Drop",
-        "instance": "Ulduar",
-        "zone": "Storm Peaks",
-        "npcOrVendor": "Yogg-Saron (25, 0 Keepers)",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "invincible",
-        "name": "Invincible's Reins",
-        "expansion": "WotLK",
-        "sourceType": "Drop",
-        "instance": "Icecrown Citadel",
-        "zone": "Icecrown",
-        "npcOrVendor": "The Lich King (25H)",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "bloodbathed-frostbrood-vanquisher",
-        "name": "Bloodbathed Frostbrood Vanquisher",
-        "expansion": "WotLK",
-        "sourceType": "Achievement",
-        "sourceDetail": "Glory of the Icecrown Raider (10)"
-    },
-    {
-        "id": "icebound-frostbrood-vanquisher",
-        "name": "Icebound Frostbrood Vanquisher",
-        "expansion": "WotLK",
-        "sourceType": "Achievement",
-        "sourceDetail": "Glory of the Icecrown Raider (25)"
-    },
-    {
-        "id": "albino-drake",
-        "name": "Albino Drake",
-        "expansion": "WotLK",
-        "sourceType": "Achievement",
-        "sourceDetail": "Leading the Cavalry (50 mounts)"
-    },
-    {
-        "id": "violet-proto-drake",
-        "name": "Violet Proto-Drake",
-        "expansion": "WotLK",
-        "sourceType": "Achievement",
-        "sourceDetail": "What A Long, Strange Trip It's Been"
-    },
-    {
-        "id": "white-polar-bear",
-        "name": "White Polar Bear",
-        "expansion": "WotLK",
-        "sourceType": "Quest",
-        "sourceDetail": "Hyldnir daily - Hyldnir Spoils",
-        "zone": "Storm Peaks",
-        "dropRateNote": "Low"
-    },
-    {
-        "id": "time-lost-proto-drake",
-        "name": "Time-Lost Proto-Drake",
-        "expansion": "WotLK",
-        "sourceType": "Other",
-        "sourceDetail": "Rare spawn",
-        "zone": "Storm Peaks",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "sea-turtle",
-        "name": "Sea Turtle",
-        "expansion": "WotLK",
-        "sourceType": "Profession",
-        "sourceDetail": "Fishing - Northrend pools",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "black-war-mammoth",
-        "name": "Black War Mammoth",
-        "expansion": "WotLK",
-        "faction": "Both",
-        "sourceType": "Vendor",
-        "sourceDetail": "Wintergrasp Quartermaster - Honor/Stone Keeper's Shards",
-        "zone": "Wintergrasp"
-    },
-    {
-        "id": "grand-black-war-mammoth",
-        "name": "Grand Black War Mammoth",
-        "expansion": "WotLK",
-        "sourceType": "Drop",
-        "instance": "Vault of Archavon",
-        "zone": "Wintergrasp",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "travelers-tundra-mammoth",
-        "name": "Traveler's Tundra Mammoth",
-        "expansion": "WotLK",
-        "sourceType": "Vendor",
-        "sourceDetail": "Mei Francis",
-        "zone": "Dalaran",
-        "cost": "16000g",
-        "notes": "Two vendors ride with you"
-    },
-    {
-        "id": "blue-dragonhawk",
-        "name": "Blue Dragonhawk",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Achievement",
-        "sourceDetail": "Mountain o' Mounts (100 mounts)"
-    },
-    {
-        "id": "red-dragonhawk",
-        "name": "Red Dragonhawk",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Achievement",
-        "sourceDetail": "Mountain o' Mounts (collect 100 mounts)",
-        "notes": "Horde reward."
-    },
-    {
-        "id": "argent-hippogryph",
-        "name": "Argent Hippogryph",
-        "expansion": "WotLK",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Any Quartermaster",
-        "npcOrVendor": "Dame Evniki Kapsalis",
-        "cost": "150 Champion's Seals",
-        "notes": "Available to both factions."
-    },
-    {
-        "id": "silver-covenant-hippogryph",
-        "name": "Silver Covenant Hippogryph",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Silver Covenant",
-        "npcOrVendor": "Hiren Loresong",
-        "cost": "150 Champion's Seals"
-    },
-    {
-        "id": "sunreaver-dragonhawk",
-        "name": "Sunreaver Dragonhawk",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Sunreavers",
-        "npcOrVendor": "Vasarin Redmorn",
-        "cost": "150 Champion's Seals"
-    },
-    {
-        "id": "queldorei-steed",
-        "name": "Quel'dorei Steed",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Silver Covenant",
-        "npcOrVendor": "Hiren Loresong",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "sunreaver-hawkstrider",
-        "name": "Sunreaver Hawkstrider",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Sunreavers",
-        "npcOrVendor": "Vasarin Redmorn",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "stormwind-steed",
-        "name": "Stormwind Steed",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Stormwind",
-        "npcOrVendor": "Corporal Arthur Flew",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "swift-gray-steed",
-        "name": "Swift Gray Steed",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Stormwind",
-        "npcOrVendor": "Corporal Arthur Flew",
-        "cost": "5 Champion's Seals + 500g"
-    },
-    {
-        "id": "ironforge-ram-at",
-        "name": "Ironforge Ram (AT)",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Ironforge",
-        "npcOrVendor": "Derrick Brindlebeard",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "turbostrider",
-        "name": "Turbostrider",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Gnomeregan",
-        "npcOrVendor": "Rillie Spindlenut",
-        "cost": "5 Champion's Seals + 500g"
-    },
-    {
-        "id": "thunder-bluff-kodo-at",
-        "name": "Thunder Bluff Kodo (AT)",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Thunder Bluff",
-        "npcOrVendor": "Doru Thunderhorn",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "darkspear-raptor-at",
-        "name": "Darkspear Raptor (AT)",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Darkspear",
-        "npcOrVendor": "Samamba",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "orgrimmar-wolf-at",
-        "name": "Orgrimmar Wolf (AT)",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Orgrimmar",
-        "npcOrVendor": "Freka Bloodaxe",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "forsaken-warhorse-at",
-        "name": "Forsaken Warhorse (AT)",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Undercity",
-        "npcOrVendor": "Eliza Killian",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "great-red-elekk",
-        "name": "Great Red Elekk",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament – Exodar",
-        "npcOrVendor": "Irisee",
-        "cost": "5 Champion's Seals + 500g"
-    },
-    {
-        "id": "armored-snowy-gryphon",
-        "name": "Armored Snowy Gryphon",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Dalaran – Mei Francis",
-        "npcOrVendor": "Mei Francis",
-        "cost": "2000g"
-    },
-    {
-        "id": "armored-blue-wind-rider",
-        "name": "Armored Blue Wind Rider",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Dalaran – Mei Francis",
-        "npcOrVendor": "Mei Francis",
-        "cost": "2000g"
-    },
-    {
-        "id": "armored-brown-bear",
-        "name": "Armored Brown Bear",
-        "expansion": "WotLK",
-        "sourceType": "Vendor",
-        "sourceDetail": "Dalaran – Mei Francis",
-        "npcOrVendor": "Mei Francis",
-        "cost": "750g"
-    },
-    {
-        "id": "wooly-mammoth",
-        "name": "Wooly Mammoth",
-        "expansion": "WotLK",
-        "sourceType": "Vendor",
-        "sourceDetail": "Dalaran – Mei Francis",
-        "npcOrVendor": "Mei Francis",
-        "cost": "10000g or 200 Emblems of Heroism"
-    },
-    {
-        "id": "ice-mammoth",
-        "name": "Ice Mammoth",
-        "expansion": "WotLK",
-        "sourceType": "Vendor",
-        "sourceDetail": "The Storm Peaks – Sons of Hodir (Revered)",
-        "npcOrVendor": "Lillehoff",
-        "cost": "1000g (base)"
-    },
-    {
-        "id": "grand-ice-mammoth",
-        "name": "Grand Ice Mammoth",
-        "expansion": "WotLK",
-        "sourceType": "Vendor",
-        "sourceDetail": "The Storm Peaks – Sons of Hodir (Exalted)",
-        "npcOrVendor": "Lillehoff",
-        "cost": "10000g (8000g at Exalted)"
-    },
-    {
-        "id": "black-war-bear-alliance",
-        "name": "Black War Bear (Alliance)",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Achievement",
-        "sourceDetail": "For The Alliance!",
-        "notes": "Kill the 4 enemy city leaders."
-    },
-    {
-        "id": "black-war-bear-horde",
-        "name": "Black War Bear (Horde)",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Achievement",
-        "sourceDetail": "For The Horde!",
-        "notes": "Kill the 4 enemy city leaders."
-    },
-    {
-        "id": "green-proto-drake",
-        "name": "Green Proto-Drake",
-        "expansion": "WotLK",
-        "sourceType": "Other",
-        "sourceDetail": "The Oracles – Mysterious Egg (hatch chance)",
-        "npcOrVendor": "Geen"
-    },
-    {
-        "id": "winged-steed-of-the-ebon-blade",
-        "name": "Winged Steed of the Ebon Blade",
-        "expansion": "WotLK",
-        "faction": "Both (Death Knight only)",
-        "sourceType": "Vendor",
-        "sourceDetail": "Acherus: The Ebon Hold – DK Class Vendor",
-        "npcOrVendor": "Dread Commander Thalanor",
-        "cost": "~1000g (reputation discounts apply)"
-    },
-    {
-        "id": "red-drake",
-        "name": "Red Drake",
-        "expansion": "WotLK",
-        "sourceType": "Vendor",
-        "sourceDetail": "Wyrmrest Accord - Exalted",
-        "npcOrVendor": "Cielstrasza",
-        "zone": "Dragonblight"
-    },
-    {
-        "id": "mekgineers-chopper",
-        "name": "Mekgineer's Chopper",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Profession",
-        "sourceDetail": "Engineering (crafted)"
-    },
-    {
-        "id": "mechano-hog",
-        "name": "Mechano-hog",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Profession",
-        "sourceDetail": "Engineering (crafted)"
-    },
-    {
-        "id": "flying-carpet",
-        "name": "Flying Carpet",
-        "expansion": "WotLK",
-        "sourceType": "Profession",
-        "sourceDetail": "Tailoring (crafted)"
-    },
-    {
-        "id": "magnificent-flying-carpet",
-        "name": "Magnificent Flying Carpet",
-        "expansion": "WotLK",
-        "sourceType": "Profession",
-        "sourceDetail": "Tailoring (crafted)"
-    },
-    {
-        "id": "x-45-heartbreaker",
-        "name": "X-45 Heartbreaker",
-        "expansion": "WotLK",
-        "sourceType": "Event",
-        "sourceDetail": "Love is in the Air - Crown Chemical Co.",
-        "instance": "Shadowfang Keep (Seasonal)",
-        "zone": "Silverpine Forest"
-    },
-    {
-        "id": "acherus-deathcharger",
-        "name": "Acherus Deathcharger",
-        "expansion": "WotLK",
-        "sourceType": "Quest",
-        "sourceDetail": "Death Knight starting quests",
-        "zone": "Eastern Plaguelands",
-        "notes": "Death Knight only"
-    },
-    {
-        "id": "argent-warhorse",
-        "name": "Argent Warhorse",
-        "expansion": "WotLK",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament - Crusader",
-        "npcOrVendor": "Dame Evniki Kapsalis",
-        "zone": "Icecrown",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "argent-charger",
-        "name": "Argent Charger",
-        "expansion": "WotLK",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament - Crusader (Paladin only)",
-        "npcOrVendor": "Dame Evniki Kapsalis",
-        "zone": "Icecrown",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "silvermoon-hawkstrider",
-        "name": "Silvermoon Hawkstrider",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament - Silvermoon",
-        "npcOrVendor": "Mokra the Skullcrusher / exchange vendor",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "swift-red-hawkstrider",
-        "name": "Swift Red Hawkstrider",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament - Silvermoon (swift)",
-        "cost": "5 Champion's Seals + 500g"
-    },
-    {
-        "id": "swift-orgrimmar-wolf",
-        "name": "Swift Orgrimmar Wolf",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament - Orgrimmar (swift)",
-        "cost": "5 Champion's Seals + 500g"
-    },
-    {
-        "id": "swift-darkspear-raptor",
-        "name": "Swift Darkspear Raptor",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament - Darkspear (swift)",
-        "cost": "5 Champion's Seals + 500g"
-    },
-    {
-        "id": "great-golden-kodo",
-        "name": "Great Golden Kodo",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament - Thunder Bluff (swift)",
-        "cost": "5 Champion's Seals + 500g"
-    },
-    {
-        "id": "swift-forsaken-warhorse",
-        "name": "Swift Forsaken Warhorse",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament - Undercity (swift)",
-        "cost": "5 Champion's Seals + 500g"
-    },
-    {
-        "id": "darnassian-nightsaber-at",
-        "name": "Darnassian Nightsaber",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament - Darnassus",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "gnomeregan-mechanostrider-at",
-        "name": "Gnomeregan Mechanostrider",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament - Gnomeregan",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "exodar-elekk-at",
-        "name": "Exodar Elekk",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament - Exodar",
-        "cost": "100 Champion's Seals"
-    },
-    {
-        "id": "swift-ironforge-ram",
-        "name": "Swift Ironforge Ram",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament - Ironforge (swift)",
-        "cost": "5 Champion's Seals + 500g"
-    },
-    {
-        "id": "swift-darnassian-mistsaber",
-        "name": "Swift Darnassian Mistsaber",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Argent Tournament - Darnassus (swift)",
-        "cost": "5 Champion's Seals + 500g"
-    },
-    {
-        "id": "swift-alliance-steed",
-        "name": "Swift Alliance Steed",
-        "expansion": "WotLK",
-        "faction": "Alliance",
-        "sourceType": "Achievement",
-        "sourceDetail": "A Tribute to Immortality (25) - Trial of the Grand Crusader"
-    },
-    {
-        "id": "swift-horde-wolf",
-        "name": "Swift Horde Wolf",
-        "expansion": "WotLK",
-        "faction": "Horde",
-        "sourceType": "Achievement",
-        "sourceDetail": "A Tribute to Immortality (25) - Trial of the Grand Crusader"
-    },
-    {
-        "id": "deadly-gladiators-frost-wyrm",
-        "name": "Deadly Gladiator's Frost Wyrm",
-        "expansion": "WotLK",
-        "sourceType": "Event",
-        "sourceDetail": "Arena Season 5 - Gladiator reward"
-    },
-    {
-        "id": "furious-gladiators-frost-wyrm",
-        "name": "Furious Gladiator's Frost Wyrm",
-        "expansion": "WotLK",
-        "sourceType": "Event",
-        "sourceDetail": "Arena Season 6 - Gladiator reward"
-    },
-    {
-        "id": "relentless-gladiators-frost-wyrm",
-        "name": "Relentless Gladiator's Frost Wyrm",
-        "expansion": "WotLK",
-        "sourceType": "Event",
-        "sourceDetail": "Arena Season 7 - Gladiator reward"
-    },
-    {
-        "id": "wrathful-gladiators-frost-wyrm",
-        "name": "Wrathful Gladiator's Frost Wyrm",
-        "expansion": "WotLK",
-        "sourceType": "Event",
-        "sourceDetail": "Arena Season 8 - Gladiator reward"
-    },
-    {
-        "id": "volcanic-stone-drake",
-        "name": "Volcanic Stone Drake",
-        "expansion": "Cata",
-        "sourceType": "Achievement",
-        "sourceDetail": "Glory of the Cataclysm Hero"
-    },
-    {
-        "id": "drake-of-the-east-wind",
-        "name": "Drake of the East Wind",
-        "expansion": "Cata",
-        "sourceType": "Achievement",
-        "sourceDetail": "Glory of the Cataclysm Raider"
-    },
-    {
-        "id": "drake-of-the-south-wind",
-        "name": "Drake of the South Wind",
-        "expansion": "Cata",
-        "sourceType": "Drop",
-        "instance": "Throne of the Four Winds",
-        "zone": "Uldum",
-        "npcOrVendor": "Al'Akir",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "drake-of-the-north-wind",
-        "name": "Drake of the North Wind",
-        "expansion": "Cata",
-        "sourceType": "Drop",
-        "instance": "The Vortex Pinnacle (Heroic)",
-        "zone": "Uldum",
-        "npcOrVendor": "Altairus",
-        "dropRateNote": "Low"
-    },
-    {
-        "id": "vitreous-stone-drake",
-        "name": "Vitreous Stone Drake",
-        "expansion": "Cata",
-        "sourceType": "Drop",
-        "instance": "The Stonecore (Heroic)",
-        "zone": "Deepholm",
-        "npcOrVendor": "Slabhide",
-        "dropRateNote": "Low"
-    },
-    {
-        "id": "phosphorescent-stone-drake",
-        "name": "Phosphorescent Stone Drake",
-        "expansion": "Cata",
-        "sourceType": "Other",
-        "sourceDetail": "Rare spawn Aeonaxx",
-        "zone": "Deepholm",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "sandstone-drake",
-        "name": "Sandstone Drake",
-        "expansion": "Cata",
-        "sourceType": "Profession",
-        "sourceDetail": "Alchemy - Vial of the Sands"
-    },
-    {
-        "id": "pureblood-fire-hawk",
-        "name": "Pureblood Fire Hawk",
-        "expansion": "Cata",
-        "sourceType": "Drop",
-        "instance": "Firelands",
-        "zone": "Mount Hyjal",
-        "npcOrVendor": "Ragnaros",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "corrupted-fire-hawk",
-        "name": "Corrupted Fire Hawk",
-        "expansion": "Cata",
-        "sourceType": "Achievement",
-        "sourceDetail": "Glory of the Firelands Raider"
-    },
-    {
-        "id": "flametalon-of-alysrazor",
-        "name": "Flametalon of Alysrazor",
-        "expansion": "Cata",
-        "sourceType": "Drop",
-        "instance": "Firelands",
-        "zone": "Mount Hyjal",
-        "npcOrVendor": "Alysrazor",
-        "dropRateNote": "Low"
-    },
-    {
-        "id": "flameward-hippogryph",
-        "name": "Flameward Hippogryph",
-        "expansion": "Cata",
-        "sourceType": "Vendor",
-        "sourceDetail": "Molten Front - Marks of the World Tree",
-        "zone": "Mount Hyjal"
-    },
-    {
-        "id": "drake-of-the-west-wind",
-        "name": "Drake of the West Wind",
-        "expansion": "Cata",
-        "sourceType": "Vendor",
-        "sourceDetail": "Tol Barad - Commendations (Baradin's Wardens (A)/Hellscream's Reach (H))",
-        "zone": "Tol Barad"
-    },
-    {
-        "id": "spectral-steed",
-        "name": "Spectral Steed",
-        "expansion": "Cata",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Tol Barad - Commendations (Baradin's Wardens)",
-        "zone": "Tol Barad"
-    },
-    {
-        "id": "spectral-wolf",
-        "name": "Spectral Wolf",
-        "expansion": "Cata",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Tol Barad - Commendations (Hellscream's Reach)",
-        "zone": "Tol Barad"
-    },
-    {
-        "id": "brown-riding-camel",
-        "name": "Brown Riding Camel",
-        "expansion": "Cata",
-        "sourceType": "Vendor",
-        "sourceDetail": "Ramkahen - Exalted",
-        "zone": "Uldum"
-    },
-    {
-        "id": "tan-riding-camel",
-        "name": "Tan Riding Camel",
-        "expansion": "Cata",
-        "sourceType": "Vendor",
-        "sourceDetail": "Ramkahen - Exalted",
-        "zone": "Uldum"
-    },
-    {
-        "id": "armored-razzashi-raptor",
-        "name": "Armored Razzashi Raptor",
-        "expansion": "Cata",
-        "sourceType": "Drop",
-        "instance": "Zul'Gurub",
-        "zone": "Northern Stranglethorn",
-        "npcOrVendor": "Bloodlord Mandokir",
-        "dropRateNote": "Low"
-    },
-    {
-        "id": "swift-zulian-panther",
-        "name": "Swift Zulian Panther",
-        "expansion": "Cata",
-        "sourceType": "Drop",
-        "instance": "Zul'Gurub",
-        "zone": "Northern Stranglethorn",
-        "npcOrVendor": "High Priestess Kilnara",
-        "dropRateNote": "Low"
-    },
-    {
-        "id": "vashjir-seahorse",
-        "name": "Vashj'ir Seahorse",
-        "expansion": "Cata",
-        "sourceType": "Quest",
-        "sourceDetail": "Vashj'ir quest line - The Abyssal Ride",
-        "zone": "Vashj'ir"
-    },
-    {
-        "id": "fossilized-raptor",
-        "name": "Fossilized Raptor",
-        "expansion": "Cata",
-        "sourceType": "Profession",
-        "sourceDetail": "Archaeology - Fossil"
-    },
-    {
-        "id": "ultramarine-qiraji-battle-tank",
-        "name": "Ultramarine Qiraji Battle Tank",
-        "expansion": "Cata",
-        "sourceType": "Profession",
-        "sourceDetail": "Archaeology - Tol'vir (rare)"
-    },
-    {
-        "id": "mountain-horse",
-        "name": "Mountain Horse",
-        "expansion": "Cata",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Tol Barad Peninsula - Vendor",
-        "zone": "Tol Barad Peninsula"
-    },
-    {
-        "id": "swift-mountain-horse",
-        "name": "Swift Mountain Horse",
-        "expansion": "Cata",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Tol Barad Peninsula - Vendor",
-        "zone": "Tol Barad Peninsula"
-    },
-    {
-        "id": "goblin-trike",
-        "name": "Goblin Trike",
-        "expansion": "Cata",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Orgrimmar - Bilgewater Cartel vendor"
-    },
-    {
-        "id": "goblin-turbo-trike",
-        "name": "Goblin Turbo-Trike",
-        "expansion": "Cata",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Orgrimmar - Bilgewater Cartel vendor"
-    },
-    {
-        "id": "blazing-drake",
-        "name": "Blazing Drake",
-        "expansion": "Cata",
-        "sourceType": "Drop",
-        "instance": "Dragon Soul",
-        "zone": "Caverns of Time - Wyrmrest",
-        "npcOrVendor": "Madness of Deathwing",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "life-binders-handmaiden",
-        "name": "Life-Binder's Handmaiden",
-        "expansion": "Cata",
-        "sourceType": "Drop",
-        "instance": "Dragon Soul (Heroic)",
-        "zone": "Caverns of Time - Wyrmrest",
-        "npcOrVendor": "Madness of Deathwing",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "experiment-12-b",
-        "name": "Experiment 12-B",
-        "expansion": "Cata",
-        "sourceType": "Drop",
-        "instance": "Dragon Soul",
-        "zone": "Caverns of Time - Wyrmrest",
-        "npcOrVendor": "Ultraxion",
-        "dropRateNote": "Low"
-    },
-    {
-        "id": "twilight-harbinger",
-        "name": "Twilight Harbinger",
-        "expansion": "Cata",
-        "sourceType": "Achievement",
-        "sourceDetail": "Glory of the Dragon Soul Raider"
-    },
-    {
-        "id": "dark-phoenix",
-        "name": "Dark Phoenix",
-        "expansion": "Cata",
-        "sourceType": "Vendor",
-        "sourceDetail": "Guild Vendor - Guild Glory of the Cataclysm Raider + Exalted",
-        "zone": "Stormwind/Orgrimmar"
-    },
-    {
-        "id": "kor-kron-annihilator",
-        "name": "Kor'kron Annihilator",
-        "expansion": "Cata",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Guild Vendor - Level 25 Guild + Exalted",
-        "zone": "Orgrimmar"
-    },
-    {
-        "id": "golden-king",
-        "name": "Reins of the Golden King",
-        "expansion": "Cata",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Guild Vendor - Level 25 Guild + Exalted",
-        "zone": "Stormwind"
-    },
-    {
-        "id": "darkmoon-dancing-bear",
-        "name": "Darkmoon Dancing Bear",
-        "expansion": "Cata",
-        "sourceType": "Vendor",
-        "sourceDetail": "Darkmoon Faire - Prize Vendor",
-        "cost": "180 Darkmoon Prize Tickets",
-        "zone": "Darkmoon Island"
-    },
-    {
-        "id": "grey-riding-camel",
-        "name": "Grey Riding Camel",
-        "expansion": "Cata",
-        "sourceType": "Other",
-        "sourceDetail": "Mysterious Camel Figurine -> Dormus the Camel-Hoarder",
-        "zone": "Uldum/Steam Pools"
-    },
-    {
-        "id": "subdued-seahorse",
-        "name": "Subdued Seahorse",
-        "expansion": "Cata",
-        "sourceType": "Drop",
-        "sourceDetail": "World rare Poseidus",
-        "zone": "Vashj'ir (open water)"
-    },
-    {
-        "id": "tyraels-charger",
-        "name": "Tyrael's Charger",
-        "expansion": "Cata",
-        "sourceType": "Event",
-        "sourceDetail": "Annual Pass promotion"
-    },
-    {
-        "id": "winged-guardian",
-        "name": "Winged Guardian",
-        "expansion": "Cata",
-        "sourceType": "Vendor",
-        "sourceDetail": "Blizzard Store"
-    },
-    {
-        "id": "heart-of-the-aspects",
-        "name": "Heart of the Aspects",
-        "expansion": "Cata",
-        "sourceType": "Vendor",
-        "sourceDetail": "Blizzard Store"
-    },
-    {
-        "id": "savage-raptor",
-        "name": "Savage Raptor",
-        "expansion": "Cata",
-        "sourceType": "Event",
-        "sourceDetail": "Trading Card Game - War of the Elements"
-    },
-    {
-        "id": "mottled-drake",
-        "name": "Mottled Drake",
-        "expansion": "Cata",
-        "sourceType": "Event",
-        "sourceDetail": "Trading Card Game - Worldbreaker"
-    },
-    {
-        "id": "wooly-white-rhino",
-        "name": "Wooly White Rhino",
-        "expansion": "Cata",
-        "sourceType": "Event",
-        "sourceDetail": "Trading Card Game - Icecrown"
-    },
-    {
-        "id": "swift-springstrider",
-        "name": "Swift Springstrider",
-        "expansion": "Cata",
-        "sourceType": "Event",
-        "sourceDetail": "Love is in the Air - Holiday vendor",
-        "cost": "270 Love Tokens"
-    },
-    {
-        "id": "vicious-war-steed",
-        "name": "Vicious War Steed",
-        "expansion": "Cata",
-        "faction": "Alliance",
-        "sourceType": "Event",
-        "sourceDetail": "Rated Battlegrounds - Seasonal PvP reward"
-    },
-    {
-        "id": "vicious-war-wolf",
-        "name": "Vicious War Wolf",
-        "expansion": "Cata",
-        "faction": "Horde",
-        "sourceType": "Event",
-        "sourceDetail": "Rated Battlegrounds - Seasonal PvP reward"
-    },
-    {
-        "id": "amani-battle-bear",
-        "name": "Amani Battle Bear",
-        "expansion": "Cata",
-        "sourceType": "Event",
-        "instance": "Zul'Aman",
-        "sourceDetail": "Timed event - 4th chest",
-        "zone": "Ghostlands"
-    },
-    {
-        "id": "obsidian-nightwing",
-        "name": "Obsidian Nightwing",
-        "expansion": "Cata",
-        "sourceType": "Event",
-        "sourceDetail": "Recruit-A-Friend reward"
-    },
-    {
-        "id": "amani-dragonhawk",
-        "name": "Amani Dragonhawk",
-        "expansion": "Cata",
-        "sourceType": "Event",
-        "sourceDetail": "Trading Card Game - Twilight of the Dragons"
-    },
-    {
-        "id": "vicious-gladiators-twilight-drake",
-        "name": "Vicious Gladiator's Twilight Drake",
-        "expansion": "Cata",
-        "sourceType": "Event",
-        "sourceDetail": "Arena Season 9 - Gladiator reward"
-    },
-    {
-        "id": "ruthless-gladiators-twilight-drake",
-        "name": "Ruthless Gladiator's Twilight Drake",
-        "expansion": "Cata",
-        "sourceType": "Event",
-        "sourceDetail": "Arena Season 10 - Gladiator reward"
-    },
-    {
-        "id": "cataclysmic-gladiators-twilight-drake",
-        "name": "Cataclysmic Gladiator's Twilight Drake",
-        "expansion": "Cata",
-        "sourceType": "Event",
-        "sourceDetail": "Arena Season 11 - Gladiator reward"
-    },
-    {
-        "id": "astral-cloud-serpent",
-        "name": "Reins of the Astral Cloud Serpent",
-        "expansion": "MoP",
-        "sourceType": "Drop",
-        "instance": "Mogu'shan Vaults",
-        "npcOrVendor": "Elegon",
-        "dropRateNote": "Very low",
-        "notes": "Raid drop."
-    },
-    {
-        "id": "heavenly-onyx-cloud-serpent",
-        "name": "Heavenly Onyx Cloud Serpent",
-        "expansion": "MoP",
-        "sourceType": "Drop",
-        "zone": "Kun-Lai Summit",
-        "npcOrVendor": "Sha of Anger",
-        "dropRateNote": "Very low",
-        "notes": "World boss drop."
-    },
-    {
-        "id": "thundering-cobalt-cloud-serpent",
-        "name": "Thundering Cobalt Cloud Serpent",
-        "expansion": "MoP",
-        "sourceType": "Drop",
-        "zone": "Isle of Thunder",
-        "npcOrVendor": "Nalak",
-        "dropRateNote": "Very low",
-        "notes": "World boss drop."
-    },
-    {
-        "id": "thundering-onyx-cloud-serpent",
-        "name": "Thundering Onyx Cloud Serpent",
-        "expansion": "MoP",
-        "sourceType": "Drop",
-        "zone": "Timeless Isle",
-        "npcOrVendor": "Huolon",
-        "dropRateNote": "Very low",
-        "notes": "Rare spawn drop."
-    },
-    {
-        "id": "thundering-ruby-cloud-serpent",
-        "name": "Thundering Ruby Cloud Serpent",
-        "expansion": "MoP",
-        "sourceType": "Other",
-        "zone": "Vale of Eternal Blossoms",
-        "npcOrVendor": "Alani",
-        "sourceDetail": "Use Sky Crystal (made from 10 Skyshards) to remove shield and defeat Alani",
-        "notes": "Guaranteed from Alani once tagged by Sky Crystal user."
-    },
-    {
-        "id": "azure-cloud-serpent",
-        "name": "Azure Cloud Serpent",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "zone": "The Jade Forest",
-        "npcOrVendor": "San Redscale",
-        "sourceDetail": "Order of the Cloud Serpent – Exalted",
-        "cost": "3000g",
-        "faction": "Both",
-        "notes": "Requires Cloud Serpent Riding."
-    },
-    {
-        "id": "jade-cloud-serpent",
-        "name": "Jade Cloud Serpent",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "zone": "The Jade Forest",
-        "npcOrVendor": "San Redscale",
-        "sourceDetail": "Order of the Cloud Serpent – Exalted",
-        "cost": "3000g",
-        "faction": "Both",
-        "notes": "Requires Cloud Serpent Riding."
-    },
-    {
-        "id": "golden-cloud-serpent",
-        "name": "Golden Cloud Serpent",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "zone": "The Jade Forest",
-        "npcOrVendor": "San Redscale",
-        "sourceDetail": "Order of the Cloud Serpent – Exalted",
-        "cost": "3000g",
-        "faction": "Both",
-        "notes": "Requires Cloud Serpent Riding."
-    },
-    {
-        "id": "blue-shado-pan-riding-tiger",
-        "name": "Blue Shado-Pan Riding Tiger",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "zone": "Townlong Steppes",
-        "npcOrVendor": "Rushi the Fox",
-        "sourceDetail": "Shado-Pan – Exalted",
-        "cost": "1500g",
-        "faction": "Both",
-        "notes": "Reputation mount."
-    },
-    {
-        "id": "green-shado-pan-riding-tiger",
-        "name": "Green Shado-Pan Riding Tiger",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "zone": "Townlong Steppes",
-        "npcOrVendor": "Rushi the Fox",
-        "sourceDetail": "Shado-Pan – Exalted",
-        "cost": "1500g",
-        "faction": "Both",
-        "notes": "Reputation mount."
-    },
-    {
-        "id": "red-shado-pan-riding-tiger",
-        "name": "Red Shado-Pan Riding Tiger",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "zone": "Townlong Steppes",
-        "npcOrVendor": "Rushi the Fox",
-        "sourceDetail": "Shado-Pan – Exalted",
-        "cost": "2500g",
-        "faction": "Both",
-        "notes": "Reputation mount."
-    },
-    {
-        "id": "clutch-of-ji-kun",
-        "name": "Clutch of Ji-Kun",
-        "expansion": "MoP",
-        "sourceType": "Drop",
-        "instance": "Throne of Thunder",
-        "npcOrVendor": "Ji-Kun",
-        "dropRateNote": "Very low",
-        "notes": "Raid drop."
-    },
-    {
-        "id": "spawn-of-horridon",
-        "name": "Spawn of Horridon",
-        "expansion": "MoP",
-        "sourceType": "Drop",
-        "instance": "Throne of Thunder",
-        "npcOrVendor": "Horridon",
-        "dropRateNote": "Low",
-        "notes": "Raid drop."
-    },
-    {
-        "id": "cobalt-primordial-direhorn",
-        "name": "Cobalt Primordial Direhorn",
-        "expansion": "MoP",
-        "sourceType": "Drop",
-        "zone": "Isle of Giants",
-        "npcOrVendor": "Oondasta",
-        "dropRateNote": "Very low",
-        "notes": "World boss drop."
-    },
-    {
-        "id": "amber-primordial-direhorn",
-        "name": "Amber Primordial Direhorn",
-        "expansion": "MoP",
-        "sourceType": "Drop",
-        "zone": "Pandaria",
-        "npcOrVendor": "Zandalari Warbringers",
-        "dropRateNote": "Low",
-        "notes": "Rare elites in multiple zones."
-    },
-    {
-        "id": "jade-primordial-direhorn",
-        "name": "Jade Primordial Direhorn",
-        "expansion": "MoP",
-        "sourceType": "Drop",
-        "zone": "Pandaria",
-        "npcOrVendor": "Zandalari Warbringers",
-        "dropRateNote": "Low",
-        "notes": "Rare elites in multiple zones."
-    },
-    {
-        "id": "slate-primordial-direhorn",
-        "name": "Slate Primordial Direhorn",
-        "expansion": "MoP",
-        "sourceType": "Drop",
-        "zone": "Pandaria",
-        "npcOrVendor": "Zandalari Warbringers",
-        "dropRateNote": "Low",
-        "notes": "Rare elites in multiple zones."
-    },
-    {
-        "id": "son-of-galleon",
-        "name": "Son of Galleon's Saddle",
-        "expansion": "MoP",
-        "sourceType": "Drop",
-        "zone": "Valley of the Four Winds",
-        "npcOrVendor": "Galleon",
-        "dropRateNote": "Very low",
-        "notes": "World boss drop."
-    },
-    {
-        "id": "azure-water-strider",
-        "name": "Reins of the Azure Water Strider",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "zone": "Krasarang Wilds",
-        "npcOrVendor": "Nat Pagle",
-        "sourceDetail": "The Anglers – Exalted",
-        "cost": "4000–5000g",
-        "faction": "Both",
-        "notes": "Walks on water."
-    },
-    {
-        "id": "thundering-jade-cloud-serpent",
-        "name": "Thundering Jade Cloud Serpent",
-        "expansion": "MoP",
-        "sourceType": "Achievement",
-        "sourceDetail": "Guild Glory of the Pandaria Raider (purchase from guild vendor)",
-        "cost": "3000g",
-        "faction": "Both",
-        "notes": "Guild achievement unlock required."
-    },
-    {
-        "id": "jade-pandaren-kite",
-        "name": "Jade Pandaren Kite",
-        "expansion": "MoP",
-        "sourceType": "Achievement",
-        "sourceDetail": "We’re Going to Need More Saddles (150 mounts)",
-        "faction": "Both",
-        "notes": "Auto-learned on achievement."
-    },
-    {
-        "id": "pandaren-kite",
-        "name": "Pandaren Kite",
-        "expansion": "MoP",
-        "sourceType": "Achievement",
-        "sourceDetail": "Pandaren Ambassador (Exalted with Pandaria core factions)",
-        "faction": "Both",
-        "notes": "Faction-colored variant (A/H)."
-    },
-    {
-        "id": "imperial-quilen",
-        "name": "Imperial Quilen",
-        "expansion": "MoP",
-        "sourceType": "Promotion",
-        "sourceDetail": "Mists of Pandaria Collector’s/Digital Deluxe (also Battle.net Shop)",
-        "faction": "Both",
-        "notes": "Promo/store mount."
-    },
-    {
-        "id": "grand-expedition-yak",
-        "name": "Grand Expedition Yak",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "zone": "Kun-Lai Summit (Grummle Bazaar)",
-        "npcOrVendor": "Uncle Bigpocket",
-        "cost": "120000g",
-        "faction": "Both",
-        "notes": "Transmog + repair vendors on mount."
-    },
-    {
-        "id": "blonde-riding-yak",
-        "name": "Blonde Riding Yak",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "zone": "Kun-Lai Summit (Grummle Bazaar)",
-        "npcOrVendor": "Uncle Bigpocket",
-        "cost": "3000g",
-        "faction": "Both",
-        "notes": "Standard yak mount."
-    },
-    {
-        "id": "armored-skyscreamer",
-        "name": "Armored Skyscreamer",
-        "expansion": "MoP",
-        "sourceType": "Achievement",
-        "sourceDetail": "Glory of the Thundering Raider"
-    },
-    {
-        "id": "korkron-juggernaut",
-        "name": "Kor'kron Juggernaut",
-        "expansion": "MoP",
-        "sourceType": "Drop",
-        "instance": "Siege of Orgrimmar (Mythic)",
-        "zone": "Vale of Eternal Blossoms",
-        "npcOrVendor": "Garrosh Hellscream",
-        "dropRateNote": "Very low"
-    },
-    {
-        "id": "korkron-war-wolf",
-        "name": "Kor'kron War Wolf",
-        "expansion": "MoP",
-        "sourceType": "Achievement",
-        "sourceDetail": "Ahead of the Curve: Garrosh Hellscream"
-    },
-    {
-        "id": "black-primal-raptor",
-        "name": "Black Primal Raptor",
-        "expansion": "MoP",
-        "sourceType": "Other",
-        "sourceDetail": "Primal Egg (hatches into one of three)",
-        "zone": "Isle of Giants"
-    },
-    {
-        "id": "red-primal-raptor",
-        "name": "Red Primal Raptor",
-        "expansion": "MoP",
-        "sourceType": "Other",
-        "sourceDetail": "Primal Egg (hatches into one of three)",
-        "zone": "Isle of Giants"
-    },
-    {
-        "id": "green-primal-raptor",
-        "name": "Green Primal Raptor",
-        "expansion": "MoP",
-        "sourceType": "Other",
-        "sourceDetail": "Primal Egg (hatches into one of three)",
-        "zone": "Isle of Giants"
-    },
-    {
-        "id": "bone-white-primal-raptor",
-        "name": "Bone-White Primal Raptor",
-        "expansion": "MoP",
-        "sourceType": "Other",
-        "sourceDetail": "9999 Giant Dinosaur Bones - Ku'ma",
-        "zone": "Isle of Giants"
-    },
-    {
-        "id": "sky-golem",
-        "name": "Sky Golem",
-        "expansion": "MoP",
-        "sourceType": "Profession",
-        "sourceDetail": "Engineering - Jard's Peculiar Energy Source (crafted)"
-    },
-    {
-        "id": "jade-panther",
-        "name": "Jade Panther",
-        "expansion": "MoP",
-        "sourceType": "Profession",
-        "sourceDetail": "Jewelcrafting (crafted)"
-    },
-    {
-        "id": "sunstone-panther",
-        "name": "Sunstone Panther",
-        "expansion": "MoP",
-        "sourceType": "Profession",
-        "sourceDetail": "Jewelcrafting (crafted)"
-    },
-    {
-        "id": "ruby-panther",
-        "name": "Ruby Panther",
-        "expansion": "MoP",
-        "sourceType": "Profession",
-        "sourceDetail": "Jewelcrafting (crafted)"
-    },
-    {
-        "id": "sapphire-panther",
-        "name": "Sapphire Panther",
-        "expansion": "MoP",
-        "sourceType": "Profession",
-        "sourceDetail": "Jewelcrafting (crafted)"
-    },
-    {
-        "id": "jeweled-onyx-panther",
-        "name": "Jeweled Onyx Panther",
-        "expansion": "MoP",
-        "sourceType": "Profession",
-        "sourceDetail": "Jewelcrafting (combine 4 panthers)"
-    },
-    {
-        "id": "red-flying-cloud",
-        "name": "Red Flying Cloud",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "sourceDetail": "The Lorewalkers - Exalted",
-        "npcOrVendor": "Tan Shin Tiao",
-        "zone": "Vale of Eternal Blossoms",
-        "cost": "600g"
-    },
-    {
-        "id": "amber-scorpion",
-        "name": "Amber Scorpion",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "sourceDetail": "The Klaxxi - Exalted",
-        "npcOrVendor": "Ambersmith Zikk",
-        "zone": "Dread Wastes",
-        "cost": "10000g"
-    },
-    {
-        "id": "brawlers-burly-mushan",
-        "name": "Brawler's Burly Mushan Beast",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "sourceDetail": "Brawler's Guild - Rank 8",
-        "zone": "Orgrimmar/Stormwind"
-    },
-    {
-        "id": "depleted-kyparium-rocket",
-        "name": "Depleted Kyparium Rocket",
-        "expansion": "MoP",
-        "sourceType": "Profession",
-        "sourceDetail": "Engineering (crafted)"
-    },
-    {
-        "id": "geosynchronous-world-spinner",
-        "name": "Geosynchronous World Spinner",
-        "expansion": "MoP",
-        "sourceType": "Profession",
-        "sourceDetail": "Engineering (crafted)"
-    },
-    {
-        "id": "swift-windsteed",
-        "name": "Swift Windsteed",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "sourceDetail": "Blizzard Store"
-    },
-    {
-        "id": "heavenly-golden-cloud-serpent",
-        "name": "Heavenly Golden Cloud Serpent",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "sourceDetail": "Emperor Shaohao - Exalted",
-        "npcOrVendor": "Mistweaver Ku",
-        "zone": "Timeless Isle",
-        "cost": "10000g"
-    },
-    {
-        "id": "grand-armored-gryphon",
-        "name": "Grand Armored Gryphon",
-        "expansion": "MoP",
-        "faction": "Alliance",
-        "sourceType": "Vendor",
-        "sourceDetail": "Operation: Shieldwall vendor",
-        "zone": "Krasarang Wilds"
-    },
-    {
-        "id": "grand-armored-wyvern",
-        "name": "Grand Armored Wyvern",
-        "expansion": "MoP",
-        "faction": "Horde",
-        "sourceType": "Vendor",
-        "sourceDetail": "Dominance Offensive vendor",
-        "zone": "Krasarang Wilds"
-    },
-    {
-        "id": "grand-gryphon",
-        "name": "Grand Gryphon",
-        "expansion": "MoP",
-        "faction": "Alliance",
-        "sourceType": "Quest",
-        "sourceDetail": "Landfall campaign",
-        "zone": "Krasarang Wilds"
-    },
-    {
-        "id": "grand-wyvern",
-        "name": "Grand Wyvern",
-        "expansion": "MoP",
-        "faction": "Horde",
-        "sourceType": "Quest",
-        "sourceDetail": "Landfall campaign",
-        "zone": "Krasarang Wilds"
-    },
-    {
-        "id": "crimson-riding-crane",
-        "name": "Crimson Riding Crane",
-        "expansion": "MoP",
-        "sourceType": "Vendor",
-        "sourceDetail": "Golden Lotus - Exalted",
-        "npcOrVendor": "Jaluu the Generous",
-        "zone": "Vale of Eternal Blossoms",
-        "cost": "2500g"
-    }
+  {
+    "id": "brown-wolf",
+    "name": "Brown Wolf",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Orgrimmar - Honored+",
+    "npcOrVendor": "Ogunaro Wolfrunner",
+    "cost": "10-90g"
+  },
+  {
+    "id": "timber-wolf",
+    "name": "Timber Wolf",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Orgrimmar - Honored+",
+    "npcOrVendor": "Ogunaro Wolfrunner",
+    "cost": "10-90g"
+  },
+  {
+    "id": "gray-wolf",
+    "name": "Gray Wolf",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Orgrimmar - Honored+",
+    "npcOrVendor": "Ogunaro Wolfrunner",
+    "cost": "10-90g"
+  },
+  {
+    "id": "swift-brown-wolf",
+    "name": "Swift Brown Wolf",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Orgrimmar - Exalted",
+    "npcOrVendor": "Ogunaro Wolfrunner",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-timber-wolf",
+    "name": "Swift Timber Wolf",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Orgrimmar - Exalted",
+    "npcOrVendor": "Ogunaro Wolfrunner",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-gray-wolf",
+    "name": "Swift Gray Wolf",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Orgrimmar - Exalted",
+    "npcOrVendor": "Ogunaro Wolfrunner",
+    "cost": "90g"
+  },
+  {
+    "id": "brown-kodo",
+    "name": "Brown Kodo",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Thunder Bluff - Honored+",
+    "npcOrVendor": "Harb Clawhoof",
+    "cost": "10-90g"
+  },
+  {
+    "id": "gray-kodo",
+    "name": "Gray Kodo",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Thunder Bluff - Honored+",
+    "npcOrVendor": "Harb Clawhoof",
+    "cost": "10-90g"
+  },
+  {
+    "id": "white-kodo",
+    "name": "White Kodo",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Thunder Bluff - Honored+",
+    "npcOrVendor": "Harb Clawhoof",
+    "cost": "10-90g"
+  },
+  {
+    "id": "swift-brown-kodo",
+    "name": "Swift Brown Kodo",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Thunder Bluff - Exalted",
+    "npcOrVendor": "Harb Clawhoof",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-blue-kodo",
+    "name": "Swift Blue Kodo",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Thunder Bluff - Exalted",
+    "npcOrVendor": "Harb Clawhoof",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-white-kodo",
+    "name": "Swift White Kodo",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Thunder Bluff - Exalted",
+    "npcOrVendor": "Harb Clawhoof",
+    "cost": "90g"
+  },
+  {
+    "id": "emerald-raptor",
+    "name": "Emerald Raptor",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darkspear Trolls - Honored+",
+    "npcOrVendor": "Zjolnir",
+    "cost": "10-90g"
+  },
+  {
+    "id": "turquoise-raptor",
+    "name": "Turquoise Raptor",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darkspear Trolls - Honored+",
+    "npcOrVendor": "Zjolnir",
+    "cost": "10-90g"
+  },
+  {
+    "id": "violet-raptor",
+    "name": "Violet Raptor",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darkspear Trolls - Honored+",
+    "npcOrVendor": "Zjolnir",
+    "cost": "10-90g"
+  },
+  {
+    "id": "swift-blue-raptor",
+    "name": "Swift Blue Raptor",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darkspear Trolls - Exalted",
+    "npcOrVendor": "Zjolnir",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-olive-raptor",
+    "name": "Swift Olive Raptor",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darkspear Trolls - Exalted",
+    "npcOrVendor": "Zjolnir",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-orange-raptor",
+    "name": "Swift Orange Raptor",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darkspear Trolls - Exalted",
+    "npcOrVendor": "Zjolnir",
+    "cost": "90g"
+  },
+  {
+    "id": "blue-skeletal-horse",
+    "name": "Blue Skeletal Horse",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Undercity - Honored+",
+    "npcOrVendor": "Zachariah Post",
+    "cost": "10-90g"
+  },
+  {
+    "id": "brown-skeletal-horse",
+    "name": "Brown Skeletal Horse",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Undercity - Honored+",
+    "npcOrVendor": "Zachariah Post",
+    "cost": "10-90g"
+  },
+  {
+    "id": "red-skeletal-horse",
+    "name": "Red Skeletal Horse",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Undercity - Honored+",
+    "npcOrVendor": "Zachariah Post",
+    "cost": "10-90g"
+  },
+  {
+    "id": "green-skeletal-warhorse",
+    "name": "Green Skeletal Warhorse",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Undercity - Exalted",
+    "npcOrVendor": "Zachariah Post",
+    "cost": "90g"
+  },
+  {
+    "id": "ochre-skeletal-warhorse",
+    "name": "Ochre Skeletal Warhorse",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Undercity - Exalted",
+    "npcOrVendor": "Zachariah Post",
+    "cost": "90g"
+  },
+  {
+    "id": "purple-skeletal-warhorse",
+    "name": "Purple Skeletal Warhorse",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Undercity - Exalted",
+    "npcOrVendor": "Zachariah Post",
+    "cost": "90g"
+  },
+  {
+    "id": "brown-horse",
+    "name": "Brown Horse",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Stormwind - Honored+",
+    "npcOrVendor": "Gregor MacVince",
+    "cost": "10-90g"
+  },
+  {
+    "id": "chestnut-mare",
+    "name": "Chestnut Mare",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Stormwind - Honored+",
+    "npcOrVendor": "Gregor MacVince",
+    "cost": "10-90g"
+  },
+  {
+    "id": "pinto",
+    "name": "Pinto",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Stormwind - Honored+",
+    "npcOrVendor": "Gregor MacVince",
+    "cost": "10-90g"
+  },
+  {
+    "id": "swift-brown-steed",
+    "name": "Swift Brown Steed",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Stormwind - Exalted",
+    "npcOrVendor": "Gregor MacVince",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-palomino",
+    "name": "Swift Palomino",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Stormwind - Exalted",
+    "npcOrVendor": "Gregor MacVince",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-white-steed",
+    "name": "Swift White Steed",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Stormwind - Exalted",
+    "npcOrVendor": "Gregor MacVince",
+    "cost": "90g"
+  },
+  {
+    "id": "brown-ram",
+    "name": "Brown Ram",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Ironforge - Honored+",
+    "npcOrVendor": "Veron Amberstill",
+    "cost": "10-90g"
+  },
+  {
+    "id": "gray-ram",
+    "name": "Gray Ram",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Ironforge - Honored+",
+    "npcOrVendor": "Veron Amberstill",
+    "cost": "10-90g"
+  },
+  {
+    "id": "white-ram",
+    "name": "White Ram",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Ironforge - Honored+",
+    "npcOrVendor": "Veron Amberstill",
+    "cost": "10-90g"
+  },
+  {
+    "id": "swift-brown-ram",
+    "name": "Swift Brown Ram",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Ironforge - Exalted",
+    "npcOrVendor": "Veron Amberstill",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-gray-ram",
+    "name": "Swift Gray Ram",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Ironforge - Exalted",
+    "npcOrVendor": "Veron Amberstill",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-white-ram",
+    "name": "Swift White Ram",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Ironforge - Exalted",
+    "npcOrVendor": "Veron Amberstill",
+    "cost": "90g"
+  },
+  {
+    "id": "blue-mechanostrider",
+    "name": "Blue Mechanostrider",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Gnomeregan Exiles - Honored+",
+    "npcOrVendor": "Milli Featherwhistle",
+    "cost": "10-90g"
+  },
+  {
+    "id": "green-mechanostrider",
+    "name": "Green Mechanostrider",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Gnomeregan Exiles - Honored+",
+    "npcOrVendor": "Milli Featherwhistle",
+    "cost": "10-90g"
+  },
+  {
+    "id": "red-mechanostrider",
+    "name": "Red Mechanostrider",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Gnomeregan Exiles - Honored+",
+    "npcOrVendor": "Milli Featherwhistle",
+    "cost": "10-90g"
+  },
+  {
+    "id": "unpainted-mechanostrider",
+    "name": "Unpainted Mechanostrider",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Gnomeregan Exiles - Honored+",
+    "npcOrVendor": "Milli Featherwhistle",
+    "cost": "10-90g"
+  },
+  {
+    "id": "swift-green-mechanostrider",
+    "name": "Swift Green Mechanostrider",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Gnomeregan Exiles - Exalted",
+    "npcOrVendor": "Milli Featherwhistle",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-white-mechanostrider",
+    "name": "Swift White Mechanostrider",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Gnomeregan Exiles - Exalted",
+    "npcOrVendor": "Milli Featherwhistle",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-yellow-mechanostrider",
+    "name": "Swift Yellow Mechanostrider",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Gnomeregan Exiles - Exalted",
+    "npcOrVendor": "Milli Featherwhistle",
+    "cost": "90g"
+  },
+  {
+    "id": "striped-frostsaber",
+    "name": "Striped Frostsaber",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darnassus - Honored+",
+    "npcOrVendor": "Lelanai",
+    "cost": "10-90g"
+  },
+  {
+    "id": "spotted-frostsaber",
+    "name": "Spotted Frostsaber",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darnassus - Honored+",
+    "npcOrVendor": "Lelanai",
+    "cost": "10-90g"
+  },
+  {
+    "id": "striped-nightsaber",
+    "name": "Striped Nightsaber",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darnassus - Honored+",
+    "npcOrVendor": "Lelanai",
+    "cost": "10-90g"
+  },
+  {
+    "id": "swift-frostsaber",
+    "name": "Swift Frostsaber",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darnassus - Exalted",
+    "npcOrVendor": "Lelanai",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-mistsaber",
+    "name": "Swift Mistsaber",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darnassus - Exalted",
+    "npcOrVendor": "Lelanai",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-stormsaber",
+    "name": "Swift Stormsaber",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darnassus - Exalted",
+    "npcOrVendor": "Lelanai",
+    "cost": "90g"
+  },
+  {
+    "id": "warlock-felsteed",
+    "name": "Felsteed",
+    "expansion": "Vanilla",
+    "sourceType": "Quest",
+    "sourceDetail": "Warlock class quest (level 40)",
+    "notes": "Class mount"
+  },
+  {
+    "id": "warlock-dreadsteed",
+    "name": "Dreadsteed",
+    "expansion": "Vanilla",
+    "sourceType": "Quest",
+    "sourceDetail": "Warlock class quest (level 60)",
+    "notes": "Class mount"
+  },
+  {
+    "id": "paladin-warhorse",
+    "name": "Warhorse",
+    "expansion": "Vanilla",
+    "sourceType": "Quest",
+    "sourceDetail": "Paladin class quest (level 40)",
+    "notes": "Class mount"
+  },
+  {
+    "id": "paladin-charger",
+    "name": "Charger",
+    "expansion": "Vanilla",
+    "sourceType": "Quest",
+    "sourceDetail": "Paladin class quest (level 60)",
+    "notes": "Class mount"
+  },
+  {
+    "id": "frostwolf-howler",
+    "name": "Frostwolf Howler",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Alterac Valley - Exalted with Frostwolf Clan"
+  },
+  {
+    "id": "stormpike-battle-charger",
+    "name": "Stormpike Battle Charger",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Alterac Valley - Exalted with Stormpike Guard"
+  },
+  {
+    "id": "black-war-kodo",
+    "name": "Black War Kodo",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "PvP vendor - battleground marks"
+  },
+  {
+    "id": "black-war-raptor",
+    "name": "Black War Raptor",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "PvP vendor - battleground marks"
+  },
+  {
+    "id": "black-war-wolf",
+    "name": "Black War Wolf",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "PvP vendor - battleground marks"
+  },
+  {
+    "id": "black-war-ram",
+    "name": "Black War Ram",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "PvP vendor - battleground marks"
+  },
+  {
+    "id": "black-war-steed",
+    "name": "Black War Steed",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "PvP vendor - battleground marks"
+  },
+  {
+    "id": "black-battlestrider",
+    "name": "Black Battlestrider",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "PvP vendor - battleground marks"
+  },
+  {
+    "id": "black-war-tiger",
+    "name": "Black War Tiger",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "PvP vendor - battleground marks"
+  },
+  {
+    "id": "winterspring-frostsaber",
+    "name": "Winterspring Frostsaber",
+    "expansion": "Vanilla",
+    "faction": "Alliance",
+    "sourceType": "Reputation",
+    "sourceDetail": "Wintersaber Trainers - Exalted",
+    "npcOrVendor": "Rivern Frostwind"
+  },
+  {
+    "id": "venomhide-raptor",
+    "name": "Venomhide Raptor",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Quest",
+    "sourceDetail": "Un'Goro - Venomhide Hatchling daily chain",
+    "npcOrVendor": "Mor'vek"
+  },
+  {
+    "id": "deathchargers-reins",
+    "name": "Deathcharger's Reins",
+    "expansion": "Vanilla",
+    "sourceType": "Drop",
+    "instance": "Stratholme",
+    "npcOrVendor": "Baron Rivendare",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "swift-zulian-tiger",
+    "name": "Swift Zulian Tiger",
+    "expansion": "Vanilla",
+    "sourceType": "Drop",
+    "instance": "Zul'Gurub",
+    "npcOrVendor": "High Priest Thekal",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "swift-razzashi-raptor",
+    "name": "Swift Razzashi Raptor",
+    "expansion": "Vanilla",
+    "sourceType": "Drop",
+    "instance": "Zul'Gurub",
+    "npcOrVendor": "Bloodlord Mandokir",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "blue-qiraji-battle-tank",
+    "name": "Blue Qiraji Battle Tank",
+    "expansion": "Vanilla",
+    "sourceType": "Drop",
+    "instance": "Ruins/Temple of Ahn'Qiraj",
+    "notes": "Usable only inside AQ"
+  },
+  {
+    "id": "green-qiraji-battle-tank",
+    "name": "Green Qiraji Battle Tank",
+    "expansion": "Vanilla",
+    "sourceType": "Drop",
+    "instance": "Ruins/Temple of Ahn'Qiraj",
+    "notes": "Usable only inside AQ"
+  },
+  {
+    "id": "yellow-qiraji-battle-tank",
+    "name": "Yellow Qiraji Battle Tank",
+    "expansion": "Vanilla",
+    "sourceType": "Drop",
+    "instance": "Ruins/Temple of Ahn'Qiraj",
+    "notes": "Usable only inside AQ"
+  },
+  {
+    "id": "red-qiraji-battle-tank",
+    "name": "Red Qiraji Battle Tank",
+    "expansion": "Vanilla",
+    "sourceType": "Drop",
+    "instance": "Ruins/Temple of Ahn'Qiraj",
+    "notes": "Usable only inside AQ"
+  },
+  {
+    "id": "black-qiraji-battle-tank",
+    "name": "Black Qiraji Battle Tank",
+    "expansion": "Vanilla",
+    "sourceType": "Quest",
+    "sourceDetail": "Opening of the Gates of Ahn'Qiraj - Scepter of the Shifting Sands",
+    "notes": "Event quest mount"
+  },
+  {
+    "id": "swift-blue-windrider",
+    "name": "Swift Blue Wind Rider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "100g",
+    "notes": "Epic flying (Horde)"
+  },
+  {
+    "id": "swift-red-windrider",
+    "name": "Swift Red Wind Rider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "100g",
+    "notes": "Epic flying (Horde)"
+  },
+  {
+    "id": "swift-green-windrider",
+    "name": "Swift Green Wind Rider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "100g",
+    "notes": "Epic flying (Horde)"
+  },
+  {
+    "id": "swift-yellow-windrider",
+    "name": "Swift Yellow Wind Rider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "100g",
+    "notes": "Epic flying (Horde)"
+  },
+  {
+    "id": "swift-blue-gryphon",
+    "name": "Swift Blue Gryphon",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "100g",
+    "notes": "Epic flying (Alliance)"
+  },
+  {
+    "id": "swift-green-gryphon",
+    "name": "Swift Green Gryphon",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "100g",
+    "notes": "Epic flying (Alliance)"
+  },
+  {
+    "id": "swift-purple-gryphon",
+    "name": "Swift Purple Gryphon",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "100g",
+    "notes": "Epic flying (Alliance)"
+  },
+  {
+    "id": "swift-red-gryphon",
+    "name": "Swift Red Gryphon",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "100g",
+    "notes": "Epic flying (Alliance)"
+  },
+  {
+    "id": "cenarion-war-hippogryph",
+    "name": "Cenarion War Hippogryph",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Cenarion Expedition - Exalted",
+    "npcOrVendor": "Fedryen Swiftspear",
+    "zone": "Zangarmarsh",
+    "notes": "First hippogryph mount"
+  },
+  {
+    "id": "onyx-netherwing-drake",
+    "name": "Onyx Netherwing Drake",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Netherwing - Exalted (daily quest chain)",
+    "npcOrVendor": "Drake Dealer Hurlunk",
+    "zone": "Shadowmoon Valley",
+    "notes": "One of six Netherwing colors"
+  },
+  {
+    "id": "blue-windrider",
+    "name": "Blue Wind Rider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "50g",
+    "notes": "Normal flying (Horde)"
+  },
+  {
+    "id": "green-windrider",
+    "name": "Green Wind Rider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "50g",
+    "notes": "Normal flying (Horde)"
+  },
+  {
+    "id": "red-windrider",
+    "name": "Red Wind Rider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "50g",
+    "notes": "Normal flying (Horde)"
+  },
+  {
+    "id": "yellow-windrider",
+    "name": "Yellow Wind Rider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "50g",
+    "notes": "Normal flying (Horde)"
+  },
+  {
+    "id": "blue-gryphon",
+    "name": "Blue Gryphon",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "50g",
+    "notes": "Normal flying (Alliance)"
+  },
+  {
+    "id": "green-gryphon",
+    "name": "Green Gryphon",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "50g",
+    "notes": "Normal flying (Alliance)"
+  },
+  {
+    "id": "purple-gryphon",
+    "name": "Purple Gryphon",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "50g",
+    "notes": "Normal flying (Alliance)"
+  },
+  {
+    "id": "red-gryphon",
+    "name": "Red Gryphon",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Flight mount vendor",
+    "zone": "Shadowmoon Valley",
+    "cost": "50g",
+    "notes": "Normal flying (Alliance)"
+  },
+  {
+    "id": "azure-netherwing-drake",
+    "name": "Azure Netherwing Drake",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Netherwing - Exalted (daily quest chain)",
+    "npcOrVendor": "Drake Dealer Hurlunk",
+    "zone": "Shadowmoon Valley",
+    "notes": "One of six Netherwing colors"
+  },
+  {
+    "id": "cobalt-netherwing-drake",
+    "name": "Cobalt Netherwing Drake",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Netherwing - Exalted (daily quest chain)",
+    "npcOrVendor": "Drake Dealer Hurlunk",
+    "zone": "Shadowmoon Valley",
+    "notes": "One of six Netherwing colors"
+  },
+  {
+    "id": "purple-netherwing-drake",
+    "name": "Purple Netherwing Drake",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Netherwing - Exalted",
+    "npcOrVendor": "Drake Dealer Hurlunk",
+    "zone": "Shadowmoon Valley"
+  },
+  {
+    "id": "veridian-netherwing-drake",
+    "name": "Veridian Netherwing Drake",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Netherwing - Exalted",
+    "npcOrVendor": "Drake Dealer Hurlunk",
+    "zone": "Shadowmoon Valley"
+  },
+  {
+    "id": "violet-netherwing-drake",
+    "name": "Violet Netherwing Drake",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Netherwing - Exalted",
+    "npcOrVendor": "Drake Dealer Hurlunk",
+    "zone": "Shadowmoon Valley"
+  },
+  {
+    "id": "blue-riding-nether-ray",
+    "name": "Blue Riding Nether Ray",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Sha'tari Skyguard - Exalted",
+    "npcOrVendor": "Grella",
+    "zone": "Terokkar Forest"
+  },
+  {
+    "id": "green-riding-nether-ray",
+    "name": "Green Riding Nether Ray",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Sha'tari Skyguard - Exalted",
+    "npcOrVendor": "Grella",
+    "zone": "Terokkar Forest"
+  },
+  {
+    "id": "purple-riding-nether-ray",
+    "name": "Purple Riding Nether Ray",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Sha'tari Skyguard - Exalted",
+    "npcOrVendor": "Grella",
+    "zone": "Terokkar Forest"
+  },
+  {
+    "id": "red-riding-nether-ray",
+    "name": "Red Riding Nether Ray",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Sha'tari Skyguard - Exalted",
+    "npcOrVendor": "Grella",
+    "zone": "Terokkar Forest"
+  },
+  {
+    "id": "silver-riding-nether-ray",
+    "name": "Silver Riding Nether Ray",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Sha'tari Skyguard - Exalted",
+    "npcOrVendor": "Grella",
+    "zone": "Terokkar Forest"
+  },
+  {
+    "id": "cobalt-riding-talbuk",
+    "name": "Cobalt Riding Talbuk",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
+    "npcOrVendor": "Trader Narasu / Provisioner Nasela",
+    "zone": "Nagrand"
+  },
+  {
+    "id": "white-riding-talbuk",
+    "name": "White Riding Talbuk",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
+    "npcOrVendor": "Trader Narasu / Provisioner Nasela",
+    "zone": "Nagrand"
+  },
+  {
+    "id": "silver-riding-talbuk",
+    "name": "Silver Riding Talbuk",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
+    "npcOrVendor": "Trader Narasu / Provisioner Nasela",
+    "zone": "Nagrand",
+    "notes": "Riding Talbuk"
+  },
+  {
+    "id": "tan-riding-talbuk",
+    "name": "Tan Riding Talbuk",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
+    "npcOrVendor": "Trader Narasu / Provisioner Nasela",
+    "zone": "Nagrand",
+    "notes": "Riding Talbuk"
+  },
+  {
+    "id": "dark-riding-talbuk",
+    "name": "Dark Riding Talbuk",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
+    "npcOrVendor": "Trader Narasu / Provisioner Nasela",
+    "zone": "Nagrand",
+    "notes": "Riding Talbuk"
+  },
+  {
+    "id": "cobalt-war-talbuk",
+    "name": "Cobalt War Talbuk",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
+    "npcOrVendor": "Trader Narasu / Provisioner Nasela",
+    "zone": "Nagrand",
+    "notes": "War Talbuk"
+  },
+  {
+    "id": "white-war-talbuk",
+    "name": "White War Talbuk",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
+    "npcOrVendor": "Trader Narasu / Provisioner Nasela",
+    "zone": "Nagrand",
+    "notes": "War Talbuk"
+  },
+  {
+    "id": "silver-war-talbuk",
+    "name": "Silver War Talbuk",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
+    "npcOrVendor": "Trader Narasu / Provisioner Nasela",
+    "zone": "Nagrand",
+    "notes": "War Talbuk"
+  },
+  {
+    "id": "tan-war-talbuk",
+    "name": "Tan War Talbuk",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
+    "npcOrVendor": "Trader Narasu / Provisioner Nasela",
+    "zone": "Nagrand",
+    "notes": "War Talbuk"
+  },
+  {
+    "id": "dark-war-talbuk",
+    "name": "Dark War Talbuk",
+    "expansion": "TBC",
+    "sourceType": "Reputation",
+    "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
+    "npcOrVendor": "Trader Narasu / Provisioner Nasela",
+    "zone": "Nagrand",
+    "notes": "War Talbuk"
+  },
+  {
+    "id": "fiery-warhorses-reins",
+    "name": "Fiery Warhorse's Reins",
+    "expansion": "TBC",
+    "sourceType": "Drop",
+    "instance": "Karazhan",
+    "zone": "Deadwind Pass",
+    "npcOrVendor": "Attumen the Huntsman",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "raven-lord",
+    "name": "Reins of the Raven Lord",
+    "expansion": "TBC",
+    "sourceType": "Drop",
+    "instance": "Sethekk Halls (Heroic)",
+    "zone": "Terokkar Forest",
+    "npcOrVendor": "Anzu",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "swift-white-hawkstrider",
+    "name": "Swift White Hawkstrider",
+    "expansion": "TBC",
+    "sourceType": "Drop",
+    "instance": "Magisters' Terrace (Heroic)",
+    "zone": "Isle of Quel'Danas",
+    "npcOrVendor": "Kael'thas Sunstrider",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "ashes-of-alar",
+    "name": "Ashes of Al'ar",
+    "expansion": "TBC",
+    "sourceType": "Drop",
+    "instance": "The Eye (Tempest Keep)",
+    "zone": "Netherstorm",
+    "npcOrVendor": "Kael'thas Sunstrider",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "amani-war-bear",
+    "name": "Amani War Bear",
+    "expansion": "TBC",
+    "sourceType": "Event",
+    "instance": "Zul'Aman",
+    "zone": "Ghostlands",
+    "sourceDetail": "Timed event - 4th chest",
+    "notes": "Removed after 3.0.2 (originally TBC-era reward)"
+  },
+  {
+    "id": "swift-brewfest-ram",
+    "name": "Swift Brewfest Ram",
+    "expansion": "TBC",
+    "sourceType": "Event",
+    "sourceDetail": "Brewfest - Coren Direbrew (Keg-Shaped Treasure Chest)",
+    "zone": "Blackrock Depths"
+  },
+  {
+    "id": "great-brewfest-kodo",
+    "name": "Great Brewfest Kodo",
+    "expansion": "TBC",
+    "sourceType": "Event",
+    "sourceDetail": "Brewfest - Coren Direbrew (Keg-Shaped Treasure Chest)",
+    "zone": "Blackrock Depths"
+  },
+  {
+    "id": "flying-machine",
+    "name": "Flying Machine Control",
+    "expansion": "TBC",
+    "sourceType": "Profession",
+    "sourceDetail": "Engineering 300+ (crafted)",
+    "notes": "Engineer-only flying mount"
+  },
+  {
+    "id": "turbo-charged-flying-machine",
+    "name": "Turbo-Charged Flying Machine Control",
+    "expansion": "TBC",
+    "sourceType": "Profession",
+    "sourceDetail": "Engineering 375 (crafted)",
+    "notes": "Engineer-only epic flying mount"
+  },
+  {
+    "id": "dark-riding-talbuk",
+    "name": "Dark Riding Talbuk",
+    "expansion": "TBC",
+    "sourceType": "Vendor",
+    "sourceDetail": "Halaa - faction must control; 70 Halaa Battle + 15 Halaa Research Tokens",
+    "npcOrVendor": "Coreiel (H) / Aldraan (A)",
+    "zone": "Nagrand"
+  },
+  {
+    "id": "brown-elekk",
+    "name": "Brown Elekk",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "The Exodar - Honored+",
+    "npcOrVendor": "Torallius the Pack Handler",
+    "zone": "Azuremyst Isle",
+    "cost": "10-90g"
+  },
+  {
+    "id": "gray-elekk",
+    "name": "Gray Elekk",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "The Exodar - Honored+",
+    "npcOrVendor": "Torallius the Pack Handler",
+    "zone": "Azuremyst Isle",
+    "cost": "10-90g"
+  },
+  {
+    "id": "purple-elekk",
+    "name": "Purple Elekk",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "The Exodar - Honored+",
+    "npcOrVendor": "Torallius the Pack Handler",
+    "zone": "Azuremyst Isle",
+    "cost": "10-90g"
+  },
+  {
+    "id": "great-blue-elekk",
+    "name": "Great Blue Elekk",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "The Exodar - Exalted",
+    "npcOrVendor": "Torallius the Pack Handler",
+    "zone": "Azuremyst Isle",
+    "cost": "90g"
+  },
+  {
+    "id": "great-green-elekk",
+    "name": "Great Green Elekk",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "The Exodar - Exalted",
+    "npcOrVendor": "Torallius the Pack Handler",
+    "zone": "Azuremyst Isle",
+    "cost": "90g"
+  },
+  {
+    "id": "great-purple-elekk",
+    "name": "Great Purple Elekk",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "The Exodar - Exalted",
+    "npcOrVendor": "Torallius the Pack Handler",
+    "zone": "Azuremyst Isle",
+    "cost": "90g"
+  },
+  {
+    "id": "blue-hawkstrider",
+    "name": "Blue Hawkstrider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Eversong Woods - Honored+",
+    "npcOrVendor": "Winaestra",
+    "zone": "Eversong Woods",
+    "cost": "10-90g"
+  },
+  {
+    "id": "purple-hawkstrider",
+    "name": "Purple Hawkstrider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Eversong Woods - Honored+",
+    "npcOrVendor": "Winaestra",
+    "zone": "Eversong Woods",
+    "cost": "10-90g"
+  },
+  {
+    "id": "red-hawkstrider",
+    "name": "Red Hawkstrider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Eversong Woods - Honored+",
+    "npcOrVendor": "Winaestra",
+    "zone": "Eversong Woods",
+    "cost": "10-90g"
+  },
+  {
+    "id": "black-hawkstrider",
+    "name": "Black Hawkstrider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Eversong Woods - Honored+",
+    "npcOrVendor": "Winaestra",
+    "zone": "Eversong Woods",
+    "cost": "10-90g"
+  },
+  {
+    "id": "swift-green-hawkstrider",
+    "name": "Swift Green Hawkstrider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Eversong Woods - Exalted",
+    "npcOrVendor": "Winaestra",
+    "zone": "Eversong Woods",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-pink-hawkstrider",
+    "name": "Swift Pink Hawkstrider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Eversong Woods - Exalted",
+    "npcOrVendor": "Winaestra",
+    "zone": "Eversong Woods",
+    "cost": "90g"
+  },
+  {
+    "id": "swift-purple-hawkstrider",
+    "name": "Swift Purple Hawkstrider",
+    "expansion": "TBC",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Eversong Woods - Exalted",
+    "npcOrVendor": "Winaestra",
+    "zone": "Eversong Woods",
+    "cost": "90g"
+  },
+  {
+    "id": "headless-horsemans-reins",
+    "name": "Headless Horseman's Reins",
+    "expansion": "TBC",
+    "sourceType": "Event",
+    "sourceDetail": "Hallow's End - Headless Horseman",
+    "instance": "Scarlet Monastery: Graveyard",
+    "zone": "Tirisfal Glades",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "swift-nether-drake",
+    "name": "Swift Nether Drake",
+    "expansion": "TBC",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 1 - Gladiator reward",
+    "notes": "Awarded at season end"
+  },
+  {
+    "id": "merciless-nether-drake",
+    "name": "Merciless Nether Drake",
+    "expansion": "TBC",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 2 - Gladiator reward",
+    "notes": "Awarded at season end"
+  },
+  {
+    "id": "vengeful-nether-drake",
+    "name": "Vengeful Nether Drake",
+    "expansion": "TBC",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 3 - Gladiator reward",
+    "notes": "Awarded at season end"
+  },
+  {
+    "id": "brutal-nether-drake",
+    "name": "Brutal Nether Drake",
+    "expansion": "TBC",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 4 - Gladiator reward",
+    "notes": "Awarded at season end"
+  },
+  {
+    "id": "dark-war-talbuk",
+    "name": "Dark War Talbuk",
+    "expansion": "TBC",
+    "sourceType": "Vendor",
+    "sourceDetail": "Halaa - requires control; costs Halaa tokens",
+    "npcOrVendor": "Coreiel (H) / Aldraan (A)",
+    "zone": "Nagrand"
+  },
+  {
+    "id": "black-war-elekk",
+    "name": "Black War Elekk",
+    "expansion": "TBC",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "PvP vendor - honor/marks",
+    "npcOrVendor": "Lieutenant Karter",
+    "zone": "Stormwind"
+  },
+  {
+    "id": "blue-proto-drake",
+    "name": "Blue Proto-Drake",
+    "expansion": "WotLK",
+    "sourceType": "Drop",
+    "instance": "Utgarde Pinnacle (Heroic)",
+    "zone": "Howling Fjord",
+    "npcOrVendor": "Skadi the Ruthless",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "red-proto-drake",
+    "name": "Red Proto-Drake",
+    "expansion": "WotLK",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Hero"
+  },
+  {
+    "id": "rusted-proto-drake",
+    "name": "Rusted Proto-Drake",
+    "expansion": "WotLK",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Ulduar Raider (10)"
+  },
+  {
+    "id": "ironbound-proto-drake",
+    "name": "Ironbound Proto-Drake",
+    "expansion": "WotLK",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Ulduar Raider (25)"
+  },
+  {
+    "id": "plagued-proto-drake",
+    "name": "Plagued Proto-Drake",
+    "expansion": "WotLK",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Raider (10)",
+    "notes": "Originally removed later; Classic rules may differ"
+  },
+  {
+    "id": "black-proto-drake",
+    "name": "Black Proto-Drake",
+    "expansion": "WotLK",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Raider (25)",
+    "notes": "Originally removed later; Classic rules may differ"
+  },
+  {
+    "id": "bronze-drake",
+    "name": "Bronze Drake",
+    "expansion": "WotLK",
+    "sourceType": "Drop",
+    "instance": "The Culling of Stratholme (Heroic)",
+    "zone": "Caverns of Time",
+    "npcOrVendor": "Infinite Corruptor",
+    "dropRateNote": "Guaranteed on timer"
+  },
+  {
+    "id": "black-drake",
+    "name": "Black Drake",
+    "expansion": "WotLK",
+    "sourceType": "Drop",
+    "instance": "The Obsidian Sanctum",
+    "zone": "Dragonblight",
+    "npcOrVendor": "Sartharion (10) with 3 drakes",
+    "dropRateNote": "Guaranteed"
+  },
+  {
+    "id": "twilight-drake",
+    "name": "Twilight Drake",
+    "expansion": "WotLK",
+    "sourceType": "Drop",
+    "instance": "The Obsidian Sanctum",
+    "zone": "Dragonblight",
+    "npcOrVendor": "Sartharion (25) with 3 drakes",
+    "dropRateNote": "Guaranteed"
+  },
+  {
+    "id": "azure-drake",
+    "name": "Azure Drake",
+    "expansion": "WotLK",
+    "sourceType": "Drop",
+    "instance": "The Eye of Eternity",
+    "zone": "Borean Tundra",
+    "npcOrVendor": "Malygos (25)",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "blue-drake",
+    "name": "Blue Drake",
+    "expansion": "WotLK",
+    "sourceType": "Drop",
+    "instance": "The Eye of Eternity",
+    "zone": "Borean Tundra",
+    "npcOrVendor": "Malygos (10)",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "onyxian-drake",
+    "name": "Onyxian Drake",
+    "expansion": "WotLK",
+    "sourceType": "Drop",
+    "instance": "Onyxia's Lair",
+    "zone": "Dustwallow Marsh",
+    "npcOrVendor": "Onyxia",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "mimirons-head",
+    "name": "Mimiron's Head",
+    "expansion": "WotLK",
+    "sourceType": "Drop",
+    "instance": "Ulduar",
+    "zone": "Storm Peaks",
+    "npcOrVendor": "Yogg-Saron (25, 0 Keepers)",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "invincible",
+    "name": "Invincible's Reins",
+    "expansion": "WotLK",
+    "sourceType": "Drop",
+    "instance": "Icecrown Citadel",
+    "zone": "Icecrown",
+    "npcOrVendor": "The Lich King (25H)",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "bloodbathed-frostbrood-vanquisher",
+    "name": "Bloodbathed Frostbrood Vanquisher",
+    "expansion": "WotLK",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Icecrown Raider (10)"
+  },
+  {
+    "id": "icebound-frostbrood-vanquisher",
+    "name": "Icebound Frostbrood Vanquisher",
+    "expansion": "WotLK",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Icecrown Raider (25)"
+  },
+  {
+    "id": "albino-drake",
+    "name": "Albino Drake",
+    "expansion": "WotLK",
+    "sourceType": "Achievement",
+    "sourceDetail": "Leading the Cavalry (50 mounts)"
+  },
+  {
+    "id": "violet-proto-drake",
+    "name": "Violet Proto-Drake",
+    "expansion": "WotLK",
+    "sourceType": "Achievement",
+    "sourceDetail": "What A Long, Strange Trip It's Been"
+  },
+  {
+    "id": "white-polar-bear",
+    "name": "White Polar Bear",
+    "expansion": "WotLK",
+    "sourceType": "Quest",
+    "sourceDetail": "Hyldnir daily - Hyldnir Spoils",
+    "zone": "Storm Peaks",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "time-lost-proto-drake",
+    "name": "Time-Lost Proto-Drake",
+    "expansion": "WotLK",
+    "sourceType": "Other",
+    "sourceDetail": "Rare spawn",
+    "zone": "Storm Peaks",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "sea-turtle",
+    "name": "Sea Turtle",
+    "expansion": "WotLK",
+    "sourceType": "Profession",
+    "sourceDetail": "Fishing - Northrend pools",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "black-war-mammoth",
+    "name": "Black War Mammoth",
+    "expansion": "WotLK",
+    "faction": "Both",
+    "sourceType": "Vendor",
+    "sourceDetail": "Wintergrasp Quartermaster - Honor/Stone Keeper's Shards",
+    "zone": "Wintergrasp"
+  },
+  {
+    "id": "grand-black-war-mammoth",
+    "name": "Grand Black War Mammoth",
+    "expansion": "WotLK",
+    "sourceType": "Drop",
+    "instance": "Vault of Archavon",
+    "zone": "Wintergrasp",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "travelers-tundra-mammoth",
+    "name": "Traveler's Tundra Mammoth",
+    "expansion": "WotLK",
+    "sourceType": "Vendor",
+    "sourceDetail": "Mei Francis",
+    "zone": "Dalaran",
+    "cost": "16000g",
+    "notes": "Two vendors ride with you"
+  },
+  {
+    "id": "blue-dragonhawk",
+    "name": "Blue Dragonhawk",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Achievement",
+    "sourceDetail": "Mountain o' Mounts (100 mounts)"
+  },
+  {
+    "id": "red-dragonhawk",
+    "name": "Red Dragonhawk",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Achievement",
+    "sourceDetail": "Mountain o' Mounts (collect 100 mounts)",
+    "notes": "Horde reward."
+  },
+  {
+    "id": "argent-hippogryph",
+    "name": "Argent Hippogryph",
+    "expansion": "WotLK",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Any Quartermaster",
+    "npcOrVendor": "Dame Evniki Kapsalis",
+    "cost": "150 Champion's Seals",
+    "notes": "Available to both factions."
+  },
+  {
+    "id": "silver-covenant-hippogryph",
+    "name": "Silver Covenant Hippogryph",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Silver Covenant",
+    "npcOrVendor": "Hiren Loresong",
+    "cost": "150 Champion's Seals"
+  },
+  {
+    "id": "sunreaver-dragonhawk",
+    "name": "Sunreaver Dragonhawk",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Sunreavers",
+    "npcOrVendor": "Vasarin Redmorn",
+    "cost": "150 Champion's Seals"
+  },
+  {
+    "id": "queldorei-steed",
+    "name": "Quel'dorei Steed",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Silver Covenant",
+    "npcOrVendor": "Hiren Loresong",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "sunreaver-hawkstrider",
+    "name": "Sunreaver Hawkstrider",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Sunreavers",
+    "npcOrVendor": "Vasarin Redmorn",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "stormwind-steed",
+    "name": "Stormwind Steed",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Stormwind",
+    "npcOrVendor": "Corporal Arthur Flew",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "swift-gray-steed",
+    "name": "Swift Gray Steed",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Stormwind",
+    "npcOrVendor": "Corporal Arthur Flew",
+    "cost": "5 Champion's Seals + 500g"
+  },
+  {
+    "id": "ironforge-ram-at",
+    "name": "Ironforge Ram (AT)",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Ironforge",
+    "npcOrVendor": "Derrick Brindlebeard",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "turbostrider",
+    "name": "Turbostrider",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Gnomeregan",
+    "npcOrVendor": "Rillie Spindlenut",
+    "cost": "5 Champion's Seals + 500g"
+  },
+  {
+    "id": "thunder-bluff-kodo-at",
+    "name": "Thunder Bluff Kodo (AT)",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Thunder Bluff",
+    "npcOrVendor": "Doru Thunderhorn",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "darkspear-raptor-at",
+    "name": "Darkspear Raptor (AT)",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Darkspear",
+    "npcOrVendor": "Samamba",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "orgrimmar-wolf-at",
+    "name": "Orgrimmar Wolf (AT)",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Orgrimmar",
+    "npcOrVendor": "Freka Bloodaxe",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "forsaken-warhorse-at",
+    "name": "Forsaken Warhorse (AT)",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Undercity",
+    "npcOrVendor": "Eliza Killian",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "great-red-elekk",
+    "name": "Great Red Elekk",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament – Exodar",
+    "npcOrVendor": "Irisee",
+    "cost": "5 Champion's Seals + 500g"
+  },
+  {
+    "id": "armored-snowy-gryphon",
+    "name": "Armored Snowy Gryphon",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Dalaran – Mei Francis",
+    "npcOrVendor": "Mei Francis",
+    "cost": "2000g"
+  },
+  {
+    "id": "armored-blue-wind-rider",
+    "name": "Armored Blue Wind Rider",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Dalaran – Mei Francis",
+    "npcOrVendor": "Mei Francis",
+    "cost": "2000g"
+  },
+  {
+    "id": "armored-brown-bear",
+    "name": "Armored Brown Bear",
+    "expansion": "WotLK",
+    "sourceType": "Vendor",
+    "sourceDetail": "Dalaran – Mei Francis",
+    "npcOrVendor": "Mei Francis",
+    "cost": "750g"
+  },
+  {
+    "id": "wooly-mammoth",
+    "name": "Wooly Mammoth",
+    "expansion": "WotLK",
+    "sourceType": "Vendor",
+    "sourceDetail": "Dalaran – Mei Francis",
+    "npcOrVendor": "Mei Francis",
+    "cost": "10000g or 200 Emblems of Heroism"
+  },
+  {
+    "id": "ice-mammoth",
+    "name": "Ice Mammoth",
+    "expansion": "WotLK",
+    "sourceType": "Vendor",
+    "sourceDetail": "The Storm Peaks – Sons of Hodir (Revered)",
+    "npcOrVendor": "Lillehoff",
+    "cost": "1000g (base)"
+  },
+  {
+    "id": "grand-ice-mammoth",
+    "name": "Grand Ice Mammoth",
+    "expansion": "WotLK",
+    "sourceType": "Vendor",
+    "sourceDetail": "The Storm Peaks – Sons of Hodir (Exalted)",
+    "npcOrVendor": "Lillehoff",
+    "cost": "10000g (8000g at Exalted)"
+  },
+  {
+    "id": "black-war-bear-alliance",
+    "name": "Black War Bear (Alliance)",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Achievement",
+    "sourceDetail": "For The Alliance!",
+    "notes": "Kill the 4 enemy city leaders."
+  },
+  {
+    "id": "black-war-bear-horde",
+    "name": "Black War Bear (Horde)",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Achievement",
+    "sourceDetail": "For The Horde!",
+    "notes": "Kill the 4 enemy city leaders."
+  },
+  {
+    "id": "green-proto-drake",
+    "name": "Green Proto-Drake",
+    "expansion": "WotLK",
+    "sourceType": "Other",
+    "sourceDetail": "The Oracles – Mysterious Egg (hatch chance)",
+    "npcOrVendor": "Geen"
+  },
+  {
+    "id": "winged-steed-of-the-ebon-blade",
+    "name": "Winged Steed of the Ebon Blade",
+    "expansion": "WotLK",
+    "faction": "Death Knight only",
+    "sourceType": "Vendor",
+    "sourceDetail": "Acherus: The Ebon Hold – DK Class Vendor",
+    "npcOrVendor": "Dread Commander Thalanor",
+    "cost": "~1000g (reputation discounts apply)"
+  },
+  {
+    "id": "red-drake",
+    "name": "Red Drake",
+    "expansion": "WotLK",
+    "sourceType": "Vendor",
+    "sourceDetail": "Wyrmrest Accord - Exalted",
+    "npcOrVendor": "Cielstrasza",
+    "zone": "Dragonblight"
+  },
+  {
+    "id": "mekgineers-chopper",
+    "name": "Mekgineer's Chopper",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Profession",
+    "sourceDetail": "Engineering (crafted)"
+  },
+  {
+    "id": "mechano-hog",
+    "name": "Mechano-hog",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Profession",
+    "sourceDetail": "Engineering (crafted)"
+  },
+  {
+    "id": "flying-carpet",
+    "name": "Flying Carpet",
+    "expansion": "WotLK",
+    "sourceType": "Profession",
+    "sourceDetail": "Tailoring (crafted)"
+  },
+  {
+    "id": "magnificent-flying-carpet",
+    "name": "Magnificent Flying Carpet",
+    "expansion": "WotLK",
+    "sourceType": "Profession",
+    "sourceDetail": "Tailoring (crafted)"
+  },
+  {
+    "id": "x-45-heartbreaker",
+    "name": "X-45 Heartbreaker",
+    "expansion": "WotLK",
+    "sourceType": "Event",
+    "sourceDetail": "Love is in the Air - Crown Chemical Co.",
+    "instance": "Shadowfang Keep (Seasonal)",
+    "zone": "Silverpine Forest"
+  },
+  {
+    "id": "acherus-deathcharger",
+    "name": "Acherus Deathcharger",
+    "expansion": "WotLK",
+    "sourceType": "Quest",
+    "sourceDetail": "Death Knight starting quests",
+    "zone": "Eastern Plaguelands",
+    "notes": "Death Knight only"
+  },
+  {
+    "id": "argent-warhorse",
+    "name": "Argent Warhorse",
+    "expansion": "WotLK",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament - Crusader",
+    "npcOrVendor": "Dame Evniki Kapsalis",
+    "zone": "Icecrown",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "argent-charger",
+    "name": "Argent Charger",
+    "expansion": "WotLK",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament - Crusader (Paladin only)",
+    "npcOrVendor": "Dame Evniki Kapsalis",
+    "zone": "Icecrown",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "silvermoon-hawkstrider",
+    "name": "Silvermoon Hawkstrider",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament - Silvermoon",
+    "npcOrVendor": "Mokra the Skullcrusher / exchange vendor",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "swift-red-hawkstrider",
+    "name": "Swift Red Hawkstrider",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament - Silvermoon (swift)",
+    "cost": "5 Champion's Seals + 500g"
+  },
+  {
+    "id": "swift-orgrimmar-wolf",
+    "name": "Swift Orgrimmar Wolf",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament - Orgrimmar (swift)",
+    "cost": "5 Champion's Seals + 500g"
+  },
+  {
+    "id": "swift-darkspear-raptor",
+    "name": "Swift Darkspear Raptor",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament - Darkspear (swift)",
+    "cost": "5 Champion's Seals + 500g"
+  },
+  {
+    "id": "great-golden-kodo",
+    "name": "Great Golden Kodo",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament - Thunder Bluff (swift)",
+    "cost": "5 Champion's Seals + 500g"
+  },
+  {
+    "id": "swift-forsaken-warhorse",
+    "name": "Swift Forsaken Warhorse",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament - Undercity (swift)",
+    "cost": "5 Champion's Seals + 500g"
+  },
+  {
+    "id": "darnassian-nightsaber-at",
+    "name": "Darnassian Nightsaber",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament - Darnassus",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "gnomeregan-mechanostrider-at",
+    "name": "Gnomeregan Mechanostrider",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament - Gnomeregan",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "exodar-elekk-at",
+    "name": "Exodar Elekk",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament - Exodar",
+    "cost": "100 Champion's Seals"
+  },
+  {
+    "id": "swift-ironforge-ram",
+    "name": "Swift Ironforge Ram",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament - Ironforge (swift)",
+    "cost": "5 Champion's Seals + 500g"
+  },
+  {
+    "id": "swift-darnassian-mistsaber",
+    "name": "Swift Darnassian Mistsaber",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Argent Tournament - Darnassus (swift)",
+    "cost": "5 Champion's Seals + 500g"
+  },
+  {
+    "id": "swift-alliance-steed",
+    "name": "Swift Alliance Steed",
+    "expansion": "WotLK",
+    "faction": "Alliance",
+    "sourceType": "Achievement",
+    "sourceDetail": "A Tribute to Immortality (25) - Trial of the Grand Crusader"
+  },
+  {
+    "id": "swift-horde-wolf",
+    "name": "Swift Horde Wolf",
+    "expansion": "WotLK",
+    "faction": "Horde",
+    "sourceType": "Achievement",
+    "sourceDetail": "A Tribute to Immortality (25) - Trial of the Grand Crusader"
+  },
+  {
+    "id": "deadly-gladiators-frost-wyrm",
+    "name": "Deadly Gladiator's Frost Wyrm",
+    "expansion": "WotLK",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 5 - Gladiator reward"
+  },
+  {
+    "id": "furious-gladiators-frost-wyrm",
+    "name": "Furious Gladiator's Frost Wyrm",
+    "expansion": "WotLK",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 6 - Gladiator reward"
+  },
+  {
+    "id": "relentless-gladiators-frost-wyrm",
+    "name": "Relentless Gladiator's Frost Wyrm",
+    "expansion": "WotLK",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 7 - Gladiator reward"
+  },
+  {
+    "id": "wrathful-gladiators-frost-wyrm",
+    "name": "Wrathful Gladiator's Frost Wyrm",
+    "expansion": "WotLK",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 8 - Gladiator reward"
+  },
+  {
+    "id": "volcanic-stone-drake",
+    "name": "Volcanic Stone Drake",
+    "expansion": "Cata",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Cataclysm Hero"
+  },
+  {
+    "id": "drake-of-the-east-wind",
+    "name": "Drake of the East Wind",
+    "expansion": "Cata",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Cataclysm Raider"
+  },
+  {
+    "id": "drake-of-the-south-wind",
+    "name": "Drake of the South Wind",
+    "expansion": "Cata",
+    "sourceType": "Drop",
+    "instance": "Throne of the Four Winds",
+    "zone": "Uldum",
+    "npcOrVendor": "Al'Akir",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "drake-of-the-north-wind",
+    "name": "Drake of the North Wind",
+    "expansion": "Cata",
+    "sourceType": "Drop",
+    "instance": "The Vortex Pinnacle (Heroic)",
+    "zone": "Uldum",
+    "npcOrVendor": "Altairus",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "vitreous-stone-drake",
+    "name": "Vitreous Stone Drake",
+    "expansion": "Cata",
+    "sourceType": "Drop",
+    "instance": "The Stonecore (Heroic)",
+    "zone": "Deepholm",
+    "npcOrVendor": "Slabhide",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "phosphorescent-stone-drake",
+    "name": "Phosphorescent Stone Drake",
+    "expansion": "Cata",
+    "sourceType": "Other",
+    "sourceDetail": "Rare spawn Aeonaxx",
+    "zone": "Deepholm",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "sandstone-drake",
+    "name": "Sandstone Drake",
+    "expansion": "Cata",
+    "sourceType": "Profession",
+    "sourceDetail": "Alchemy - Vial of the Sands"
+  },
+  {
+    "id": "pureblood-fire-hawk",
+    "name": "Pureblood Fire Hawk",
+    "expansion": "Cata",
+    "sourceType": "Drop",
+    "instance": "Firelands",
+    "zone": "Mount Hyjal",
+    "npcOrVendor": "Ragnaros",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "corrupted-fire-hawk",
+    "name": "Corrupted Fire Hawk",
+    "expansion": "Cata",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Firelands Raider"
+  },
+  {
+    "id": "flametalon-of-alysrazor",
+    "name": "Flametalon of Alysrazor",
+    "expansion": "Cata",
+    "sourceType": "Drop",
+    "instance": "Firelands",
+    "zone": "Mount Hyjal",
+    "npcOrVendor": "Alysrazor",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "flameward-hippogryph",
+    "name": "Flameward Hippogryph",
+    "expansion": "Cata",
+    "sourceType": "Vendor",
+    "sourceDetail": "Molten Front - Marks of the World Tree",
+    "zone": "Mount Hyjal"
+  },
+  {
+    "id": "drake-of-the-west-wind",
+    "name": "Drake of the West Wind",
+    "expansion": "Cata",
+    "sourceType": "Vendor",
+    "sourceDetail": "Tol Barad - Commendations (Baradin's Wardens (A)/Hellscream's Reach (H))",
+    "zone": "Tol Barad"
+  },
+  {
+    "id": "spectral-steed",
+    "name": "Spectral Steed",
+    "expansion": "Cata",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Tol Barad - Commendations (Baradin's Wardens)",
+    "zone": "Tol Barad"
+  },
+  {
+    "id": "spectral-wolf",
+    "name": "Spectral Wolf",
+    "expansion": "Cata",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Tol Barad - Commendations (Hellscream's Reach)",
+    "zone": "Tol Barad"
+  },
+  {
+    "id": "brown-riding-camel",
+    "name": "Brown Riding Camel",
+    "expansion": "Cata",
+    "sourceType": "Vendor",
+    "sourceDetail": "Ramkahen - Exalted",
+    "zone": "Uldum"
+  },
+  {
+    "id": "tan-riding-camel",
+    "name": "Tan Riding Camel",
+    "expansion": "Cata",
+    "sourceType": "Vendor",
+    "sourceDetail": "Ramkahen - Exalted",
+    "zone": "Uldum"
+  },
+  {
+    "id": "armored-razzashi-raptor",
+    "name": "Armored Razzashi Raptor",
+    "expansion": "Cata",
+    "sourceType": "Drop",
+    "instance": "Zul'Gurub",
+    "zone": "Northern Stranglethorn",
+    "npcOrVendor": "Bloodlord Mandokir",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "swift-zulian-panther",
+    "name": "Swift Zulian Panther",
+    "expansion": "Cata",
+    "sourceType": "Drop",
+    "instance": "Zul'Gurub",
+    "zone": "Northern Stranglethorn",
+    "npcOrVendor": "High Priestess Kilnara",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "vashjir-seahorse",
+    "name": "Vashj'ir Seahorse",
+    "expansion": "Cata",
+    "sourceType": "Quest",
+    "sourceDetail": "Vashj'ir quest line - The Abyssal Ride",
+    "zone": "Vashj'ir"
+  },
+  {
+    "id": "fossilized-raptor",
+    "name": "Fossilized Raptor",
+    "expansion": "Cata",
+    "sourceType": "Profession",
+    "sourceDetail": "Archaeology - Fossil"
+  },
+  {
+    "id": "ultramarine-qiraji-battle-tank",
+    "name": "Ultramarine Qiraji Battle Tank",
+    "expansion": "Cata",
+    "sourceType": "Profession",
+    "sourceDetail": "Archaeology - Tol'vir (rare)"
+  },
+  {
+    "id": "mountain-horse",
+    "name": "Mountain Horse",
+    "expansion": "Cata",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Tol Barad Peninsula - Vendor",
+    "zone": "Tol Barad Peninsula"
+  },
+  {
+    "id": "swift-mountain-horse",
+    "name": "Swift Mountain Horse",
+    "expansion": "Cata",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Tol Barad Peninsula - Vendor",
+    "zone": "Tol Barad Peninsula"
+  },
+  {
+    "id": "goblin-trike",
+    "name": "Goblin Trike",
+    "expansion": "Cata",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Orgrimmar - Bilgewater Cartel vendor"
+  },
+  {
+    "id": "goblin-turbo-trike",
+    "name": "Goblin Turbo-Trike",
+    "expansion": "Cata",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Orgrimmar - Bilgewater Cartel vendor"
+  },
+  {
+    "id": "blazing-drake",
+    "name": "Blazing Drake",
+    "expansion": "Cata",
+    "sourceType": "Drop",
+    "instance": "Dragon Soul",
+    "zone": "Caverns of Time - Wyrmrest",
+    "npcOrVendor": "Madness of Deathwing",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "life-binders-handmaiden",
+    "name": "Life-Binder's Handmaiden",
+    "expansion": "Cata",
+    "sourceType": "Drop",
+    "instance": "Dragon Soul (Heroic)",
+    "zone": "Caverns of Time - Wyrmrest",
+    "npcOrVendor": "Madness of Deathwing",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "experiment-12-b",
+    "name": "Experiment 12-B",
+    "expansion": "Cata",
+    "sourceType": "Drop",
+    "instance": "Dragon Soul",
+    "zone": "Caverns of Time - Wyrmrest",
+    "npcOrVendor": "Ultraxion",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "twilight-harbinger",
+    "name": "Twilight Harbinger",
+    "expansion": "Cata",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Dragon Soul Raider"
+  },
+  {
+    "id": "dark-phoenix",
+    "name": "Dark Phoenix",
+    "expansion": "Cata",
+    "sourceType": "Vendor",
+    "sourceDetail": "Guild Vendor - Guild Glory of the Cataclysm Raider + Exalted",
+    "zone": "Stormwind/Orgrimmar"
+  },
+  {
+    "id": "kor-kron-annihilator",
+    "name": "Kor'kron Annihilator",
+    "expansion": "Cata",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Guild Vendor - Level 25 Guild + Exalted",
+    "zone": "Orgrimmar"
+  },
+  {
+    "id": "golden-king",
+    "name": "Reins of the Golden King",
+    "expansion": "Cata",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Guild Vendor - Level 25 Guild + Exalted",
+    "zone": "Stormwind"
+  },
+  {
+    "id": "darkmoon-dancing-bear",
+    "name": "Darkmoon Dancing Bear",
+    "expansion": "Cata",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darkmoon Faire - Prize Vendor",
+    "cost": "180 Darkmoon Prize Tickets",
+    "zone": "Darkmoon Island"
+  },
+  {
+    "id": "grey-riding-camel",
+    "name": "Grey Riding Camel",
+    "expansion": "Cata",
+    "sourceType": "Other",
+    "sourceDetail": "Mysterious Camel Figurine -> Dormus the Camel-Hoarder",
+    "zone": "Uldum/Steam Pools"
+  },
+  {
+    "id": "subdued-seahorse",
+    "name": "Subdued Seahorse",
+    "expansion": "Cata",
+    "sourceType": "Drop",
+    "sourceDetail": "World rare Poseidus",
+    "zone": "Vashj'ir (open water)"
+  },
+  {
+    "id": "tyraels-charger",
+    "name": "Tyrael's Charger",
+    "expansion": "Cata",
+    "sourceType": "Event",
+    "sourceDetail": "Annual Pass promotion"
+  },
+  {
+    "id": "winged-guardian",
+    "name": "Winged Guardian",
+    "expansion": "Cata",
+    "sourceType": "Vendor",
+    "sourceDetail": "Blizzard Store"
+  },
+  {
+    "id": "heart-of-the-aspects",
+    "name": "Heart of the Aspects",
+    "expansion": "Cata",
+    "sourceType": "Vendor",
+    "sourceDetail": "Blizzard Store"
+  },
+  {
+    "id": "savage-raptor",
+    "name": "Savage Raptor",
+    "expansion": "Cata",
+    "sourceType": "Event",
+    "sourceDetail": "Trading Card Game - War of the Elements"
+  },
+  {
+    "id": "mottled-drake",
+    "name": "Mottled Drake",
+    "expansion": "Cata",
+    "sourceType": "Event",
+    "sourceDetail": "Trading Card Game - Worldbreaker"
+  },
+  {
+    "id": "wooly-white-rhino",
+    "name": "Wooly White Rhino",
+    "expansion": "Cata",
+    "sourceType": "Event",
+    "sourceDetail": "Trading Card Game - Icecrown"
+  },
+  {
+    "id": "swift-springstrider",
+    "name": "Swift Springstrider",
+    "expansion": "Cata",
+    "sourceType": "Event",
+    "sourceDetail": "Love is in the Air - Holiday vendor",
+    "cost": "270 Love Tokens"
+  },
+  {
+    "id": "vicious-war-steed",
+    "name": "Vicious War Steed",
+    "expansion": "Cata",
+    "faction": "Alliance",
+    "sourceType": "Event",
+    "sourceDetail": "Rated Battlegrounds - Seasonal PvP reward"
+  },
+  {
+    "id": "vicious-war-wolf",
+    "name": "Vicious War Wolf",
+    "expansion": "Cata",
+    "faction": "Horde",
+    "sourceType": "Event",
+    "sourceDetail": "Rated Battlegrounds - Seasonal PvP reward"
+  },
+  {
+    "id": "amani-battle-bear",
+    "name": "Amani Battle Bear",
+    "expansion": "Cata",
+    "sourceType": "Event",
+    "instance": "Zul'Aman",
+    "sourceDetail": "Timed event - 4th chest",
+    "zone": "Ghostlands"
+  },
+  {
+    "id": "obsidian-nightwing",
+    "name": "Obsidian Nightwing",
+    "expansion": "Cata",
+    "sourceType": "Event",
+    "sourceDetail": "Recruit-A-Friend reward"
+  },
+  {
+    "id": "amani-dragonhawk",
+    "name": "Amani Dragonhawk",
+    "expansion": "Cata",
+    "sourceType": "Event",
+    "sourceDetail": "Trading Card Game - Twilight of the Dragons"
+  },
+  {
+    "id": "vicious-gladiators-twilight-drake",
+    "name": "Vicious Gladiator's Twilight Drake",
+    "expansion": "Cata",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 9 - Gladiator reward"
+  },
+  {
+    "id": "ruthless-gladiators-twilight-drake",
+    "name": "Ruthless Gladiator's Twilight Drake",
+    "expansion": "Cata",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 10 - Gladiator reward"
+  },
+  {
+    "id": "cataclysmic-gladiators-twilight-drake",
+    "name": "Cataclysmic Gladiator's Twilight Drake",
+    "expansion": "Cata",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 11 - Gladiator reward"
+  },
+  {
+    "id": "astral-cloud-serpent",
+    "name": "Reins of the Astral Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Drop",
+    "instance": "Mogu'shan Vaults",
+    "npcOrVendor": "Elegon",
+    "dropRateNote": "Very low",
+    "notes": "Raid drop."
+  },
+  {
+    "id": "heavenly-onyx-cloud-serpent",
+    "name": "Heavenly Onyx Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Drop",
+    "zone": "Kun-Lai Summit",
+    "npcOrVendor": "Sha of Anger",
+    "dropRateNote": "Very low",
+    "notes": "World boss drop."
+  },
+  {
+    "id": "thundering-cobalt-cloud-serpent",
+    "name": "Thundering Cobalt Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Drop",
+    "zone": "Isle of Thunder",
+    "npcOrVendor": "Nalak",
+    "dropRateNote": "Very low",
+    "notes": "World boss drop."
+  },
+  {
+    "id": "thundering-onyx-cloud-serpent",
+    "name": "Thundering Onyx Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Drop",
+    "zone": "Timeless Isle",
+    "npcOrVendor": "Huolon",
+    "dropRateNote": "Very low",
+    "notes": "Rare spawn drop."
+  },
+  {
+    "id": "thundering-ruby-cloud-serpent",
+    "name": "Thundering Ruby Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Other",
+    "zone": "Vale of Eternal Blossoms",
+    "npcOrVendor": "Alani",
+    "sourceDetail": "Use Sky Crystal (made from 10 Skyshards) to remove shield and defeat Alani",
+    "notes": "Guaranteed from Alani once tagged by Sky Crystal user."
+  },
+  {
+    "id": "azure-cloud-serpent",
+    "name": "Azure Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "zone": "The Jade Forest",
+    "npcOrVendor": "San Redscale",
+    "sourceDetail": "Order of the Cloud Serpent – Exalted",
+    "cost": "3000g",
+    "faction": "Both",
+    "notes": "Requires Cloud Serpent Riding."
+  },
+  {
+    "id": "jade-cloud-serpent",
+    "name": "Jade Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "zone": "The Jade Forest",
+    "npcOrVendor": "San Redscale",
+    "sourceDetail": "Order of the Cloud Serpent – Exalted",
+    "cost": "3000g",
+    "faction": "Both",
+    "notes": "Requires Cloud Serpent Riding."
+  },
+  {
+    "id": "golden-cloud-serpent",
+    "name": "Golden Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "zone": "The Jade Forest",
+    "npcOrVendor": "San Redscale",
+    "sourceDetail": "Order of the Cloud Serpent – Exalted",
+    "cost": "3000g",
+    "faction": "Both",
+    "notes": "Requires Cloud Serpent Riding."
+  },
+  {
+    "id": "blue-shado-pan-riding-tiger",
+    "name": "Blue Shado-Pan Riding Tiger",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "zone": "Townlong Steppes",
+    "npcOrVendor": "Rushi the Fox",
+    "sourceDetail": "Shado-Pan – Exalted",
+    "cost": "1500g",
+    "faction": "Both",
+    "notes": "Reputation mount."
+  },
+  {
+    "id": "green-shado-pan-riding-tiger",
+    "name": "Green Shado-Pan Riding Tiger",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "zone": "Townlong Steppes",
+    "npcOrVendor": "Rushi the Fox",
+    "sourceDetail": "Shado-Pan – Exalted",
+    "cost": "1500g",
+    "faction": "Both",
+    "notes": "Reputation mount."
+  },
+  {
+    "id": "red-shado-pan-riding-tiger",
+    "name": "Red Shado-Pan Riding Tiger",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "zone": "Townlong Steppes",
+    "npcOrVendor": "Rushi the Fox",
+    "sourceDetail": "Shado-Pan – Exalted",
+    "cost": "2500g",
+    "faction": "Both",
+    "notes": "Reputation mount."
+  },
+  {
+    "id": "clutch-of-ji-kun",
+    "name": "Clutch of Ji-Kun",
+    "expansion": "MoP",
+    "sourceType": "Drop",
+    "instance": "Throne of Thunder",
+    "npcOrVendor": "Ji-Kun",
+    "dropRateNote": "Very low",
+    "notes": "Raid drop."
+  },
+  {
+    "id": "spawn-of-horridon",
+    "name": "Spawn of Horridon",
+    "expansion": "MoP",
+    "sourceType": "Drop",
+    "instance": "Throne of Thunder",
+    "npcOrVendor": "Horridon",
+    "dropRateNote": "Low",
+    "notes": "Raid drop."
+  },
+  {
+    "id": "cobalt-primordial-direhorn",
+    "name": "Cobalt Primordial Direhorn",
+    "expansion": "MoP",
+    "sourceType": "Drop",
+    "zone": "Isle of Giants",
+    "npcOrVendor": "Oondasta",
+    "dropRateNote": "Very low",
+    "notes": "World boss drop."
+  },
+  {
+    "id": "amber-primordial-direhorn",
+    "name": "Amber Primordial Direhorn",
+    "expansion": "MoP",
+    "sourceType": "Drop",
+    "zone": "Pandaria",
+    "npcOrVendor": "Zandalari Warbringers",
+    "dropRateNote": "Low",
+    "notes": "Rare elites in multiple zones."
+  },
+  {
+    "id": "jade-primordial-direhorn",
+    "name": "Jade Primordial Direhorn",
+    "expansion": "MoP",
+    "sourceType": "Drop",
+    "zone": "Pandaria",
+    "npcOrVendor": "Zandalari Warbringers",
+    "dropRateNote": "Low",
+    "notes": "Rare elites in multiple zones."
+  },
+  {
+    "id": "slate-primordial-direhorn",
+    "name": "Slate Primordial Direhorn",
+    "expansion": "MoP",
+    "sourceType": "Drop",
+    "zone": "Pandaria",
+    "npcOrVendor": "Zandalari Warbringers",
+    "dropRateNote": "Low",
+    "notes": "Rare elites in multiple zones."
+  },
+  {
+    "id": "son-of-galleon",
+    "name": "Son of Galleon's Saddle",
+    "expansion": "MoP",
+    "sourceType": "Drop",
+    "zone": "Valley of the Four Winds",
+    "npcOrVendor": "Galleon",
+    "dropRateNote": "Very low",
+    "notes": "World boss drop."
+  },
+  {
+    "id": "azure-water-strider",
+    "name": "Reins of the Azure Water Strider",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "zone": "Krasarang Wilds",
+    "npcOrVendor": "Nat Pagle",
+    "sourceDetail": "The Anglers – Exalted",
+    "cost": "4000–5000g",
+    "faction": "Both",
+    "notes": "Walks on water."
+  },
+  {
+    "id": "thundering-jade-cloud-serpent",
+    "name": "Thundering Jade Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Achievement",
+    "sourceDetail": "Guild Glory of the Pandaria Raider (purchase from guild vendor)",
+    "cost": "3000g",
+    "faction": "Both",
+    "notes": "Guild achievement unlock required."
+  },
+  {
+    "id": "jade-pandaren-kite",
+    "name": "Jade Pandaren Kite",
+    "expansion": "MoP",
+    "sourceType": "Achievement",
+    "sourceDetail": "We’re Going to Need More Saddles (150 mounts)",
+    "faction": "Both",
+    "notes": "Auto-learned on achievement."
+  },
+  {
+    "id": "pandaren-kite",
+    "name": "Pandaren Kite",
+    "expansion": "MoP",
+    "sourceType": "Achievement",
+    "sourceDetail": "Pandaren Ambassador (Exalted with Pandaria core factions)",
+    "faction": "Both",
+    "notes": "Faction-colored variant (A/H)."
+  },
+  {
+    "id": "imperial-quilen",
+    "name": "Imperial Quilen",
+    "expansion": "MoP",
+    "sourceType": "Promotion",
+    "sourceDetail": "Mists of Pandaria Collector’s/Digital Deluxe (also Battle.net Shop)",
+    "faction": "Both",
+    "notes": "Promo/store mount."
+  },
+  {
+    "id": "grand-expedition-yak",
+    "name": "Grand Expedition Yak",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "zone": "Kun-Lai Summit (Grummle Bazaar)",
+    "npcOrVendor": "Uncle Bigpocket",
+    "cost": "120000g",
+    "faction": "Both",
+    "notes": "Transmog + repair vendors on mount."
+  },
+  {
+    "id": "blonde-riding-yak",
+    "name": "Blonde Riding Yak",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "zone": "Kun-Lai Summit (Grummle Bazaar)",
+    "npcOrVendor": "Uncle Bigpocket",
+    "cost": "3000g",
+    "faction": "Both",
+    "notes": "Standard yak mount."
+  },
+  {
+    "id": "armored-skyscreamer",
+    "name": "Armored Skyscreamer",
+    "expansion": "MoP",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Thundering Raider"
+  },
+  {
+    "id": "korkron-juggernaut",
+    "name": "Kor'kron Juggernaut",
+    "expansion": "MoP",
+    "sourceType": "Drop",
+    "instance": "Siege of Orgrimmar (Mythic)",
+    "zone": "Vale of Eternal Blossoms",
+    "npcOrVendor": "Garrosh Hellscream",
+    "dropRateNote": "Very low"
+  },
+  {
+    "id": "korkron-war-wolf",
+    "name": "Kor'kron War Wolf",
+    "expansion": "MoP",
+    "sourceType": "Achievement",
+    "sourceDetail": "Ahead of the Curve: Garrosh Hellscream"
+  },
+  {
+    "id": "black-primal-raptor",
+    "name": "Black Primal Raptor",
+    "expansion": "MoP",
+    "sourceType": "Other",
+    "sourceDetail": "Primal Egg (hatches into one of three)",
+    "zone": "Isle of Giants"
+  },
+  {
+    "id": "red-primal-raptor",
+    "name": "Red Primal Raptor",
+    "expansion": "MoP",
+    "sourceType": "Other",
+    "sourceDetail": "Primal Egg (hatches into one of three)",
+    "zone": "Isle of Giants"
+  },
+  {
+    "id": "green-primal-raptor",
+    "name": "Green Primal Raptor",
+    "expansion": "MoP",
+    "sourceType": "Other",
+    "sourceDetail": "Primal Egg (hatches into one of three)",
+    "zone": "Isle of Giants"
+  },
+  {
+    "id": "bone-white-primal-raptor",
+    "name": "Bone-White Primal Raptor",
+    "expansion": "MoP",
+    "sourceType": "Other",
+    "sourceDetail": "9999 Giant Dinosaur Bones - Ku'ma",
+    "zone": "Isle of Giants"
+  },
+  {
+    "id": "sky-golem",
+    "name": "Sky Golem",
+    "expansion": "MoP",
+    "sourceType": "Profession",
+    "sourceDetail": "Engineering - Jard's Peculiar Energy Source (crafted)"
+  },
+  {
+    "id": "jade-panther",
+    "name": "Jade Panther",
+    "expansion": "MoP",
+    "sourceType": "Profession",
+    "sourceDetail": "Jewelcrafting (crafted)"
+  },
+  {
+    "id": "sunstone-panther",
+    "name": "Sunstone Panther",
+    "expansion": "MoP",
+    "sourceType": "Profession",
+    "sourceDetail": "Jewelcrafting (crafted)"
+  },
+  {
+    "id": "ruby-panther",
+    "name": "Ruby Panther",
+    "expansion": "MoP",
+    "sourceType": "Profession",
+    "sourceDetail": "Jewelcrafting (crafted)"
+  },
+  {
+    "id": "sapphire-panther",
+    "name": "Sapphire Panther",
+    "expansion": "MoP",
+    "sourceType": "Profession",
+    "sourceDetail": "Jewelcrafting (crafted)"
+  },
+  {
+    "id": "jeweled-onyx-panther",
+    "name": "Jeweled Onyx Panther",
+    "expansion": "MoP",
+    "sourceType": "Profession",
+    "sourceDetail": "Jewelcrafting (combine 4 panthers)"
+  },
+  {
+    "id": "red-flying-cloud",
+    "name": "Red Flying Cloud",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "The Lorewalkers - Exalted",
+    "npcOrVendor": "Tan Shin Tiao",
+    "zone": "Vale of Eternal Blossoms",
+    "cost": "600g"
+  },
+  {
+    "id": "amber-scorpion",
+    "name": "Amber Scorpion",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "The Klaxxi - Exalted",
+    "npcOrVendor": "Ambersmith Zikk",
+    "zone": "Dread Wastes",
+    "cost": "10000g"
+  },
+  {
+    "id": "brawlers-burly-mushan",
+    "name": "Brawler's Burly Mushan Beast",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Brawler's Guild - Rank 8",
+    "zone": "Orgrimmar/Stormwind"
+  },
+  {
+    "id": "depleted-kyparium-rocket",
+    "name": "Depleted Kyparium Rocket",
+    "expansion": "MoP",
+    "sourceType": "Profession",
+    "sourceDetail": "Engineering (crafted)"
+  },
+  {
+    "id": "geosynchronous-world-spinner",
+    "name": "Geosynchronous World Spinner",
+    "expansion": "MoP",
+    "sourceType": "Profession",
+    "sourceDetail": "Engineering (crafted)"
+  },
+  {
+    "id": "swift-windsteed",
+    "name": "Swift Windsteed",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Blizzard Store"
+  },
+  {
+    "id": "heavenly-golden-cloud-serpent",
+    "name": "Heavenly Golden Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Emperor Shaohao - Exalted",
+    "npcOrVendor": "Mistweaver Ku",
+    "zone": "Timeless Isle",
+    "cost": "10000g"
+  },
+  {
+    "id": "grand-armored-gryphon",
+    "name": "Grand Armored Gryphon",
+    "expansion": "MoP",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Operation: Shieldwall vendor",
+    "zone": "Krasarang Wilds"
+  },
+  {
+    "id": "grand-armored-wyvern",
+    "name": "Grand Armored Wyvern",
+    "expansion": "MoP",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Dominance Offensive vendor",
+    "zone": "Krasarang Wilds"
+  },
+  {
+    "id": "grand-gryphon",
+    "name": "Grand Gryphon",
+    "expansion": "MoP",
+    "faction": "Alliance",
+    "sourceType": "Quest",
+    "sourceDetail": "Landfall campaign",
+    "zone": "Krasarang Wilds"
+  },
+  {
+    "id": "grand-wyvern",
+    "name": "Grand Wyvern",
+    "expansion": "MoP",
+    "faction": "Horde",
+    "sourceType": "Quest",
+    "sourceDetail": "Landfall campaign",
+    "zone": "Krasarang Wilds"
+  },
+  {
+    "id": "crimson-riding-crane",
+    "name": "Crimson Riding Crane",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Golden Lotus - Exalted",
+    "npcOrVendor": "Jaluu the Generous",
+    "zone": "Vale of Eternal Blossoms",
+    "cost": "2500g"
+  },
+  {
+    "id": "heavenly-crimson-cloud-serpent",
+    "name": "Heavenly Crimson Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Pandaria Raider"
+  },
+  {
+    "id": "ashen-pandaren-phoenix",
+    "name": "Ashen Pandaren Phoenix",
+    "expansion": "MoP",
+    "sourceType": "Achievement",
+    "sourceDetail": "Challenge Conqueror: Gold (Ancestral Phoenix Egg)"
+  },
+  {
+    "id": "emerald-pandaren-phoenix",
+    "name": "Emerald Pandaren Phoenix",
+    "expansion": "MoP",
+    "sourceType": "Achievement",
+    "sourceDetail": "Challenge Conqueror: Gold (Ancestral Phoenix Egg)"
+  },
+  {
+    "id": "crimson-pandaren-phoenix",
+    "name": "Crimson Pandaren Phoenix",
+    "expansion": "MoP",
+    "sourceType": "Achievement",
+    "sourceDetail": "Challenge Conqueror: Gold (Ancestral Phoenix Egg)"
+  },
+  {
+    "id": "violet-pandaren-phoenix",
+    "name": "Violet Pandaren Phoenix",
+    "expansion": "MoP",
+    "sourceType": "Achievement",
+    "sourceDetail": "Challenge Conqueror: Gold (Ancestral Phoenix Egg)"
+  },
+  {
+    "id": "ashhide-mushan-beast",
+    "name": "Ashhide Mushan Beast",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Speaker Gulan - 500 Bloody Coins",
+    "zone": "Timeless Isle"
+  },
+  {
+    "id": "spawn-of-galakras",
+    "name": "Spawn of Galakras",
+    "expansion": "MoP",
+    "sourceType": "Drop",
+    "instance": "Siege of Orgrimmar",
+    "zone": "Vale of Eternal Blossoms",
+    "npcOrVendor": "Galakras",
+    "dropRateNote": "Low"
+  },
+  {
+    "id": "hearthsteed",
+    "name": "Hearthsteed",
+    "expansion": "MoP",
+    "sourceType": "Promotion",
+    "sourceDetail": "Hearthstone promotion"
+  },
+  {
+    "id": "malevolent-gladiators-cloud-serpent",
+    "name": "Malevolent Gladiator's Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 12 - Gladiator reward"
+  },
+  {
+    "id": "tyrannical-gladiators-cloud-serpent",
+    "name": "Tyrannical Gladiator's Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 13 - Gladiator reward"
+  },
+  {
+    "id": "grievous-gladiators-cloud-serpent",
+    "name": "Grievous Gladiator's Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 14 - Gladiator reward"
+  },
+  {
+    "id": "prideful-gladiators-cloud-serpent",
+    "name": "Prideful Gladiator's Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Event",
+    "sourceDetail": "Arena Season 15 - Gladiator reward"
+  },
+  {
+    "id": "azure-riding-crane",
+    "name": "Azure Riding Crane",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Golden Lotus - Exalted",
+    "npcOrVendor": "Jaluu the Generous",
+    "zone": "Vale of Eternal Blossoms",
+    "cost": "2500g"
+  },
+  {
+    "id": "golden-riding-crane",
+    "name": "Golden Riding Crane",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Golden Lotus - Exalted",
+    "npcOrVendor": "Jaluu the Generous",
+    "zone": "Vale of Eternal Blossoms",
+    "cost": "2500g"
+  },
+  {
+    "id": "regal-riding-crane",
+    "name": "Regal Riding Crane",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Golden Lotus - Exalted",
+    "npcOrVendor": "Jaluu the Generous",
+    "zone": "Vale of Eternal Blossoms",
+    "cost": "2500g"
+  },
+  {
+    "id": "black-dragon-turtle",
+    "name": "Black Dragon Turtle",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Faction turtle vendor",
+    "npcOrVendor": "Old Whitenose (A) / Turtlemaster Odai (H)",
+    "zone": "Stormwind / Orgrimmar",
+    "cost": "10-90g"
+  },
+  {
+    "id": "blue-dragon-turtle",
+    "name": "Blue Dragon Turtle",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Faction turtle vendor",
+    "npcOrVendor": "Old Whitenose (A) / Turtlemaster Odai (H)",
+    "zone": "Stormwind / Orgrimmar",
+    "cost": "10-90g"
+  },
+  {
+    "id": "brown-dragon-turtle",
+    "name": "Brown Dragon Turtle",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Faction turtle vendor",
+    "npcOrVendor": "Old Whitenose (A) / Turtlemaster Odai (H)",
+    "zone": "Stormwind / Orgrimmar",
+    "cost": "10-90g"
+  },
+  {
+    "id": "purple-dragon-turtle",
+    "name": "Purple Dragon Turtle",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Faction turtle vendor",
+    "npcOrVendor": "Old Whitenose (A) / Turtlemaster Odai (H)",
+    "zone": "Stormwind / Orgrimmar",
+    "cost": "10-90g"
+  },
+  {
+    "id": "red-dragon-turtle",
+    "name": "Red Dragon Turtle",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Faction turtle vendor",
+    "npcOrVendor": "Old Whitenose (A) / Turtlemaster Odai (H)",
+    "zone": "Stormwind / Orgrimmar",
+    "cost": "10-90g"
+  },
+  {
+    "id": "great-black-dragon-turtle",
+    "name": "Great Black Dragon Turtle",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Faction turtle vendor (epic)",
+    "npcOrVendor": "Old Whitenose (A) / Turtlemaster Odai (H)",
+    "zone": "Stormwind / Orgrimmar",
+    "cost": "90g"
+  },
+  {
+    "id": "great-blue-dragon-turtle",
+    "name": "Great Blue Dragon Turtle",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Faction turtle vendor (epic)",
+    "npcOrVendor": "Old Whitenose (A) / Turtlemaster Odai (H)",
+    "zone": "Stormwind / Orgrimmar",
+    "cost": "90g"
+  },
+  {
+    "id": "great-brown-dragon-turtle",
+    "name": "Great Brown Dragon Turtle",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Faction turtle vendor (epic)",
+    "npcOrVendor": "Old Whitenose (A) / Turtlemaster Odai (H)",
+    "zone": "Stormwind / Orgrimmar",
+    "cost": "90g"
+  },
+  {
+    "id": "great-green-dragon-turtle",
+    "name": "Great Green Dragon Turtle",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Faction turtle vendor (epic)",
+    "npcOrVendor": "Old Whitenose (A) / Turtlemaster Odai (H)",
+    "zone": "Stormwind / Orgrimmar",
+    "cost": "90g"
+  },
+  {
+    "id": "great-red-dragon-turtle",
+    "name": "Great Red Dragon Turtle",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Faction turtle vendor (epic)",
+    "npcOrVendor": "Old Whitenose (A) / Turtlemaster Odai (H)",
+    "zone": "Stormwind / Orgrimmar",
+    "cost": "90g"
+  }
 ]
