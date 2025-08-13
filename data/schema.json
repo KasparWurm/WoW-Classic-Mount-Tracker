@@ -1,96 +1,30 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "WoW Classic\u2013MoP Mounts",
+  "title": "WoW Classic–MoP Mounts",
   "type": "array",
   "items": {
     "type": "object",
-    "required": [
-      "id",
-      "name",
-      "expansion",
-      "sourceType"
-    ],
+    "required": ["id", "name", "expansion", "sourceType"],
     "properties": {
-      "id": {
-        "type": "string",
-        "pattern": "^[a-z0-9-]+$"
-      },
-      "name": {
-        "type": "string"
-      },
-      "expansion": {
-        "type": "string",
-        "enum": [
-          "Vanilla",
-          "TBC",
-          "WotLK",
-          "Cata",
-          "MoP"
-        ]
-      },
-      "faction": {
-        "type": "string",
-        "enum": [
-          "Horde",
-          "Alliance",
-          "Neutral"
-        ]
-      },
-      "classReq": {
-        "type": "array",
-        "items": {
-          "type": "string"
-        }
-      },
-      "raceReq": {
-        "type": "array",
-        "items": {
-          "type": "string"
-        }
-      },
-      "profReq": {
-        "type": "array",
-        "items": {
-          "type": "string"
-        }
-      },
+      "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+      "name": { "type": "string" },
+      "expansion": { "type": "string", "enum": ["Vanilla", "TBC", "WotLK", "Cata", "MoP"] },
+      "faction": { "type": "string", "enum": ["Horde", "Alliance", "Neutral"] },
+      "classReq": { "type": "array", "items": { "type": "string" } },
+      "raceReq": { "type": "array", "items": { "type": "string" } },
+      "profReq": { "type": "array", "items": { "type": "string" } },
       "sourceType": {
         "type": "string",
-        "enum": [
-          "Vendor",
-          "Drop",
-          "Quest",
-          "Achievement",
-          "Reputation",
-          "Profession",
-          "Event",
-          "Other"
-        ]
+        "enum": ["Vendor", "Drop", "Quest", "Achievement", "Reputation", "Profession", "Event", "Other"]
       },
-      "sourceDetail": {
-        "type": "string"
-      },
-      "zone": {
-        "type": "string"
-      },
-      "instance": {
-        "type": "string"
-      },
-      "difficulty": {
-        "type": "string"
-      },
-      "npcOrVendor": {
-        "type": "string"
-      },
-      "cost": {
-        "type": "string"
-      },
-      "dropRateNote": {
-        "type": "string"
-      },
-      "notes": {
-        "type": "string"
-      }
+      "sourceDetail": { "type": "string" },
+      "zone": { "type": "string" },
+      "instance": { "type": "string" },
+      "difficulty": { "type": "string" },
+      "npcOrVendor": { "type": "string" },
+      "cost": { "type": "string" },
+      "dropRateNote": { "type": "string" },
+      "notes": { "type": "string" }
     },
     "additionalProperties": false
   }
