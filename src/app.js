@@ -41,9 +41,14 @@ function applyFilters() {
     (!profession || m.profession === profession)
   );
 
+  // Mark collected status for each mount
+  filtered.forEach(m => m.collected = !!state.owned[m.id]);
+  MOUNTS.forEach(m => m.collected = !!state.owned[m.id]);
+
   renderList(list, filtered, state, onToggle);
   const ownedCount = Object.keys(state.owned).length;
   renderProgress(progress, MOUNTS.length, ownedCount);
+  renderExpansionProgress(MOUNTS); // <-- Add this line
 }
 
 function onToggle(id, checked) {
@@ -52,6 +57,7 @@ function onToggle(id, checked) {
   saveState(state);
   const ownedCount = Object.keys(state.owned).length;
   renderProgress(progress, MOUNTS.length, ownedCount);
+  renderExpansionProgress(MOUNTS); // <-- Add this line
 }
 
 search.addEventListener("input", applyFilters);
@@ -124,11 +130,15 @@ function renderExpansionProgress(mounts) {
             </div>
         `;
         container.appendChild(bar);
-    });
+    }
 }
 
-// Example: Call this after loading or updating your mount data
-// renderExpansionProgress(mounts);
+// Example usage: call this after loading or updating your mount data
+// renderExpansionProgress({
+//     'Vanilla': { collected: 12, total: 50 },
+//     'TBC': { collected: 8, total: 30 },
+//     // ...
+// });
 
 load();
 
