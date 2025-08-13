@@ -1,5 +1,9 @@
 export function renderList(container, data, state, onToggle) {
   container.innerHTML = "";
+  if (data.length === 0) {
+    container.innerHTML = `<div class="no-results">No mounts found matching your filters.</div>`;
+    return;
+  }
   const frag = document.createDocumentFragment();
   data.forEach(m => {
     const owned = !!state.owned[m.id];
