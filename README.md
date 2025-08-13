@@ -12,8 +12,3 @@ No build step needed. Just open `index.html` or run a tiny server:
 ```bash
 python3 -m http.server 8080
 # WoW-Classic-Mount-Tracker
-
-# Requires Node >= 18
-npm init -y
-npm i ajv ajv-cli
-npx ajv validate -s data/schema.json -d data/mounts.json
