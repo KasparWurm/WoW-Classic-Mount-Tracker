@@ -87,5 +87,40 @@ resetBtn.addEventListener("click", () => {
   applyFilters();
 });
 
+function getProgressColor(percent) {
+    if (percent === 100) {
+        return '#3498db'; // blue
+    }
+    // Red to green gradient
+    const r = Math.round(255 * (1 - percent / 100));
+    const g = Math.round(180 * (percent / 100));
+    return `rgb(${r},${g},64)`;
+}
+
+function renderExpansionProgress(expansionStats) {
+    const container = document.getElementById('expansion-progress-bars');
+    container.innerHTML = '';
+    for (const [expansion, { collected, total }] of Object.entries(expansionStats)) {
+        const percent = total ? Math.round((collected / total) * 100) : 0;
+        const color = getProgressColor(percent);
+        const bar = document.createElement('div');
+        bar.className = 'expansion-progress-bar-container';
+        bar.innerHTML = `
+            <span class="expansion-progress-label">${expansion} (${collected}/${total})</span>
+            <div class="expansion-progress-bar">
+                <div class="expansion-progress-bar-inner" style="width:${percent}%;background:${color}"></div>
+            </div>
+        `;
+        container.appendChild(bar);
+    }
+}
+
+// Example usage: call this after loading or updating your mount data
+// renderExpansionProgress({
+//     'Vanilla': { collected: 12, total: 50 },
+//     'TBC': { collected: 8, total: 30 },
+//     // ...
+// });
+
 load();
 
