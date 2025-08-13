@@ -25,12 +25,20 @@ function applyFilters() {
   const exp = filterExpansion.value;
   const src = filterSource.value;
 
+  // Get filter values
+  const faction = document.getElementById('filter-faction').value;
+  const classFilter = document.getElementById('filter-class').value;
+  const profession = document.getElementById('filter-profession').value;
+
   let filtered = MOUNTS.filter(m =>
     (!exp || m.expansion === exp) &&
     (!src || m.sourceType === src) &&
     (!q || (m.name.toLowerCase().includes(q) ||
             (m.instance || '').toLowerCase().includes(q) ||
-            (m.zone || '').toLowerCase().includes(q)))
+            (m.zone || '').toLowerCase().includes(q))) &&
+    (!faction || m.faction === faction) &&
+    (!classFilter || m.class === classFilter) &&
+    (!profession || m.profession === profession)
   );
 
   renderList(list, filtered, state, onToggle);
