@@ -17,7 +17,7 @@
       },
       "faction": {
         "type": "string",
-        "enum": [ "Horde", "Alliance", "Neutral", "Death Knight only" ]
+        "enum": [ "Horde", "Alliance", "Neutral", "Death Knight Only" ]
       },
       "classReq": {
         "type": "array",
