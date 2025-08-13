@@ -87,20 +87,32 @@ resetBtn.addEventListener("click", () => {
   applyFilters();
 });
 
+// Helper: Get color for progress bar based on percent
 function getProgressColor(percent) {
     if (percent === 100) {
-        return '#3498db'; // blue
+        return '#3498db'; // blue at 100%
     }
-    // Red to green gradient
+    // Red to green gradient for 0-99%
     const r = Math.round(255 * (1 - percent / 100));
     const g = Math.round(180 * (percent / 100));
     return `rgb(${r},${g},64)`;
 }
 
-function renderExpansionProgress(expansionStats) {
+// Helper: Render expansion progress bars
+function renderExpansionProgress(mounts) {
+    // Group by expansion
+    const expansions = {};
+    for (const mount of mounts) {
+        const exp = mount.expansion || 'Unknown';
+        if (!expansions[exp]) expansions[exp] = { collected: 0, total: 0 };
+        expansions[exp].total++;
+        if (mount.collected) expansions[exp].collected++;
+    }
+
+    // Render bars
     const container = document.getElementById('expansion-progress-bars');
     container.innerHTML = '';
-    for (const [expansion, { collected, total }] of Object.entries(expansionStats)) {
+    Object.entries(expansions).forEach(([expansion, { collected, total }]) => {
         const percent = total ? Math.round((collected / total) * 100) : 0;
         const color = getProgressColor(percent);
         const bar = document.createElement('div');
@@ -112,15 +124,11 @@ function renderExpansionProgress(expansionStats) {
             </div>
         `;
         container.appendChild(bar);
-    }
+    });
 }
 
-// Example usage: call this after loading or updating your mount data
-// renderExpansionProgress({
-//     'Vanilla': { collected: 12, total: 50 },
-//     'TBC': { collected: 8, total: 30 },
-//     // ...
-// });
+// Example: Call this after loading or updating your mount data
+// renderExpansionProgress(mounts);
 
 load();
 
