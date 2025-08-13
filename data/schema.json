@@ -4,18 +4,36 @@
   "type": "array",
   "items": {
     "type": "object",
-    "required": ["id", "name", "expansion", "sourceType"],
+    "required": [ "id", "name", "expansion", "sourceType" ],
     "properties": {
-      "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9-]+$"
+      },
       "name": { "type": "string" },
-      "expansion": { "type": "string", "enum": ["Vanilla", "TBC", "WotLK", "Cata", "MoP"] },
-      "faction": { "type": "string", "enum": ["Horde", "Alliance", "Neutral", "Death Knight only"] },
-      "classReq": { "type": "array", "items": { "type": "string" } },
-      "raceReq": { "type": "array", "items": { "type": "string" } },
-      "profReq": { "type": "array", "items": { "type": "string" } },
+      "expansion": {
+        "type": "string",
+        "enum": [ "Vanilla", "TBC", "WotLK", "Cata", "MoP" ]
+      },
+      "faction": {
+        "type": "string",
+        "enum": [ "Horde", "Alliance", "Neutral", "Death Knight only" ]
+      },
+      "classReq": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "raceReq": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "profReq": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
       "sourceType": {
         "type": "string",
-        "enum": ["Vendor", "Drop", "Quest", "Achievement", "Reputation", "Profession", "Event", "Other"]
+        "enum": [ "Vendor", "Drop", "Quest", "Achievement", "Reputation", "Profession", "Event", "Other" ]
       },
       "sourceDetail": { "type": "string" },
       "zone": { "type": "string" },
