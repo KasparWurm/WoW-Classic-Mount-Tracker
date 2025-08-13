@@ -615,7 +615,7 @@
   {
     "id": "venomhide-raptor",
     "name": "Venomhide Raptor",
-    "expansion": "Vanilla",
+    "expansion": "WotLK",
     "faction": "Horde",
     "sourceType": "Quest",
     "sourceDetail": "Un'Goro - Venomhide Hatchling daily chain",
@@ -1047,16 +1047,6 @@
   {
     "id": "tan-war-talbuk",
     "name": "Tan War Talbuk",
-    "expansion": "TBC",
-    "sourceType": "Reputation",
-    "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
-    "npcOrVendor": "Trader Narasu / Provisioner Nasela",
-    "zone": "Nagrand",
-    "notes": "War Talbuk"
-  },
-  {
-    "id": "dark-war-talbuk",
-    "name": "Dark War Talbuk",
     "expansion": "TBC",
     "sourceType": "Reputation",
     "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
@@ -3223,5 +3213,49 @@
     "sourceType": "Other",
     "sourceDetail": "Trading Card Game — Fields of Honor",
     "notes": "TCG promo."
+  },
+  {
+    "id": "spectral-tiger",
+    "name": "Spectral Tiger",
+    "expansion": "TBC",
+    "faction": "Neutral",
+    "sourceType": "Other",
+    "sourceDetail": "Trading Card Game – Fires of Outland (loot card)",
+    "notes": "TCG promo mount (standard ground). Classic availability may vary by realm."
+  },
+  {
+    "id": "swift-spectral-tiger",
+    "name": "Swift Spectral Tiger",
+    "expansion": "TBC",
+    "faction": "Neutral",
+    "sourceType": "Other",
+    "sourceDetail": "Trading Card Game – Fires of Outland (loot card, epic)",
+    "notes": "TCG promo mount (epic ground). Classic availability may vary by realm."
+  },
+  {
+    "id": "swift-zhevra",
+    "name": "Swift Zhevra",
+    "expansion": "TBC",
+    "faction": "Neutral",
+    "sourceType": "Promotion",
+    "sourceDetail": "Recruit-A-Friend (2008–2009)",
+    "notes": "RAF reward; retired later. Classic availability may vary by realm."
+  },
+  {
+    "id": "big-battle-bear",
+    "name": "Big Battle Bear",
+    "expansion": "TBC",
+    "faction": "Neutral",
+    "sourceType": "Other",
+    "sourceDetail": "Trading Card Game – Drums of War (loot card)",
+    "notes": "TCG promo mount. Classic availability may vary by realm."
+  },
+  {
+    "id": "frosty-flying-carpet",
+    "name": "Frosty Flying Carpet",
+    "expansion": "WotLK",
+    "sourceType": "Profession",
+    "sourceDetail": "Tailoring 425 (crafted)",
+    "notes": "Tailor-only flying mount; requires Tailoring to ride."
   }
 ]
