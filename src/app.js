@@ -77,7 +77,14 @@ importFile.addEventListener("change", async (e) => {
 
 resetBtn.addEventListener("click", () => {
   if (!confirm("Reset your local progress?")) return;
-  resetState(); state = loadState(); applyFilters();
+  resetState(); state = loadState();
+  // Reset filters
+  filterExpansion.value = "";
+  filterSource.value = "";
+  filterFaction.value = "";
+  filterClass.value = "";
+  filterProfession.value = "";
+  applyFilters();
 });
 
 load();
