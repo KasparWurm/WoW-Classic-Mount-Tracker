@@ -81,7 +81,7 @@ If unsure, look at a similar mount entry for formatting guidance.
 
 ## 🛣 Roadmap
 Planned improvements and features:
-- Expand mount list: Complete Vanilla → MoP Classic coverage.
+- ~~Expand mount list: Complete Vanilla → MoP Classic coverage.~~
 - Faction/class/profession filters.
 - Per-expansion progress bars.
 - Sorting: By name, expansion, source type.
