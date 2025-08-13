@@ -3414,5 +3414,76 @@
     "sourceType": "Other",
     "sourceDetail": "Recruit-A-Friend (2013)",
     "notes": "Promo mount; Classic availability may vary."
+  },
+  {
+    "id": "golden-primal-direhorn",
+    "name": "Golden Primal Direhorn",
+    "expansion": "MoP",
+    "faction": "Alliance",
+    "sourceType": "Vendor",
+    "sourceDetail": "Kirin Tor Offensive – Exalted",
+    "npcOrVendor": "Kirin Tor Offensive Quartermaster",
+    "zone": "Isle of Thunder"
+  },
+  {
+    "id": "crimson-primal-direhorn",
+    "name": "Crimson Primal Direhorn",
+    "expansion": "MoP",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "Sunreaver Onslaught – Exalted",
+    "npcOrVendor": "Sunreaver Onslaught Quartermaster",
+    "zone": "Isle of Thunder"
+  },
+  {
+    "id": "grey-riding-yak",
+    "name": "Grey Riding Yak",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Grummle Bazaar mount vendor",
+    "npcOrVendor": "Uncle Bigpocket",
+    "zone": "Kun-Lai Summit",
+    "cost": "3000g"
+  },
+  {
+    "id": "swift-lovebird",
+    "name": "Swift Lovebird",
+    "expansion": "MoP",
+    "sourceType": "Event",
+    "sourceDetail": "Love is in the Air – Holiday vendor",
+    "cost": "270 Love Tokens",
+    "notes": "Seasonal purchase"
+  },
+  {
+    "id": "armored-blue-dragonhawk",
+    "name": "Armored Blue Dragonhawk",
+    "expansion": "MoP",
+    "faction": "Alliance",
+    "sourceType": "Achievement",
+    "sourceDetail": "Mount Parade (collect 200 mounts)"
+  },
+  {
+    "id": "armored-red-dragonhawk",
+    "name": "Armored Red Dragonhawk",
+    "expansion": "MoP",
+    "faction": "Horde",
+    "sourceType": "Achievement",
+    "sourceDetail": "Mount Parade (collect 200 mounts)"
+  },
+  {
+    "id": "emerald-hippogryph",
+    "name": "Emerald Hippogryph",
+    "expansion": "MoP",
+    "sourceType": "Event",
+    "sourceDetail": "Recruit-A-Friend reward",
+    "notes": "RAF mount (MoP era)"
+  },
+  {
+    "id": "armored-bloodwing",
+    "name": "Armored Bloodwing",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Blizzard Store",
+    "notes": "Store mount (MoP era)"
   }
 ]
