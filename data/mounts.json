@@ -2675,7 +2675,7 @@
     "id": "imperial-quilen",
     "name": "Imperial Quilen",
     "expansion": "MoP",
-    "sourceType": "Promotion",
+    "sourceType": "Other",
     "sourceDetail": "Mists of Pandaria Collector’s/Digital Deluxe (also Battle.net Shop)",
     "faction": "Neutral",
     "notes": "Promo/store mount."
@@ -2962,7 +2962,7 @@
     "id": "hearthsteed",
     "name": "Hearthsteed",
     "expansion": "MoP",
-    "sourceType": "Promotion",
+    "sourceType": "Other",
     "sourceDetail": "Hearthstone promotion"
   },
   {
@@ -3178,7 +3178,7 @@
     "id": "celestial-steed",
     "name": "Celestial Steed",
     "expansion": "WotLK",
-    "sourceType": "Promotion",
+    "sourceType": "Other",
     "sourceDetail": "Blizzard Store (2010)",
     "notes": "Store mount from the Wrath era."
   },
@@ -3186,7 +3186,7 @@
     "id": "x53-touring-rocket",
     "name": "X-53 Touring Rocket",
     "expansion": "WotLK",
-    "sourceType": "Promotion",
+    "sourceType": "Other",
     "sourceDetail": "Recruit-A-Friend (two-seat flying mount)",
     "notes": "Wrath-era RAF reward."
   },
@@ -3194,7 +3194,7 @@
     "id": "big-blizzard-bear",
     "name": "Big Blizzard Bear",
     "expansion": "WotLK",
-    "sourceType": "Promotion",
+    "sourceType": "Other",
     "sourceDetail": "BlizzCon 2008 code",
     "notes": "Promo mount."
   },
@@ -3237,7 +3237,7 @@
     "name": "Swift Zhevra",
     "expansion": "TBC",
     "faction": "Neutral",
-    "sourceType": "Promotion",
+    "sourceType": "Other",
     "sourceDetail": "Recruit-A-Friend (2008–2009)",
     "notes": "RAF reward; retired later. Classic availability may vary by realm."
   },
@@ -3282,7 +3282,7 @@
     "name": "Reins of the Spectral Gryphon",
     "expansion": "Cata",
     "faction": "Alliance",
-    "sourceType": "Promotion",
+    "sourceType": "Other",
     "sourceDetail": "Scroll of Resurrection (redeemer reward)",
     "notes": "Promo; availability in Classic may vary by region/realm"
   },
@@ -3291,7 +3291,7 @@
     "name": "Reins of the Spectral Wind Rider",
     "expansion": "Cata",
     "faction": "Horde",
-    "sourceType": "Promotion",
+    "sourceType": "Other",
     "sourceDetail": "Scroll of Resurrection (redeemer reward)",
     "notes": "Promo; availability in Classic may vary by region/realm"
   }
