@@ -60,17 +60,6 @@
     "notes": "Account-wide once earned."
   },
   {
-    "id": "swift-brown-wolf",
-    "name": "Swift Brown Wolf",
-    "expansion": "Vanilla",
-    "faction": "Horde",
-    "sourceType": "Vendor",
-    "sourceDetail": "Orgrimmar – Exalted with Orgrimmar",
-    "npcOrVendor": "Ogunaro Wolfrunner",
-    "cost": "90g (before discounts)",
-    "notes": "Orgrimmar racial mount."
-  },
-  {
     "id": "swift-timber-wolf",
     "name": "Swift Timber Wolf",
     "expansion": "Vanilla",
@@ -441,7 +430,7 @@
     "npcOrVendor": "Zachariah Post",
     "cost": "90g (before discounts)",
     "notes": "Forsaken racial mount."
-  }.
+  },
   {
     "id": "felsteed",
     "name": "Felsteed",
