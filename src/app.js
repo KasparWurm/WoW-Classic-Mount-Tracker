@@ -116,5 +116,25 @@ function renderExpansionProgress(mounts) {
 
 console.log("MOUNTS for progress bars:", MOUNTS.map(m => ({id: m.id, expansion: m.expansion, collected: m.collected})));
 
+const selectAllBtn = document.getElementById("select-all-btn");
+
+selectAllBtn.addEventListener("click", () => {
+  const q = search.value.trim().toLowerCase();
+  const exp = filterExpansion.value;
+  const src = filterSource.value;
+
+  let filtered = MOUNTS.filter(m =>
+    (!exp || m.expansion === exp) &&
+    (!src || m.sourceType === src) &&
+    (!q || (m.name.toLowerCase().includes(q) ||
+            (m.instance || "").toLowerCase().includes(q) ||
+            (m.zone || "").toLowerCase().includes(q)))
+  );
+
+  filtered.forEach(m => state.owned[m.id] = true);
+  saveState(state);
+  applyFilters();
+});
+
 load();
 
