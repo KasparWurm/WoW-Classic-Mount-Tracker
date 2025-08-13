@@ -2711,5 +2711,208 @@
         "cost": "3000g",
         "faction": "Both",
         "notes": "Standard yak mount."
+    },
+    {
+        "id": "armored-skyscreamer",
+        "name": "Armored Skyscreamer",
+        "expansion": "MoP",
+        "sourceType": "Achievement",
+        "sourceDetail": "Glory of the Thundering Raider"
+    },
+    {
+        "id": "korkron-juggernaut",
+        "name": "Kor'kron Juggernaut",
+        "expansion": "MoP",
+        "sourceType": "Drop",
+        "instance": "Siege of Orgrimmar (Mythic)",
+        "zone": "Vale of Eternal Blossoms",
+        "npcOrVendor": "Garrosh Hellscream",
+        "dropRateNote": "Very low"
+    },
+    {
+        "id": "korkron-war-wolf",
+        "name": "Kor'kron War Wolf",
+        "expansion": "MoP",
+        "sourceType": "Achievement",
+        "sourceDetail": "Ahead of the Curve: Garrosh Hellscream"
+    },
+    {
+        "id": "black-primal-raptor",
+        "name": "Black Primal Raptor",
+        "expansion": "MoP",
+        "sourceType": "Other",
+        "sourceDetail": "Primal Egg (hatches into one of three)",
+        "zone": "Isle of Giants"
+    },
+    {
+        "id": "red-primal-raptor",
+        "name": "Red Primal Raptor",
+        "expansion": "MoP",
+        "sourceType": "Other",
+        "sourceDetail": "Primal Egg (hatches into one of three)",
+        "zone": "Isle of Giants"
+    },
+    {
+        "id": "green-primal-raptor",
+        "name": "Green Primal Raptor",
+        "expansion": "MoP",
+        "sourceType": "Other",
+        "sourceDetail": "Primal Egg (hatches into one of three)",
+        "zone": "Isle of Giants"
+    },
+    {
+        "id": "bone-white-primal-raptor",
+        "name": "Bone-White Primal Raptor",
+        "expansion": "MoP",
+        "sourceType": "Other",
+        "sourceDetail": "9999 Giant Dinosaur Bones - Ku'ma",
+        "zone": "Isle of Giants"
+    },
+    {
+        "id": "sky-golem",
+        "name": "Sky Golem",
+        "expansion": "MoP",
+        "sourceType": "Profession",
+        "sourceDetail": "Engineering - Jard's Peculiar Energy Source (crafted)"
+    },
+    {
+        "id": "jade-panther",
+        "name": "Jade Panther",
+        "expansion": "MoP",
+        "sourceType": "Profession",
+        "sourceDetail": "Jewelcrafting (crafted)"
+    },
+    {
+        "id": "sunstone-panther",
+        "name": "Sunstone Panther",
+        "expansion": "MoP",
+        "sourceType": "Profession",
+        "sourceDetail": "Jewelcrafting (crafted)"
+    },
+    {
+        "id": "ruby-panther",
+        "name": "Ruby Panther",
+        "expansion": "MoP",
+        "sourceType": "Profession",
+        "sourceDetail": "Jewelcrafting (crafted)"
+    },
+    {
+        "id": "sapphire-panther",
+        "name": "Sapphire Panther",
+        "expansion": "MoP",
+        "sourceType": "Profession",
+        "sourceDetail": "Jewelcrafting (crafted)"
+    },
+    {
+        "id": "jeweled-onyx-panther",
+        "name": "Jeweled Onyx Panther",
+        "expansion": "MoP",
+        "sourceType": "Profession",
+        "sourceDetail": "Jewelcrafting (combine 4 panthers)"
+    },
+    {
+        "id": "red-flying-cloud",
+        "name": "Red Flying Cloud",
+        "expansion": "MoP",
+        "sourceType": "Vendor",
+        "sourceDetail": "The Lorewalkers - Exalted",
+        "npcOrVendor": "Tan Shin Tiao",
+        "zone": "Vale of Eternal Blossoms",
+        "cost": "600g"
+    },
+    {
+        "id": "amber-scorpion",
+        "name": "Amber Scorpion",
+        "expansion": "MoP",
+        "sourceType": "Vendor",
+        "sourceDetail": "The Klaxxi - Exalted",
+        "npcOrVendor": "Ambersmith Zikk",
+        "zone": "Dread Wastes",
+        "cost": "10000g"
+    },
+    {
+        "id": "brawlers-burly-mushan",
+        "name": "Brawler's Burly Mushan Beast",
+        "expansion": "MoP",
+        "sourceType": "Vendor",
+        "sourceDetail": "Brawler's Guild - Rank 8",
+        "zone": "Orgrimmar/Stormwind"
+    },
+    {
+        "id": "depleted-kyparium-rocket",
+        "name": "Depleted Kyparium Rocket",
+        "expansion": "MoP",
+        "sourceType": "Profession",
+        "sourceDetail": "Engineering (crafted)"
+    },
+    {
+        "id": "geosynchronous-world-spinner",
+        "name": "Geosynchronous World Spinner",
+        "expansion": "MoP",
+        "sourceType": "Profession",
+        "sourceDetail": "Engineering (crafted)"
+    },
+    {
+        "id": "swift-windsteed",
+        "name": "Swift Windsteed",
+        "expansion": "MoP",
+        "sourceType": "Vendor",
+        "sourceDetail": "Blizzard Store"
+    },
+    {
+        "id": "heavenly-golden-cloud-serpent",
+        "name": "Heavenly Golden Cloud Serpent",
+        "expansion": "MoP",
+        "sourceType": "Vendor",
+        "sourceDetail": "Emperor Shaohao - Exalted",
+        "npcOrVendor": "Mistweaver Ku",
+        "zone": "Timeless Isle",
+        "cost": "10000g"
+    },
+    {
+        "id": "grand-armored-gryphon",
+        "name": "Grand Armored Gryphon",
+        "expansion": "MoP",
+        "faction": "Alliance",
+        "sourceType": "Vendor",
+        "sourceDetail": "Operation: Shieldwall vendor",
+        "zone": "Krasarang Wilds"
+    },
+    {
+        "id": "grand-armored-wyvern",
+        "name": "Grand Armored Wyvern",
+        "expansion": "MoP",
+        "faction": "Horde",
+        "sourceType": "Vendor",
+        "sourceDetail": "Dominance Offensive vendor",
+        "zone": "Krasarang Wilds"
+    },
+    {
+        "id": "grand-gryphon",
+        "name": "Grand Gryphon",
+        "expansion": "MoP",
+        "faction": "Alliance",
+        "sourceType": "Quest",
+        "sourceDetail": "Landfall campaign",
+        "zone": "Krasarang Wilds"
+    },
+    {
+        "id": "grand-wyvern",
+        "name": "Grand Wyvern",
+        "expansion": "MoP",
+        "faction": "Horde",
+        "sourceType": "Quest",
+        "sourceDetail": "Landfall campaign",
+        "zone": "Krasarang Wilds"
+    },
+    {
+        "id": "crimson-riding-crane",
+        "name": "Crimson Riding Crane",
+        "expansion": "MoP",
+        "sourceType": "Vendor",
+        "sourceDetail": "Golden Lotus - Exalted",
+        "npcOrVendor": "Jaluu the Generous",
+        "zone": "Vale of Eternal Blossoms",
+        "cost": "2500g"
     }
 ]
