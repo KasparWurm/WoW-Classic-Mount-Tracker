@@ -1517,7 +1517,7 @@
     "id": "time-lost-proto-drake",
     "name": "Time-Lost Proto-Drake",
     "expansion": "WotLK",
-    "sourceType": "Other",
+    "sourceType": "Drop",
     "sourceDetail": "Rare spawn",
     "zone": "Storm Peaks",
     "dropRateNote": "Very low"
@@ -1793,7 +1793,7 @@
     "id": "green-proto-drake",
     "name": "Green Proto-Drake",
     "expansion": "WotLK",
-    "sourceType": "Other",
+    "sourceType": "Vendor",
     "sourceDetail": "The Oracles – Mysterious Egg (hatch chance)",
     "npcOrVendor": "Geen"
   },
@@ -2076,7 +2076,7 @@
     "id": "phosphorescent-stone-drake",
     "name": "Phosphorescent Stone Drake",
     "expansion": "Cata",
-    "sourceType": "Other",
+    "sourceType": "Drop",
     "sourceDetail": "Rare spawn Aeonaxx",
     "zone": "Deepholm",
     "dropRateNote": "Very low"
@@ -2355,21 +2355,21 @@
     "name": "Savage Raptor",
     "expansion": "Cata",
     "sourceType": "Event",
-    "sourceDetail": "Trading Card Game - War of the Elements"
+    "sourceDetail": "WoW TCG - War of the Elements"
   },
   {
     "id": "mottled-drake",
     "name": "Mottled Drake",
     "expansion": "Cata",
     "sourceType": "Event",
-    "sourceDetail": "Trading Card Game - Worldbreaker"
+    "sourceDetail": "WoW TCG - Worldbreaker"
   },
   {
     "id": "wooly-white-rhino",
     "name": "Wooly White Rhino",
     "expansion": "Cata",
     "sourceType": "Event",
-    "sourceDetail": "Trading Card Game - Icecrown"
+    "sourceDetail": "WoW TCG - Icecrown"
   },
   {
     "id": "swift-springstrider",
@@ -2416,7 +2416,7 @@
     "name": "Amani Dragonhawk",
     "expansion": "Cata",
     "sourceType": "Event",
-    "sourceDetail": "Trading Card Game - Twilight of the Dragons"
+    "sourceDetail": "WoW TCG - Twilight of the Dragons"
   },
   {
     "id": "vicious-gladiators-twilight-drake",
@@ -3203,7 +3203,7 @@
     "name": "Blazing Hippogryph",
     "expansion": "WotLK",
     "sourceType": "Other",
-    "sourceDetail": "Trading Card Game — Scourgewar",
+    "sourceDetail": "WoW TCG — Scourgewar",
     "notes": "TCG promo."
   },
   {
@@ -3211,7 +3211,7 @@
     "name": "Magic Rooster",
     "expansion": "WotLK",
     "sourceType": "Other",
-    "sourceDetail": "Trading Card Game — Fields of Honor",
+    "sourceDetail": "WoW TCG — Fields of Honor",
     "notes": "TCG promo."
   },
   {
@@ -3220,7 +3220,7 @@
     "expansion": "TBC",
     "faction": "Neutral",
     "sourceType": "Other",
-    "sourceDetail": "Trading Card Game – Fires of Outland (loot card)",
+    "sourceDetail": "WoW TCG – Fires of Outland (loot card)",
     "notes": "TCG promo mount (standard ground). Classic availability may vary by realm."
   },
   {
@@ -3229,7 +3229,7 @@
     "expansion": "TBC",
     "faction": "Neutral",
     "sourceType": "Other",
-    "sourceDetail": "Trading Card Game – Fires of Outland (loot card, epic)",
+    "sourceDetail": "WoW TCG – Fires of Outland (loot card, epic)",
     "notes": "TCG promo mount (epic ground). Classic availability may vary by realm."
   },
   {
@@ -3247,7 +3247,7 @@
     "expansion": "TBC",
     "faction": "Neutral",
     "sourceType": "Other",
-    "sourceDetail": "Trading Card Game – Drums of War (loot card)",
+    "sourceDetail": "WoW TCG – Drums of War (loot card)",
     "notes": "TCG promo mount. Classic availability may vary by realm."
   },
   {
@@ -3294,5 +3294,125 @@
     "sourceType": "Other",
     "sourceDetail": "Scroll of Resurrection (redeemer reward)",
     "notes": "Promo; availability in Classic may vary by region/realm"
+  },
+  {
+    "id": "green-dragon-turtle",
+    "name": "Green Dragon Turtle",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Faction turtle vendor",
+    "npcOrVendor": "Old Whitenose (A) / Turtlemaster Odai (H)",
+    "zone": "Stormwind / Orgrimmar",
+    "cost": "10-90g"
+  },
+  {
+    "id": "great-purple-dragon-turtle",
+    "name": "Great Purple Dragon Turtle",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "Faction turtle vendor (epic)",
+    "npcOrVendor": "Old Whitenose (A) / Turtlemaster Odai (H)",
+    "zone": "Stormwind / Orgrimmar",
+    "cost": "90g"
+  },
+  {
+    "id": "brown-riding-goat",
+    "name": "Brown Riding Goat",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "The Tillers – Exalted",
+    "npcOrVendor": "Tillers Quartermaster",
+    "zone": "Valley of the Four Winds"
+  },
+  {
+    "id": "black-riding-goat",
+    "name": "Black Riding Goat",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "The Tillers – Exalted",
+    "npcOrVendor": "Tillers Quartermaster",
+    "zone": "Valley of the Four Winds"
+  },
+  {
+    "id": "white-riding-goat",
+    "name": "White Riding Goat",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "The Tillers – Exalted",
+    "npcOrVendor": "Tillers Quartermaster",
+    "zone": "Valley of the Four Winds"
+  },
+  {
+    "id": "crimson-cloud-serpent",
+    "name": "Crimson Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Achievement",
+    "sourceDetail": "Glory of the Pandaria Hero"
+  },
+  {
+    "id": "thundering-august-cloud-serpent",
+    "name": "Thundering August Cloud Serpent",
+    "expansion": "MoP",
+    "sourceType": "Vendor",
+    "sourceDetail": "The August Celestials – Exalted",
+    "npcOrVendor": "August Celestials Quartermaster",
+    "zone": "Shrine of Seven Stars / Shrine of Two Moons",
+    "cost": "10000g"
+  },
+  {
+    "id": "armored-blue-dragonhawk",
+    "name": "Armored Blue Dragonhawk",
+    "expansion": "MoP",
+    "faction": "Alliance",
+    "sourceType": "Achievement",
+    "sourceDetail": "Mount Parade (collect 200 mounts)"
+  },
+  {
+    "id": "armored-red-dragonhawk",
+    "name": "Armored Red Dragonhawk",
+    "expansion": "MoP",
+    "faction": "Horde",
+    "sourceType": "Achievement",
+    "sourceDetail": "Mount Parade (collect 200 mounts)"
+  },
+  {
+    "id": "armored-bloodwing",
+    "name": "Armored Bloodwing",
+    "expansion": "MoP",
+    "sourceType": "Other",
+    "sourceDetail": "Blizzard Store",
+    "notes": "Store mount; Classic availability may vary."
+  },
+  {
+    "id": "enchanted-fey-dragon",
+    "name": "Enchanted Fey Dragon",
+    "expansion": "MoP",
+    "sourceType": "Other",
+    "sourceDetail": "Blizzard Store",
+    "notes": "Store mount; Classic availability may vary."
+  },
+  {
+    "id": "iron-skyreaver",
+    "name": "Iron Skyreaver",
+    "expansion": "MoP",
+    "sourceType": "Other",
+    "sourceDetail": "Blizzard Store",
+    "notes": "Store mount; Classic availability may vary."
+  },
+  {
+    "id": "warforged-nightmare",
+    "name": "Warforged Nightmare",
+    "expansion": "MoP",
+    "sourceType": "Other",
+    "sourceDetail": "Blizzard Store",
+    "notes": "Store mount; Classic availability may vary."
+  },
+  {
+    "id": "emerald-hippogryph",
+    "name": "Emerald Hippogryph",
+    "expansion": "MoP",
+    "sourceType": "Other",
+    "sourceDetail": "Recruit-A-Friend (2013)",
+    "notes": "Promo mount; Classic availability may vary."
   }
 ]
