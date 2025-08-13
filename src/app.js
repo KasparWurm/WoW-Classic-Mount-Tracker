@@ -58,6 +58,14 @@ search.addEventListener("input", applyFilters);
 filterExpansion.addEventListener("change", applyFilters);
 filterSource.addEventListener("change", applyFilters);
 
+const filterFaction = document.getElementById('filter-faction');
+const filterClass = document.getElementById('filter-class');
+const filterProfession = document.getElementById('filter-profession');
+
+filterFaction.addEventListener("change", applyFilters);
+filterClass.addEventListener("change", applyFilters);
+filterProfession.addEventListener("change", applyFilters);
+
 exportBtn.addEventListener("click", exportState);
 importFile.addEventListener("change", async (e) => {
   const file = e.target.files?.[0];
