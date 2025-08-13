@@ -1015,16 +1015,6 @@
     "notes": "Riding Talbuk"
   },
   {
-    "id": "dark-riding-talbuk",
-    "name": "Dark Riding Talbuk",
-    "expansion": "TBC",
-    "sourceType": "Reputation",
-    "sourceDetail": "Kurenai (A) / Mag'har (H) - Exalted",
-    "npcOrVendor": "Trader Narasu / Provisioner Nasela",
-    "zone": "Nagrand",
-    "notes": "Riding Talbuk"
-  },
-  {
     "id": "cobalt-war-talbuk",
     "name": "Cobalt War Talbuk",
     "expansion": "TBC",
@@ -3142,5 +3132,29 @@
     "npcOrVendor": "Old Whitenose (A) / Turtlemaster Odai (H)",
     "zone": "Stormwind / Orgrimmar",
     "cost": "90g"
+  },
+  {
+    "id": "brewfest-ram",
+    "name": "Brewfest Ram",
+    "expansion": "TBC",
+    "sourceType": "Event",
+    "sourceDetail": "Brewfest (2007–2008) – Ram Racing/vendor",
+    "notes": "60% speed; removed in later patches"
+  },
+  {
+    "id": "x-51-nether-rocket",
+    "name": "X-51 Nether-Rocket",
+    "expansion": "TBC",
+    "sourceType": "TCG",
+    "sourceDetail": "WoW TCG – Servants of the Betrayer",
+    "notes": "Promo mount (standard speed)"
+  },
+  {
+    "id": "x-51-nether-rocket-xtreme",
+    "name": "X-51 Nether-Rocket X-TREME",
+    "expansion": "TBC",
+    "sourceType": "TCG",
+    "sourceDetail": "WoW TCG – Servants of the Betrayer",
+    "notes": "Promo mount (epic speed)"
   }
 ]
