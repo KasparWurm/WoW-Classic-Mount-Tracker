@@ -3257,5 +3257,42 @@
     "sourceType": "Profession",
     "sourceDetail": "Tailoring 425 (crafted)",
     "notes": "Tailor-only flying mount; requires Tailoring to ride."
+  },
+  {
+    "id": "swift-forest-strider",
+    "name": "Swift Forest Strider",
+    "expansion": "Cata",
+    "sourceType": "Vendor",
+    "sourceDetail": "Darkmoon Faire – Prize Vendor",
+    "npcOrVendor": "Lhara",
+    "zone": "Darkmoon Island",
+    "cost": "180 Darkmoon Prize Tickets"
+  },
+  {
+    "id": "swift-lovebird",
+    "name": "Swift Lovebird",
+    "expansion": "Cata",
+    "sourceType": "Event",
+    "sourceDetail": "Love is in the Air – Holiday vendor",
+    "cost": "270 Love Tokens",
+    "notes": "Holiday currency purchase"
+  },
+  {
+    "id": "spectral-gryphon",
+    "name": "Reins of the Spectral Gryphon",
+    "expansion": "Cata",
+    "faction": "Alliance",
+    "sourceType": "Promotion",
+    "sourceDetail": "Scroll of Resurrection (redeemer reward)",
+    "notes": "Promo; availability in Classic may vary by region/realm"
+  },
+  {
+    "id": "spectral-wind-rider",
+    "name": "Reins of the Spectral Wind Rider",
+    "expansion": "Cata",
+    "faction": "Horde",
+    "sourceType": "Promotion",
+    "sourceDetail": "Scroll of Resurrection (redeemer reward)",
+    "notes": "Promo; availability in Classic may vary by region/realm"
   }
 ]
