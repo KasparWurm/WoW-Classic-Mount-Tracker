@@ -1544,7 +1544,7 @@
     "id": "black-war-mammoth",
     "name": "Black War Mammoth",
     "expansion": "WotLK",
-    "faction": "Both",
+    "faction": "Neutral",
     "sourceType": "Vendor",
     "sourceDetail": "Wintergrasp Quartermaster - Honor/Stone Keeper's Shards",
     "zone": "Wintergrasp"
@@ -1811,7 +1811,7 @@
     "id": "winged-steed-of-the-ebon-blade",
     "name": "Winged Steed of the Ebon Blade",
     "expansion": "WotLK",
-    "faction": "Death Knight only",
+    "faction": "Neutral",
     "sourceType": "Vendor",
     "sourceDetail": "Acherus: The Ebon Hold – DK Class Vendor",
     "npcOrVendor": "Dread Commander Thalanor",
@@ -2508,7 +2508,7 @@
     "npcOrVendor": "San Redscale",
     "sourceDetail": "Order of the Cloud Serpent – Exalted",
     "cost": "3000g",
-    "faction": "Both",
+    "faction": "Neutral",
     "notes": "Requires Cloud Serpent Riding."
   },
   {
@@ -2520,7 +2520,7 @@
     "npcOrVendor": "San Redscale",
     "sourceDetail": "Order of the Cloud Serpent – Exalted",
     "cost": "3000g",
-    "faction": "Both",
+    "faction": "Neutral",
     "notes": "Requires Cloud Serpent Riding."
   },
   {
@@ -2532,7 +2532,7 @@
     "npcOrVendor": "San Redscale",
     "sourceDetail": "Order of the Cloud Serpent – Exalted",
     "cost": "3000g",
-    "faction": "Both",
+    "faction": "Neutral",
     "notes": "Requires Cloud Serpent Riding."
   },
   {
@@ -2544,7 +2544,7 @@
     "npcOrVendor": "Rushi the Fox",
     "sourceDetail": "Shado-Pan – Exalted",
     "cost": "1500g",
-    "faction": "Both",
+    "faction": "Neutral",
     "notes": "Reputation mount."
   },
   {
@@ -2556,7 +2556,7 @@
     "npcOrVendor": "Rushi the Fox",
     "sourceDetail": "Shado-Pan – Exalted",
     "cost": "1500g",
-    "faction": "Both",
+    "faction": "Neutral",
     "notes": "Reputation mount."
   },
   {
@@ -2568,7 +2568,7 @@
     "npcOrVendor": "Rushi the Fox",
     "sourceDetail": "Shado-Pan – Exalted",
     "cost": "2500g",
-    "faction": "Both",
+    "faction": "Neutral",
     "notes": "Reputation mount."
   },
   {
@@ -2650,7 +2650,7 @@
     "npcOrVendor": "Nat Pagle",
     "sourceDetail": "The Anglers – Exalted",
     "cost": "4000–5000g",
-    "faction": "Both",
+    "faction": "Neutral",
     "notes": "Walks on water."
   },
   {
@@ -2660,7 +2660,7 @@
     "sourceType": "Achievement",
     "sourceDetail": "Guild Glory of the Pandaria Raider (purchase from guild vendor)",
     "cost": "3000g",
-    "faction": "Both",
+    "faction": "Neutral",
     "notes": "Guild achievement unlock required."
   },
   {
@@ -2669,7 +2669,7 @@
     "expansion": "MoP",
     "sourceType": "Achievement",
     "sourceDetail": "We’re Going to Need More Saddles (150 mounts)",
-    "faction": "Both",
+    "faction": "Neutral",
     "notes": "Auto-learned on achievement."
   },
   {
@@ -2678,7 +2678,7 @@
     "expansion": "MoP",
     "sourceType": "Achievement",
     "sourceDetail": "Pandaren Ambassador (Exalted with Pandaria core factions)",
-    "faction": "Both",
+    "faction": "Neutral",
     "notes": "Faction-colored variant (A/H)."
   },
   {
@@ -2687,7 +2687,7 @@
     "expansion": "MoP",
     "sourceType": "Promotion",
     "sourceDetail": "Mists of Pandaria Collector’s/Digital Deluxe (also Battle.net Shop)",
-    "faction": "Both",
+    "faction": "Neutral",
     "notes": "Promo/store mount."
   },
   {
@@ -2698,7 +2698,7 @@
     "zone": "Kun-Lai Summit (Grummle Bazaar)",
     "npcOrVendor": "Uncle Bigpocket",
     "cost": "120000g",
-    "faction": "Both",
+    "faction": "Neutral",
     "notes": "Transmog + repair vendors on mount."
   },
   {
@@ -2709,7 +2709,7 @@
     "zone": "Kun-Lai Summit (Grummle Bazaar)",
     "npcOrVendor": "Uncle Bigpocket",
     "cost": "3000g",
-    "faction": "Both",
+    "faction": "Neutral",
     "notes": "Standard yak mount."
   },
   {
