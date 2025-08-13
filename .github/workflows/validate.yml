@@ -1,1 +1,19 @@
+name: Validate data
+on:
+  pull_request:
+    paths: [ "data/mounts.json", "data/schema.json" ]
+  push:
+    paths: [ "data/mounts.json", "data/schema.json" ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm init -y && npm i ajv ajv-cli
+      - run: npx ajv validate -s data/schema.json -d data/mounts.json
 
