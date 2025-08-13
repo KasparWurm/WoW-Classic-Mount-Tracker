@@ -3156,5 +3156,72 @@
     "sourceType": "TCG",
     "sourceDetail": "WoW TCG – Servants of the Betrayer",
     "notes": "Promo mount (epic speed)"
-  }
+  },
+	{
+		"id": "crusaders-white-warhorse",
+		"name": "Crusader's White Warhorse",
+		"expansion": "WotLK",
+		"faction": "Alliance",
+		"sourceType": "Achievement",
+		"sourceDetail": "Trial of the Grand Crusader (25) — A Tribute to Immortality",
+		"notes": "Originally removed later; Classic availability may differ."
+	},
+	{
+		"id": "crusaders-black-warhorse",
+		"name": "Crusader's Black Warhorse",
+		"expansion": "WotLK",
+		"faction": "Horde",
+		"sourceType": "Achievement",
+		"sourceDetail": "Trial of the Grand Crusader (25) — A Tribute to Immortality",
+		"notes": "Originally removed later; Classic availability may differ."
+	},
+	{
+		"id": "crimson-deathcharger",
+		"name": "Crimson Deathcharger",
+		"expansion": "WotLK",
+		"sourceType": "Quest",
+		"sourceDetail": "Icecrown Citadel — Shadowmourne questline vanity chest (Unsealed Chest)",
+		"zone": "Icecrown",
+		"notes": "One chest per Shadowmourne; tradable to one player."
+	},
+	{
+		"id": "celestial-steed",
+		"name": "Celestial Steed",
+		"expansion": "WotLK",
+		"sourceType": "Promotion",
+		"sourceDetail": "Blizzard Store (2010)",
+		"notes": "Store mount from the Wrath era."
+	},
+	{
+		"id": "x53-touring-rocket",
+		"name": "X-53 Touring Rocket",
+		"expansion": "WotLK",
+		"sourceType": "Promotion",
+		"sourceDetail": "Recruit-A-Friend (two-seat flying mount)",
+		"notes": "Wrath-era RAF reward."
+	},
+	{
+		"id": "big-blizzard-bear",
+		"name": "Big Blizzard Bear",
+		"expansion": "WotLK",
+		"sourceType": "Promotion",
+		"sourceDetail": "BlizzCon 2008 code",
+		"notes": "Promo mount."
+	},
+	{
+		"id": "blazing-hippogryph",
+		"name": "Blazing Hippogryph",
+		"expansion": "WotLK",
+		"sourceType": "TCG",
+		"sourceDetail": "Trading Card Game — Scourgewar",
+		"notes": "TCG promo."
+	},
+	{
+		"id": "magic-rooster",
+		"name": "Magic Rooster",
+		"expansion": "WotLK",
+		"sourceType": "TCG",
+		"sourceDetail": "Trading Card Game — Fields of Honor",
+		"notes": "TCG promo."
+	}
 ]
