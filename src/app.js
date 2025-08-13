@@ -46,13 +46,7 @@ function onToggle(id, checked) {
   if (checked) state.owned[id] = true;
   else delete state.owned[id];
   saveState(state);
-
-  // Update collected status for all mounts
-  MOUNTS.forEach(m => m.collected = !!state.owned[m.id]);
-
-  const ownedCount = Object.keys(state.owned).length;
-  renderProgress(progress, MOUNTS.length, ownedCount);
-  renderExpansionProgress(MOUNTS);
+  applyFilters(); // This will update .collected, the list, and all progress bars
 }
 
 search.addEventListener("input", applyFilters);
