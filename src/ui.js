@@ -52,6 +52,17 @@ export function renderExpansionProgress(container, data, state) {
     expansions[m.expansion].push(m);
   });
 
+  // Helper to get gradient color
+  function getProgressColor(percent) {
+    if (percent === 100) {
+      return '#3498db'; // blue at 100%
+    }
+    // Red to green gradient for 0-99%
+    const r = Math.round(255 * (1 - percent / 100));
+    const g = Math.round(180 * (percent / 100));
+    return `linear-gradient(90deg, rgb(${r},${g},64), rgb(${r},${g},64))`;
+  }
+
   // Clear container
   container.innerHTML = "";
 
@@ -59,10 +70,28 @@ export function renderExpansionProgress(container, data, state) {
   Object.entries(expansions).forEach(([exp, mounts]) => {
     const owned = mounts.filter(m => state.owned[m.id]).length;
     const total = mounts.length;
-    const div = document.createElement("div");
-    div.className = "expansion-progress";
-    div.textContent = `${exp}: ${owned}/${total} (${total ? Math.round(owned/total*100) : 0}%)`;
-    container.append(div);
+    const percent = total ? Math.round((owned / total) * 100) : 0;
+    const color = getProgressColor(percent);
+
+    const wrapper = document.createElement("div");
+    wrapper.className = "expansion-progress-bar-container";
+
+    const label = document.createElement("span");
+    label.className = "expansion-progress-label";
+    label.textContent = `${exp}: ${owned}/${total} (${percent}%)`;
+
+    const bar = document.createElement("div");
+    bar.className = "expansion-progress-bar";
+
+    const barInner = document.createElement("div");
+    barInner.className = "expansion-progress-bar-inner";
+    barInner.style.width = percent + "%";
+    barInner.style.background = color;
+
+    bar.appendChild(barInner);
+    wrapper.appendChild(label);
+    wrapper.appendChild(bar);
+    container.appendChild(wrapper);
   });
 }
 
