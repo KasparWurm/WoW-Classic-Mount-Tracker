@@ -1,1 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Classic → MoP Mount Tracker</title>
+  <link rel="icon" href="public/favicon.ico">
+  <link rel="stylesheet" href="src/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Classic → MoP Mount Tracker</h1>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search mounts…" />
+      <select id="filter-expansion">
+        <option value="">All Expansions</option>
+        <option>Vanilla</option><option>TBC</option><option>WotLK</option>
+        <option>Cata</option><option>MoP</option>
+      </select>
+      <select id="filter-source">
+        <option value="">All Sources</option>
+        <option>Vendor</option><option>Drop</option><option>Quest</option>
+        <option>Achievement</option><option>Reputation</option><option>Profession</option>
+        <option>Event</option><option>Other</option>
+      </select>
+      <button id="export-btn">Export</button>
+      <label class="import">
+        Import <input id="import-file" type="file" accept="application/json" hidden />
+      </label>
+      <button id="reset-btn">Reset</button>
+    </div>
+    <div id="progress"></div>
+  </header>
+
+  <main id="list"></main>
+
+  <footer>
+    <p>Data is community-maintained. This project is not affiliated with Blizzard.</p>
+  </footer>
+
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>
 
