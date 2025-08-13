@@ -240,6 +240,16 @@
     "cost": "90g"
   },
   {
+    "id": "red-skeletal-warhorse",
+    "name": "Red Skeletal Warhorse",
+    "expansion": "Vanilla",
+    "faction": "Horde",
+    "sourceType": "Vendor",
+    "sourceDetail": "PvP vendor – 15 Marks (WSG/AB/AV) + 30g",
+    "npcOrVendor": "Raider Bork",
+    "notes": "Classic PvP reward mount."
+  },
+  {
     "id": "brown-horse",
     "name": "Brown Horse",
     "expansion": "Vanilla",
