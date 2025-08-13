@@ -44,3 +44,25 @@ export function renderProgress(el, total, owned) {
   el.textContent = `Progress: ${owned}/${total} (${total ? Math.round(owned/total*100) : 0}%)`;
 }
 
+export function renderExpansionProgress(container, data, state) {
+  // Group mounts by expansion
+  const expansions = {};
+  data.forEach(m => {
+    if (!expansions[m.expansion]) expansions[m.expansion] = [];
+    expansions[m.expansion].push(m);
+  });
+
+  // Clear container
+  container.innerHTML = "";
+
+  // Render a progress bar for each expansion
+  Object.entries(expansions).forEach(([exp, mounts]) => {
+    const owned = mounts.filter(m => state.owned[m.id]).length;
+    const total = mounts.length;
+    const div = document.createElement("div");
+    div.className = "expansion-progress";
+    div.textContent = `${exp}: ${owned}/${total} (${total ? Math.round(owned/total*100) : 0}%)`;
+    container.append(div);
+  });
+}
+
