@@ -226,7 +226,7 @@
   { "id": "corrupted-fire-hawk", "name": "Corrupted Fire Hawk", "expansion": "Cata", "sourceType": "Achievement", "sourceDetail": "Glory of the Firelands Raider" },
   { "id": "flametalon-of-alysrazor", "name": "Flametalon of Alysrazor", "expansion": "Cata", "sourceType": "Drop", "instance": "Firelands", "zone": "Mount Hyjal", "npcOrVendor": "Alysrazor", "dropRateNote": "Low" },
   { "id": "flameward-hippogryph", "name": "Flameward Hippogryph", "expansion": "Cata", "sourceType": "Vendor", "sourceDetail": "Molten Front - Marks of the World Tree", "zone": "Mount Hyjal" },
-  { "id": "drake-of-the-west-wind", "name": "Drake of the West Wind", "expansion": "Cata", "sourceType": "Vendor", "sourceDetail": "Tol Barad - Commendations (Baradin's Wardens/Hellscream's Reach)", "zone": "Tol Barad" },
+  { "id": "drake-of-the-west-wind", "name": "Drake of the West Wind", "expansion": "Cata", "sourceType": "Vendor", "sourceDetail": "Tol Barad - Commendations (Baradin's Wardens (A)/Hellscream's Reach (H))", "zone": "Tol Barad" },
   { "id": "spectral-steed", "name": "Spectral Steed", "expansion": "Cata", "faction": "Alliance", "sourceType": "Vendor", "sourceDetail": "Tol Barad - Commendations (Baradin's Wardens)", "zone": "Tol Barad" },
   { "id": "spectral-wolf", "name": "Spectral Wolf", "expansion": "Cata", "faction": "Horde", "sourceType": "Vendor", "sourceDetail": "Tol Barad - Commendations (Hellscream's Reach)", "zone": "Tol Barad" },
   { "id": "brown-riding-camel", "name": "Brown Riding Camel", "expansion": "Cata", "sourceType": "Vendor", "sourceDetail": "Ramkahen - Exalted", "zone": "Uldum" },
