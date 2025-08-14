@@ -83,7 +83,7 @@ If unsure, look at a similar mount entry for formatting guidance.
 Planned improvements and features:
 - ~~Expand mount list: Complete Vanilla → MoP Classic coverage.~~
 - ~~Faction/class/profession filters.~~
-- Per-expansion progress bars.
+- ~~Per-expansion progress bars.~~
 - Sorting: By name, expansion, source type.
 - Share progress: Generate a link or JSON to share collections.
 - Offline support: Service worker for no-internet usage.
